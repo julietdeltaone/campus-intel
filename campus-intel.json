@@ -1,0 +1,26 @@
+{
+  "generated_from": "campus-intel-log.md",
+  "event_count": 2,
+  "events": [
+    {
+      "date": "2026-10-05",
+      "school": "suny-canton",
+      "signal": "new_program",
+      "tier": "1",
+      "headline": "SUNY Canton announces new Health Care Studies AAS for Fall 2027 (21st associate degree; first of at least three new programs)",
+      "url": "https://www.canton.edu/news/2026/healthcare.php",
+      "status": "confirmed",
+      "section": "2026-10-05"
+    },
+    {
+      "date": "2026-10-05",
+      "school": "clarkson",
+      "signal": "new_program",
+      "tier": "1",
+      "headline": "Clarkson launching new BS in Neuroscience (interdisciplinary; tracks in cognitive science, neurobiology, computational neuroscience)",
+      "url": "https://www.clarkson.edu/new-neuroscience-major",
+      "status": "confirmed",
+      "section": "2026-10-05"
+    }
+  ]
+}
