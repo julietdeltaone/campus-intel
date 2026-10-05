@@ -1,0 +1,20 @@
+# St. Lawrence University — org chart baseline
+# Source: https://www.stlawu.edu/offices/institutional-research/organizational-chart (fetched 2026-10-05)
+# Page text (verbatim):
+#
+# "The University's organizational chart is updated twice yearly: once in the fall
+#  and once in the spring. Here are the most recent versions of our organizational
+#  chart: To view the detailed chart, you will need to enter your St. Lawrence
+#  username and password when prompted. If you are interested in obtaining a
+#  listing of faculty, please visit the Academic Affairs web site.
+#  - Organizational Chart Overview (stlawu.sharepoint.com) — Spring 2026
+#  - Detailed Organizational Chart (stlawu.sharepoint.com) — Spring 2026 (login required)"
+#
+# VERIFIED LEADERSHIP (from stlawu.edu news content, 2026):
+# - Kate Morris — President (multiple stlawu.edu sources, e.g. 2026 Commencement coverage)
+# - Kim Hissong — Vice President for University Advancement (named in Sep 2026 fundraising article)
+#
+# NOT VERIFIABLE from public pages: provost, other VPs, deans. The detailed org
+# chart sits behind St. Lawrence login on SharePoint; the public overview is a
+# SharePoint document (Spring 2026 edition) not fetchable without login.
+# Chart refresh cadence: twice yearly (fall + spring).
