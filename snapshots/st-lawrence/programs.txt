@@ -1,0 +1,36 @@
+# St. Lawrence University — programs baseline
+# Primary source: SLU Course Catalog 2024-25, "Majors and Minors Offered"
+#   https://www.stlawu.edu/documents/course-catalog-2024-25
+# Current site stat (http://www.stlawu.edu/academics/choosing-major, fetched 2026-10-05):
+#   48 majors, 41 minors, plus multi-field (self-designed) major.
+# Note: https://www.stlawu.edu/academics/majorsandminors (cited in the 2025-26 catalog)
+# returned 404 on 2026-10-05; the 2025-26 catalog itself is only on SLU's staging
+# mirror, so the 2024-25 published catalog is the baseline list source.
+#
+# MAJORS (2024-25 catalog):
+# Anthropology; Art and Art History; Biochemistry; Biology; Biology-Physics;
+# Biomedical Sciences; Business in the Liberal Arts (second major only);
+# Canadian Studies; Chemistry; Computer Science; Conservation Biology;
+# Data Science; Digital Media and Film; Economics; Economics-Mathematics;
+# English; English-Spanish; Environmental Studies; Environmental Studies-Biology;
+# Environmental Studies-Economics; Environmental Studies-English;
+# Environmental Studies-Political Science; Environmental Studies-Mathematics;
+# Environmental Studies-Sociology; Estudios Hispanicos; Finance;
+# Francophone Studies; Geology; Global Studies; History;
+# International Economics-Estudios Hispanicos; International Economics-Francophone Studies;
+# International Economics-Multi-Language; Mathematics; Multi-Language; Music;
+# Neuroscience; Performance and Communication Arts; Philosophy; Physics;
+# Political Science; Pre-Health Chemistry; Psychology; Public Health;
+# Religious Studies; Sociology; Statistics; Self-designed (multi-field).
+#
+# MINORS (2024-25 catalog):
+# African American Studies; African Studies; Anthropology; Arabic Studies;
+# Art and Art History; Asian Studies; Biology; Canadian Studies;
+# Caribbean, Latin American & Latino Studies; Chemistry; Chinese Studies;
+# Computer Science; Data Science; Economics; Education Studies;
+# Education (certification); English; Estudios Hispanicos; European Studies;
+# Film & Representation Studies; Francophone Studies; Gender and Sexuality Studies;
+# Geology; German Studies; Global Studies; History; Italian Studies; Mathematics;
+# Music; Native American Studies; Outdoor Studies; Peace Studies; Philosophy;
+# Physics; Political Science; Public Health; Psychology; Religious Studies;
+# Sociology; Sports Studies & Exercise Science; Statistics.
