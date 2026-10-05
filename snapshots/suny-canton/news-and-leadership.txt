@@ -1,0 +1,13 @@
+# SUNY Canton news index — captured 2026-10-05 from https://www.canton.edu/news/
+Featured stories: (1) "SUNY Canton Joins The Ogdensburg Promise as Founding Campus Partner in New College Access Initiative" (announced Oct 2); (2) "SUNY Canton to Host Annual 'Trunk or Treat' Event" (Oct 30, Parking Lot 5). Note: the Oct 5 Health Care Studies article was NOT on the index page — only in the year archive. The "View news archive" link on the index pointed to an unrelated accommodations portal (canton-accommodate.symplicity.com), not the archive; the year archive lives at https://www.canton.edu/news/2026/.
+# Organizational Chart page — captured 2026-10-05 from https://www.canton.edu/policies/procedures/pres/org-chart/
+Page is text-light; the chart itself is a single image (https://www.canton.edu/media/org-chart.jpg) — names/titles not machine-readable from text. Text states: authority comes from SUNY Board of Trustees and College Council; President is Chief Administrative Officer reporting to the SUNY Chancellor. Links to "SUNY Canton Organizational Chart".
+# College leadership — captured 2026-10-05 from http://www.canton.edu/about/college.html ("College Leadership" section)
+President: Dr. Zvi Szafran. Four divisions led by VPs reporting to the President (page says four; lists five):
+- Provost/Vice President for Academic Affairs: Peggy DeCooke
+- Vice President for Administration/Chief Financial Officer: Eric Shinnick
+- Vice President for Advancement: Geoffrey VanderWoude
+- Vice President for Student Affairs/Dean of Students: Courtney Bish
+- Vice President for Strategic Relations & Communications: Lenore VanderZee
+Also from the Oct 5, 2026 Health Care Studies article: Dean of the School of Science, Health, and Criminal Justice: Michele A. Snyder, Ph.D. (nursing dept chair: Angelina Glover, D.N.P.; vet science tech chair: Dr. Wendy Kuceyeski).
+Fall 2025 enrollment: 2,800 undergraduates. Student-faculty ratio 17:1.
