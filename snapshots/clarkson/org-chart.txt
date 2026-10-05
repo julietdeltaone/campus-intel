@@ -1,0 +1,33 @@
+# Clarkson University — org chart baseline (raw fetch)
+# Source: https://www.clarkson.edu/organizational-chart (fetched 2026-10-05)
+# Migrated from ~/workspace/clarkson-org-chart/snapshots/chart-2026-10-05.txt
+# (original files NOT moved or deleted).
+#
+# The page is a JS-driven directory app; server-side text renders directory image
+# alt-texts (stable per-person IDs) + title strings in document order. No full names.
+# Diff the ID list and title list INDEPENDENTLY — positional pairing is unreliable.
+#
+# PERSON IDS (document order):
+# mlarson, ccapella, kchezum, mcrimi, ddresche, jfiske, kgotsch, bgrant, agrant,
+# jives, lkane, sstandif, jdtaylor, ttreffil
+#
+# TITLES (document order):
+# Executive Director for the Office of the President;
+# Vice President of Government, Corporate & Foundation Relations;
+# Vice President for Research & Innovation;
+# Vice President of Legal Affairs & General Counsel;
+# Vice President for Information Technology & Libraries;
+# Manager of Operations;
+# Vice President for Enrollment & Student Advancement;
+# Vice President for Development & Alumni Relations;
+# Vice President of Financial Affairs;
+# Director of Athletics;
+# Vice President of Academic Affairs;
+# Vice President of Human Resources;
+# Associate Vice President of Institutional Communications & Reputation Strategy
+#
+# NAME MAPPING (verified from clarkson.edu content, not from the chart page):
+# - mlarson = Dr. Michelle B. Larson, President (2025-present; per clarkson.edu
+#   admissions pages: "PRESIDENT: Dr. Michelle B. Larson (2025-Present)").
+# - mcrimi = Michelle Crimi (Dean of the Graduate School, per 2025-26 Graduate Catalog).
+# Other IDs not mapped to names — do not guess.
