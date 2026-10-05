@@ -1,0 +1,2072 @@
+# https://study.clarkson.edu/transferadmissions/
+# fetched 2026-10-05
+
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+		<title>Undergraduate Transfer Admissions &#8211; Discover Clarkson University</title>
+<meta name='robots' content='noindex, nofollow' />
+<link rel='dns-prefetch' href='//study.clarkson.edu' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Discover Clarkson University &raquo; Feed" href="https://study.clarkson.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Discover Clarkson University &raquo; Comments Feed" href="https://study.clarkson.edu/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://study.clarkson.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstudy.clarkson.edu%2Ftransferadmissions%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://study.clarkson.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstudy.clarkson.edu%2Ftransferadmissions%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="wp-block-button-inline-css">
+.wp-block-button__link{align-content:center;box-sizing:border-box;cursor:pointer;display:inline-block;height:100%;text-align:center;word-break:break-word}.wp-block-button__link.aligncenter{text-align:center}.wp-block-button__link.alignright{text-align:right}:where(.wp-block-button__link){border-radius:9999px;box-shadow:none;padding:calc(.667em + 2px) calc(1.333em + 2px);text-decoration:none}.wp-block-button[style*=text-decoration] .wp-block-button__link{text-decoration:inherit}.wp-block-buttons>.wp-block-button.has-custom-width{max-width:none}.wp-block-buttons>.wp-block-button.has-custom-width .wp-block-button__link{width:100%}.wp-block-buttons>.wp-block-button.has-custom-font-size .wp-block-button__link{font-size:inherit}.wp-block-buttons>.wp-block-button[class*=wp-block-button__width]{width:calc(var(--wp--block-button--width)*1% - var(--wp--style--block-gap, .5em)*(1 - var(--wp--block-button--width)/100))}.wp-block-buttons>.wp-block-button.wp-block-button__width-25{width:calc(25% - var(--wp--style--block-gap, .5em)*.75)}.wp-block-buttons>.wp-block-button.wp-block-button__width-50{width:calc(50% - var(--wp--style--block-gap, .5em)*.5)}.wp-block-buttons>.wp-block-button.wp-block-button__width-75{width:calc(75% - var(--wp--style--block-gap, .5em)*.25)}.wp-block-buttons>.wp-block-button.wp-block-button__width-100{flex-basis:100%;width:100%}.wp-block-buttons.is-vertical>.wp-block-button[class*=wp-block-button__width]{width:calc(var(--wp--block-button--width)*1%)}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-25{width:25%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-50{width:50%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-75{width:75%}.wp-block-button.is-style-squared,.wp-block-button__link.wp-block-button.is-style-squared{border-radius:0}.wp-block-button.no-border-radius,.wp-block-button__link.no-border-radius{border-radius:0!important}:root :where(.wp-block-button .wp-block-button__link.is-style-outline),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link){border:2px solid;padding:.667em 1.333em}:root :where(.wp-block-button .wp-block-button__link.is-style-outline:not(.has-text-color)),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-text-color)){color:currentColor}:root :where(.wp-block-button .wp-block-button__link.is-style-outline:not(.has-background)),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-background)){background-color:transparent;background-image:none}
+/*# sourceURL=https://study.clarkson.edu/wp-includes/blocks/button/style.min.css */
+</style>
+<style id="wp-block-heading-inline-css">
+h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+/*# sourceURL=https://study.clarkson.edu/wp-includes/blocks/heading/style.min.css */
+</style>
+<style id="wp-block-image-inline-css">
+.wp-block-image>a,.wp-block-image>figure>a{display:inline-block}.wp-block-image img{box-sizing:border-box;height:auto;max-width:100%;vertical-align:bottom}@media not (prefers-reduced-motion){.wp-block-image img.hide{visibility:hidden}.wp-block-image img.show{animation:show-content-image .4s}}.wp-block-image[style*=border-radius] img,.wp-block-image[style*=border-radius]>a{border-radius:inherit}.wp-block-image.has-custom-border img{box-sizing:border-box}.wp-block-image.aligncenter{text-align:center}.wp-block-image.alignfull>a,.wp-block-image.alignwide>a{width:100%}.wp-block-image.alignfull img,.wp-block-image.alignwide img{height:auto;width:100%}.wp-block-image .aligncenter,.wp-block-image .alignleft,.wp-block-image .alignright,.wp-block-image.aligncenter,.wp-block-image.alignleft,.wp-block-image.alignright{display:table}.wp-block-image .aligncenter>figcaption,.wp-block-image .alignleft>figcaption,.wp-block-image .alignright>figcaption,.wp-block-image.aligncenter>figcaption,.wp-block-image.alignleft>figcaption,.wp-block-image.alignright>figcaption{caption-side:bottom;display:table-caption}.wp-block-image .alignleft{float:left;margin:.5em 1em .5em 0}.wp-block-image .alignright{float:right;margin:.5em 0 .5em 1em}.wp-block-image .aligncenter{margin-left:auto;margin-right:auto}.wp-block-image :where(figcaption){margin-bottom:1em;margin-top:.5em}.wp-block-image.is-style-circle-mask img{border-radius:9999px}@supports ((-webkit-mask-image:none) or (mask-image:none)) or (-webkit-mask-image:none){.wp-block-image.is-style-circle-mask img{border-radius:0;-webkit-mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-mode:alpha;-webkit-mask-position:center;mask-position:center;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;-webkit-mask-size:contain;mask-size:contain}}:root :where(.wp-block-image.is-style-rounded img,.wp-block-image .is-style-rounded img){border-radius:9999px}.wp-block-image figure{margin:0}.wp-lightbox-container{display:flex;flex-direction:column;position:relative}.wp-lightbox-container img{cursor:zoom-in}.wp-lightbox-container img:hover+button{opacity:1}.wp-lightbox-container button{align-items:center;backdrop-filter:blur(16px) saturate(180%);background-color:rgba(90,90,90,.25);border:none;border-radius:4px;cursor:zoom-in;display:flex;height:20px;justify-content:center;opacity:0;padding:0;position:absolute;right:16px;text-align:center;top:16px;width:20px;z-index:100}@media not (prefers-reduced-motion){.wp-lightbox-container button{transition:opacity .2s ease}}.wp-lightbox-container button:focus-visible{outline:3px auto rgba(90,90,90,.25);outline:3px auto -webkit-focus-ring-color;outline-offset:3px}.wp-lightbox-container button:hover{cursor:pointer;opacity:1}.wp-lightbox-container button:focus{opacity:1}.wp-lightbox-container button:focus,.wp-lightbox-container button:hover,.wp-lightbox-container button:not(:hover):not(:active):not(.has-background){background-color:rgba(90,90,90,.25);border:none}.wp-lightbox-overlay{box-sizing:border-box;cursor:zoom-out;height:100vh;left:0;overflow:hidden;position:fixed;top:0;visibility:hidden;width:100%;z-index:100000}.wp-lightbox-overlay .wp-lightbox-close-button{align-items:center;cursor:pointer;display:flex;font-family:inherit;gap:8px;justify-content:center;line-height:1;min-height:40px;min-width:40px;padding:0 4px;position:absolute;right:calc(env(safe-area-inset-right) + 16px);top:calc(env(safe-area-inset-top) + 16px);z-index:5000000}.wp-lightbox-overlay .wp-lightbox-close-button:focus,.wp-lightbox-overlay .wp-lightbox-close-button:hover,.wp-lightbox-overlay .wp-lightbox-close-button:not(:hover):not(:active):not(.has-background){background:none;border:none}.wp-lightbox-overlay .wp-lightbox-close-button:has(.wp-lightbox-close-text:not([hidden])) .wp-lightbox-close-icon svg{height:1em;width:1em}.wp-lightbox-overlay .wp-lightbox-close-icon svg{display:block}.wp-lightbox-overlay .wp-lightbox-navigation-button-next,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev{align-items:center;bottom:16px;cursor:pointer;display:flex;font-family:inherit;gap:4px;justify-content:center;line-height:1;min-height:40px;min-width:40px;padding:0 8px;position:absolute;z-index:2000002}.wp-lightbox-overlay .wp-lightbox-navigation-button-next[hidden],.wp-lightbox-overlay .wp-lightbox-navigation-button-prev[hidden]{display:none}@media (min-width:960px){.wp-lightbox-overlay .wp-lightbox-navigation-button-next,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev{bottom:50%;transform:translateY(-50%)}}.wp-lightbox-overlay .wp-lightbox-navigation-button-next:focus,.wp-lightbox-overlay .wp-lightbox-navigation-button-next:hover,.wp-lightbox-overlay .wp-lightbox-navigation-button-next:not(:hover):not(:active):not(.has-background),.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:focus,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:hover,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:not(:hover):not(:active):not(.has-background){background:none;border:none;padding:0 8px}.wp-lightbox-overlay .wp-lightbox-navigation-button-next:has(.wp-lightbox-navigation-text:not([hidden])) .wp-lightbox-navigation-icon svg,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:has(.wp-lightbox-navigation-text:not([hidden])) .wp-lightbox-navigation-icon svg{display:block;height:1.5em;width:1.5em}.wp-lightbox-overlay .wp-lightbox-navigation-button-prev{left:calc(env(safe-area-inset-left) + 16px)}.wp-lightbox-overlay .wp-lightbox-navigation-button-next{right:calc(env(safe-area-inset-right) + 16px)}.wp-lightbox-overlay .wp-lightbox-navigation-icon svg{vertical-align:middle}.wp-lightbox-overlay .lightbox-image-container{height:var(--wp--lightbox-container-height);left:50%;overflow:hidden;position:absolute;top:50%;transform:translate(-50%,-50%);transform-origin:top left;width:var(--wp--lightbox-container-width);z-index:2000001}.wp-lightbox-overlay .wp-block-image{align-items:center;box-sizing:border-box;display:flex;height:100%;justify-content:center;margin:0;position:relative;transform-origin:0 0;width:100%;z-index:3000000}.wp-lightbox-overlay .wp-block-image img{height:var(--wp--lightbox-image-height);min-height:var(--wp--lightbox-image-height);min-width:var(--wp--lightbox-image-width);width:var(--wp--lightbox-image-width)}.wp-lightbox-overlay .wp-block-image figcaption{display:none}.wp-lightbox-overlay button{background:none;border:none}.wp-lightbox-overlay .scrim{background-color:#fff;height:100%;opacity:.9;position:absolute;width:100%;z-index:2000000}.wp-lightbox-overlay.active{visibility:visible}@media not (prefers-reduced-motion){.wp-lightbox-overlay.active{animation:turn-on-visibility .25s both}.wp-lightbox-overlay.active img{animation:turn-on-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active){animation:turn-off-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active) img{animation:turn-off-visibility .25s both}.wp-lightbox-overlay.zoom.active{animation:none;opacity:1;visibility:visible}.wp-lightbox-overlay.zoom.active .lightbox-image-container{animation:lightbox-zoom-in .4s}.wp-lightbox-overlay.zoom.active .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.active .scrim{animation:turn-on-visibility .4s forwards}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active){animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container{animation:lightbox-zoom-out .4s}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .scrim{animation:turn-off-visibility .4s forwards}}@keyframes show-content-image{0%{visibility:hidden}99%{visibility:hidden}to{visibility:visible}}@keyframes turn-on-visibility{0%{opacity:0}to{opacity:1}}@keyframes turn-off-visibility{0%{opacity:1;visibility:visible}99%{opacity:0;visibility:visible}to{opacity:0;visibility:hidden}}@keyframes lightbox-zoom-in{0%{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale))}to{transform:translate(-50%,-50%) scale(1)}}@keyframes lightbox-zoom-out{0%{transform:translate(-50%,-50%) scale(1);visibility:visible}99%{visibility:visible}to{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale));visibility:hidden}}
+/*# sourceURL=https://study.clarkson.edu/wp-includes/blocks/image/style.min.css */
+</style>
+<style id="wp-block-list-inline-css">
+ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:1.25em 2.375em}
+/*# sourceURL=https://study.clarkson.edu/wp-includes/blocks/list/style.min.css */
+</style>
+<style id="wp-block-paragraph-inline-css">
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://study.clarkson.edu/wp-includes/blocks/paragraph/style.min.css */
+</style>
+<style id="wp-block-buttons-inline-css">
+.wp-block-buttons{box-sizing:border-box}.wp-block-buttons.is-vertical{flex-direction:column}.wp-block-buttons.is-vertical>.wp-block-button:last-child{margin-bottom:0}.wp-block-buttons>.wp-block-button{display:inline-block;margin:0}.wp-block-buttons.is-content-justification-left{justify-content:flex-start}.wp-block-buttons.is-content-justification-left.is-vertical{align-items:flex-start}.wp-block-buttons.is-content-justification-center{justify-content:center}.wp-block-buttons.is-content-justification-center.is-vertical{align-items:center}.wp-block-buttons.is-content-justification-right{justify-content:flex-end}.wp-block-buttons.is-content-justification-right.is-vertical{align-items:flex-end}.wp-block-buttons.is-content-justification-space-between{justify-content:space-between}.wp-block-buttons.aligncenter{text-align:center}.wp-block-buttons:not(.is-content-justification-space-between,.is-content-justification-right,.is-content-justification-left,.is-content-justification-center) .wp-block-button.aligncenter{margin-left:auto;margin-right:auto;width:100%}.wp-block-buttons[style*=text-decoration] .wp-block-button,.wp-block-buttons[style*=text-decoration] .wp-block-button__link{text-decoration:inherit}.wp-block-buttons.has-custom-font-size .wp-block-button__link{font-size:inherit}.wp-block-buttons .wp-block-button__link{width:100%}.wp-block-button.aligncenter{text-align:center}
+/*# sourceURL=https://study.clarkson.edu/wp-includes/blocks/buttons/style.min.css */
+</style>
+<style id="wp-block-columns-inline-css">
+.wp-block-columns{box-sizing:border-box;display:flex;flex-wrap:wrap!important}@media (min-width:782px){.wp-block-columns{flex-wrap:nowrap!important}}.wp-block-columns{align-items:normal!important}.wp-block-columns.are-vertically-aligned-top{align-items:flex-start}.wp-block-columns.are-vertically-aligned-center{align-items:center}.wp-block-columns.are-vertically-aligned-bottom{align-items:flex-end}@media (max-width:781px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:100%!important}}@media (min-width:782px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column[style*=flex-basis]{flex-grow:0}}.wp-block-columns.is-not-stacked-on-mobile{flex-wrap:nowrap!important}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column[style*=flex-basis]{flex-grow:0}:where(.wp-block-columns){margin-bottom:1.75em}:where(.wp-block-columns.has-background){padding:1.25em 2.375em}.wp-block-column{flex-grow:1;min-width:0;overflow-wrap:break-word;word-break:break-word}.wp-block-column.is-vertically-aligned-top{align-self:flex-start}.wp-block-column.is-vertically-aligned-center{align-self:center}.wp-block-column.is-vertically-aligned-bottom{align-self:flex-end}.wp-block-column.is-vertically-aligned-stretch{align-self:stretch}.wp-block-column.is-vertically-aligned-bottom,.wp-block-column.is-vertically-aligned-center,.wp-block-column.is-vertically-aligned-top{width:100%}
+/*# sourceURL=https://study.clarkson.edu/wp-includes/blocks/columns/style.min.css */
+</style>
+<style id="wp-block-group-inline-css">
+.wp-block-group{box-sizing:border-box}:where(.wp-block-group.wp-block-group-is-layout-constrained){position:relative}
+/*# sourceURL=https://study.clarkson.edu/wp-includes/blocks/group/style.min.css */
+</style>
+<style id="wp-block-spacer-inline-css">
+.wp-block-spacer{clear:both}
+/*# sourceURL=https://study.clarkson.edu/wp-includes/blocks/spacer/style.min.css */
+</style>
+
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="otter-accordion-style-inline-css">
+.wp-block-themeisle-blocks-accordion{margin:20px auto;--title-color: initial;--title-background: initial;--content-background: initial;--border-width: 1px;--border-style: solid;--border-color: currentColor;--box-shadow: none;--padding: 18px 24px 18px 24px;--padding-tablet: var( --padding );--padding-mobile: var( --padding-tablet )}.wp-block-themeisle-blocks-accordion.has-dark-title-bg>.wp-block-themeisle-blocks-accordion-item>.wp-block-themeisle-blocks-accordion-item__title,.wp-block-themeisle-blocks-accordion.has-dark-active-title-bg>.wp-block-themeisle-blocks-accordion-item[open]>.wp-block-themeisle-blocks-accordion-item__title{color:var(--title-color, var(--nv-text-dark-bg, #fff))}.wp-block-themeisle-blocks-accordion.has-light-title-bg>.wp-block-themeisle-blocks-accordion-item>.wp-block-themeisle-blocks-accordion-item__title,.wp-block-themeisle-blocks-accordion.has-light-active-title-bg>.wp-block-themeisle-blocks-accordion-item[open]>.wp-block-themeisle-blocks-accordion-item__title{color:var(--title-color, var(--nv-text-color, #000))}.wp-block-themeisle-blocks-accordion.has-dark-content-bg .wp-block-themeisle-blocks-accordion-item__content{color:var(--text-color, var(--nv-text-dark-bg, #fff))}.wp-block-themeisle-blocks-accordion.has-light-content-bg .wp-block-themeisle-blocks-accordion-item__content{color:var(--text-color, var(--nv-text-color, #000))}.wp-block-themeisle-blocks-accordion-item{box-shadow:var(--box-shadow);margin:var(--gap) 0}.wp-block-themeisle-blocks-accordion-item__title{position:relative;z-index:2;color:var(--title-color);background:var(--title-background);padding:var(--padding);list-style:none;cursor:pointer;user-select:none;display:grid;grid-template-columns:auto min-content;align-items:center}.wp-block-themeisle-blocks-accordion .wp-block-themeisle-blocks-accordion-item__title>*{margin:0}.wp-block-themeisle-blocks-accordion-item__title svg{width:24px;height:24px}.wp-block-themeisle-blocks-accordion-item__title::-webkit-details-marker,.wp-block-themeisle-blocks-accordion-item__title::marker{display:none}@media(max-width: 960px){.wp-block-themeisle-blocks-accordion-item__title{padding:var(--padding-tablet)}}@media(max-width: 600px){.wp-block-themeisle-blocks-accordion-item__title{padding:var(--padding-mobile)}}.wp-block-themeisle-blocks-accordion-item__content{position:relative;z-index:2;background:var(--content-background);padding:var(--padding)}.wp-block-themeisle-blocks-accordion-item__content>p:last-child{margin-bottom:0}@media(max-width: 960px){.wp-block-themeisle-blocks-accordion-item__content{padding:var(--padding-tablet)}}@media(max-width: 600px){.wp-block-themeisle-blocks-accordion-item__content{padding:var(--padding-mobile)}}.wp-block-themeisle-blocks-accordion:not(.is-style-default) .wp-block-themeisle-blocks-accordion-item__title{border:var(--border-width) var(--border-style) var(--border-color)}.wp-block-themeisle-blocks-accordion:not(.is-style-default) .wp-block-themeisle-blocks-accordion-item__content{border:var(--border-width) var(--border-style) var(--border-color);border-top:none}.wp-block-themeisle-blocks-accordion:not(.is-style-default).no-gap>.wp-block-themeisle-blocks-accordion-item:not(:first-child)>.wp-block-themeisle-blocks-accordion-item__title,.wp-block-themeisle-blocks-accordion:not(.is-style-default):not(.is-narrow-gap):not(.is-wide-gap):not(.is-wider-gap):not(.has-gap)>.wp-block-themeisle-blocks-accordion-item:not(:first-child)>.wp-block-themeisle-blocks-accordion-item__title{border-top:none}.wp-block-themeisle-blocks-accordion.is-style-default>.wp-block-themeisle-blocks-accordion-item>.wp-block-themeisle-blocks-accordion-item__title{border-top:var(--border-width) var(--border-style) var(--border-color)}.wp-block-themeisle-blocks-accordion.is-style-default>.wp-block-themeisle-blocks-accordion-item:last-child:not([open]):not(.is-open)>.wp-block-themeisle-blocks-accordion-item__title{border-bottom:var(--border-width) var(--border-style) var(--border-color)}.wp-block-themeisle-blocks-accordion.is-style-default>.wp-block-themeisle-blocks-accordion-item:last-child>.wp-block-themeisle-blocks-accordion-item__content{border-bottom:var(--border-width) var(--border-style) var(--border-color)}.wp-block-themeisle-blocks-accordion.is-narrow-gap>.wp-block-themeisle-blocks-accordion-item{margin:5px 0}.wp-block-themeisle-blocks-accordion.is-wide-gap>.wp-block-themeisle-blocks-accordion-item{margin:10px 0}.wp-block-themeisle-blocks-accordion.is-wider-gap>.wp-block-themeisle-blocks-accordion-item{margin:20px 0}.wp-block-themeisle-blocks-accordion.icon-first>.wp-block-themeisle-blocks-accordion-item>.wp-block-themeisle-blocks-accordion-item__title{display:flex;flex-direction:row-reverse;justify-content:flex-end;gap:24px}.wp-block-themeisle-blocks-accordion:not(.has-icon)>.wp-block-themeisle-blocks-accordion-item:not([open])>.wp-block-themeisle-blocks-accordion-item__title::after,.wp-block-themeisle-blocks-accordion:not(.has-open-icon)>.wp-block-themeisle-blocks-accordion-item[open]>.wp-block-themeisle-blocks-accordion-item__title::after{content:"";justify-self:end;align-self:center;border-right:2px solid currentColor;border-bottom:2px solid currentColor;width:8px;height:8px;flex-shrink:0}.wp-block-themeisle-blocks-accordion:not(.has-icon)>.wp-block-themeisle-blocks-accordion-item:not([open])>.wp-block-themeisle-blocks-accordion-item__title::after{transform:rotate(45deg) translate(-25%, 0%)}.wp-block-themeisle-blocks-accordion:not(.has-open-icon)>.wp-block-themeisle-blocks-accordion-item[open]>.wp-block-themeisle-blocks-accordion-item__title::after{transform:rotate(225deg) translate(0%, -45%)}/*# sourceMappingURL=style.css.map */
+
+/*# sourceURL=https://study.clarkson.edu/wp-content/plugins/otter-blocks/build/blocks/accordion/style.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--neve-link-color: var(--nv-primary-accent);--wp--preset--color--neve-link-hover-color: var(--nv-secondary-accent);--wp--preset--color--nv-site-bg: var(--nv-site-bg);--wp--preset--color--nv-light-bg: var(--nv-light-bg);--wp--preset--color--nv-dark-bg: var(--nv-dark-bg);--wp--preset--color--neve-text-color: var(--nv-text-color);--wp--preset--color--nv-text-dark-bg: var(--nv-text-dark-bg);--wp--preset--color--nv-c-1: var(--nv-c-1);--wp--preset--color--nv-c-2: var(--nv-c-2);--wp--preset--color--custom-1: var(--custom-1);--wp--preset--color--custom-2: var(--custom-2);--wp--preset--color--custom-3: var(--custom-3);--wp--preset--color--custom-4: var(--custom-4);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-neve-link-color-color{color: var(--wp--preset--color--neve-link-color) !important;}.has-neve-link-hover-color-color{color: var(--wp--preset--color--neve-link-hover-color) !important;}.has-nv-site-bg-color{color: var(--wp--preset--color--nv-site-bg) !important;}.has-nv-light-bg-color{color: var(--wp--preset--color--nv-light-bg) !important;}.has-nv-dark-bg-color{color: var(--wp--preset--color--nv-dark-bg) !important;}.has-neve-text-color-color{color: var(--wp--preset--color--neve-text-color) !important;}.has-nv-text-dark-bg-color{color: var(--wp--preset--color--nv-text-dark-bg) !important;}.has-nv-c-1-color{color: var(--wp--preset--color--nv-c-1) !important;}.has-nv-c-2-color{color: var(--wp--preset--color--nv-c-2) !important;}.has-custom-1-color{color: var(--wp--preset--color--custom-1) !important;}.has-custom-2-color{color: var(--wp--preset--color--custom-2) !important;}.has-custom-3-color{color: var(--wp--preset--color--custom-3) !important;}.has-custom-4-color{color: var(--wp--preset--color--custom-4) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-neve-link-color-background-color{background-color: var(--wp--preset--color--neve-link-color) !important;}.has-neve-link-hover-color-background-color{background-color: var(--wp--preset--color--neve-link-hover-color) !important;}.has-nv-site-bg-background-color{background-color: var(--wp--preset--color--nv-site-bg) !important;}.has-nv-light-bg-background-color{background-color: var(--wp--preset--color--nv-light-bg) !important;}.has-nv-dark-bg-background-color{background-color: var(--wp--preset--color--nv-dark-bg) !important;}.has-neve-text-color-background-color{background-color: var(--wp--preset--color--neve-text-color) !important;}.has-nv-text-dark-bg-background-color{background-color: var(--wp--preset--color--nv-text-dark-bg) !important;}.has-nv-c-1-background-color{background-color: var(--wp--preset--color--nv-c-1) !important;}.has-nv-c-2-background-color{background-color: var(--wp--preset--color--nv-c-2) !important;}.has-custom-1-background-color{background-color: var(--wp--preset--color--custom-1) !important;}.has-custom-2-background-color{background-color: var(--wp--preset--color--custom-2) !important;}.has-custom-3-background-color{background-color: var(--wp--preset--color--custom-3) !important;}.has-custom-4-background-color{background-color: var(--wp--preset--color--custom-4) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-neve-link-color-border-color{border-color: var(--wp--preset--color--neve-link-color) !important;}.has-neve-link-hover-color-border-color{border-color: var(--wp--preset--color--neve-link-hover-color) !important;}.has-nv-site-bg-border-color{border-color: var(--wp--preset--color--nv-site-bg) !important;}.has-nv-light-bg-border-color{border-color: var(--wp--preset--color--nv-light-bg) !important;}.has-nv-dark-bg-border-color{border-color: var(--wp--preset--color--nv-dark-bg) !important;}.has-neve-text-color-border-color{border-color: var(--wp--preset--color--neve-text-color) !important;}.has-nv-text-dark-bg-border-color{border-color: var(--wp--preset--color--nv-text-dark-bg) !important;}.has-nv-c-1-border-color{border-color: var(--wp--preset--color--nv-c-1) !important;}.has-nv-c-2-border-color{border-color: var(--wp--preset--color--nv-c-2) !important;}.has-custom-1-border-color{border-color: var(--wp--preset--color--custom-1) !important;}.has-custom-2-border-color{border-color: var(--wp--preset--color--custom-2) !important;}.has-custom-3-border-color{border-color: var(--wp--preset--color--custom-3) !important;}.has-custom-4-border-color{border-color: var(--wp--preset--color--custom-4) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='neve-style-css' href='https://study.clarkson.edu/wp-content/themes/neve/style-main-new.min.css?ver=4.2.13' media='all' />
+<style id="neve-style-inline-css">
+.is-menu-sidebar .header-menu-sidebar { visibility: visible; }.is-menu-sidebar.menu_sidebar_slide_left .header-menu-sidebar { transform: translate3d(0, 0, 0); left: 0; }.is-menu-sidebar.menu_sidebar_slide_right .header-menu-sidebar { transform: translate3d(0, 0, 0); right: 0; }.is-menu-sidebar.menu_sidebar_pull_right .header-menu-sidebar, .is-menu-sidebar.menu_sidebar_pull_left .header-menu-sidebar { transform: translateX(0); }.is-menu-sidebar.menu_sidebar_dropdown .header-menu-sidebar { height: auto; }.is-menu-sidebar.menu_sidebar_dropdown .header-menu-sidebar-inner { max-height: 400px; padding: 20px 0; }.is-menu-sidebar.menu_sidebar_full_canvas .header-menu-sidebar { opacity: 1; }.header-menu-sidebar .menu-item-nav-search:not(.floating) { pointer-events: none; }.header-menu-sidebar .menu-item-nav-search .is-menu-sidebar { pointer-events: unset; }@media screen and (max-width: 960px) { .builder-item.cr .item--inner { --textalign: center; --justify: center; } }
+.nv-meta-list li.meta:not(:last-child):after { content:"/" }.nv-meta-list .no-mobile{
+			display:none;
+		}.nv-meta-list li.last::after{
+			content: ""!important;
+		}@media (min-width: 769px) {
+			.nv-meta-list .no-mobile {
+				display: inline-block;
+			}
+			.nv-meta-list li.last:not(:last-child)::after {
+		 		content: "/" !important;
+			}
+		}
+ :root{ --container: 748px;--postwidth:100%; --primarybtnbg: var(--nv-primary-accent); --secondarybtnbg: var(--nv-text-dark-bg); --primarybtnhoverbg: var(--custom-4); --secondarybtnhoverbg: var(--custom-4); --primarybtncolor: var(--nv-text-dark-bg); --secondarybtncolor: var(--nv-text-color); --primarybtnhovercolor: var(--nv-primary-accent); --secondarybtnhovercolor: var(--nv-primary-accent);--primarybtnborderradius:0;--secondarybtnborderradius:0;--btnpadding:12px 24px;--primarybtnpadding:12px 24px;--secondarybtnpadding:12px 24px; --btnfs: 14px; --btnlineheight: 1.6em; --btntexttransform: none; --btnfontweight: 700; --bodyfontfamily: Montserrat; --bodyfontsize: 16px; --bodylineheight: 1.7em; --bodyletterspacing: 0px; --bodyfontweight: 500; --bodytexttransform: none; --h1fontsize: 39px; --h1fontweight: 700; --h1lineheight: 1.2em; --h1letterspacing: 0px; --h1texttransform: none; --h2fontsize: 28px; --h2fontweight: 700; --h2lineheight: 1.3em; --h2letterspacing: 0px; --h2texttransform: none; --h3fontsize: 20px; --h3fontweight: 700; --h3lineheight: 1.3em; --h3letterspacing: 0px; --h3texttransform: none; --h4fontsize: 16px; --h4fontweight: 700; --h4lineheight: 1.3em; --h4letterspacing: 0px; --h4texttransform: none; --h5fontsize: 14px; --h5fontweight: 700; --h5lineheight: 1.3em; --h5letterspacing: 0px; --h5texttransform: none; --h6fontsize: 14px; --h6fontweight: 700; --h6lineheight: 1.3em; --h6letterspacing: 0px; --h6texttransform: none;--formfieldborderwidth:2px;--formfieldborderradius:0; --formfieldbgcolor: var(--nv-site-bg); --formfieldbordercolor: var(--nv-light-bg); --formfieldcolor: var(--nv-text-color);--formfieldpadding:10px 12px 10px 12px;; } .nv-index-posts{ --borderradius:0px; } .single-post-container .alignfull > [class*="__inner-container"], .single-post-container .alignwide > [class*="__inner-container"]{ max-width:718px } .nv-meta-list{ --avatarsize: 20px; } .single .nv-meta-list{ --avatarsize: 20px; } .blog .blog-entry-title, .archive .blog-entry-title{ --fontsize: 28px; } .single h1.entry-title{ --fontsize: 28px; } .neve-main{ --boxshadow:0 3px 6px -5px rgba(0, 0, 0, 0.1), 0 4px 8px rgba(0, 0, 0, 0.1); } .nv-post-cover{ --height: 250px;--padding:40px 15px;--justify: flex-start; --textalign: left; --valign: center; } .nv-post-cover .nv-title-meta-wrap, .nv-page-title-wrap, .entry-header{ --textalign: left; } .nv-is-boxed.nv-title-meta-wrap{ --padding:40px 15px; --bgcolor: var(--custom-4); } .nv-overlay{ --opacity: 50; --blendmode: normal; } .nv-is-boxed.nv-comments-wrap{ --padding:20px; } .nv-is-boxed.comment-respond{ --padding:20px; } .single:not(.single-product), .page{ --c-vspace:0 0 0 0;; } .scroll-to-top{ --color: var(--nv-text-dark-bg);--padding:8px 10px; --borderradius: 3px; --bgcolor: var(--nv-primary-accent); --hovercolor: var(--nv-text-dark-bg); --hoverbgcolor: var(--nv-primary-accent);--size:16px; } .global-styled{ --bgcolor: var(--nv-site-bg); } .header-top{ --rowbcolor: var(--nv-light-bg); --color: var(--nv-text-color); --bgcolor: #f0f0f0; } .header-main{ --rowbcolor: var(--nv-light-bg); --color: var(--nv-text-color); --bgcolor: var(--nv-site-bg); } .header-bottom{ --rowbcolor: var(--nv-light-bg); --color: var(--nv-text-color); --bgcolor: #ffffff; } .builder-item--logo{ --maxwidth: 130px; --fs: 24px;--padding:10px 0;--margin:0; --textalign: left;--justify: flex-start; } .builder-item--primary-menu{ --color: var(--nv-dark-bg); --hovercolor: var(--custom-3); --hovertextcolor: var(--nv-text-color); --activecolor: #0a1d1b; --spacing: 20px; --height: 25px;--padding:0;--margin:0; --fontsize: 1em; --lineheight: 1.6em; --letterspacing: 0px; --fontweight: 700; --texttransform: capitalize; --iconsize: 1em; } .hfg-is-group.has-primary-menu .inherit-ff{ --inheritedfw: 700; } .footer-top-inner .row{ grid-template-columns:1fr; --valign: flex-start; } .footer-top{ --rowbwidth:0px; --rowbcolor: var(--nv-dark-bg); --color: var(--nv-text-color); --bgcolor: #ffffff; } .footer-main-inner .row{ grid-template-columns:1fr; --valign: flex-start; } .footer-main{ --rowbwidth:0px; --rowbcolor: var(--nv-primary-accent); --color: var(--nv-text-color); --bgcolor: var(--nv-site-bg); } .footer-bottom-inner .row{ grid-template-columns:1fr; --valign: flex-start; } .footer-bottom{ --rowbcolor: var(--nv-light-bg); --color: var(--nv-text-color); --bgcolor: var(--nv-light-bg); } .builder-item--footer-one-widgets{ --padding:0;--margin:0; --textalign: left;--justify: flex-start; } .builder-item--footer-two-widgets{ --padding:0;--margin:0; --textalign: left;--justify: flex-start; } .builder-item--footer-three-widgets{ --padding:0;--margin:0; --textalign: left;--justify: flex-start; } @media(min-width: 576px){ :root{ --container: 992px;--postwidth:50%;--btnpadding:12px 24px;--primarybtnpadding:12px 24px;--secondarybtnpadding:12px 24px; --btnfs: 14px; --btnlineheight: 1.6em; --bodyfontsize: 16px; --bodylineheight: 1.7em; --bodyletterspacing: 0px; --h1fontsize: 55px; --h1lineheight: 1.3em; --h1letterspacing: 0px; --h2fontsize: 34px; --h2lineheight: 1.3em; --h2letterspacing: 0px; --h3fontsize: 20px; --h3lineheight: 1.3em; --h3letterspacing: 0px; --h4fontsize: 16px; --h4lineheight: 1.3em; --h4letterspacing: 0px; --h5fontsize: 14px; --h5lineheight: 1.3em; --h5letterspacing: 0px; --h6fontsize: 14px; --h6lineheight: 1.3em; --h6letterspacing: 0px; } .single-post-container .alignfull > [class*="__inner-container"], .single-post-container .alignwide > [class*="__inner-container"]{ max-width:962px } .nv-meta-list{ --avatarsize: 20px; } .single .nv-meta-list{ --avatarsize: 20px; } .blog .blog-entry-title, .archive .blog-entry-title{ --fontsize: 32px; } .single h1.entry-title{ --fontsize: 40px; } .nv-post-cover{ --height: 320px;--padding:60px 30px;--justify: flex-start; --textalign: left; --valign: center; } .nv-post-cover .nv-title-meta-wrap, .nv-page-title-wrap, .entry-header{ --textalign: left; } .nv-is-boxed.nv-title-meta-wrap{ --padding:60px 30px; } .nv-is-boxed.nv-comments-wrap{ --padding:30px; } .nv-is-boxed.comment-respond{ --padding:30px; } .single:not(.single-product), .page{ --c-vspace:0 0 0 0;; } .scroll-to-top{ --padding:8px 10px;--size:16px; } .builder-item--logo{ --maxwidth: 32px; --fs: 24px;--padding:10px 0;--margin:0; --textalign: left;--justify: flex-start; } .builder-item--primary-menu{ --spacing: 20px; --height: 25px;--padding:0;--margin:0; --fontsize: 1em; --lineheight: 1.6em; --letterspacing: 0px; --iconsize: 1em; } .footer-top{ --rowbwidth:0px; } .footer-main{ --rowbwidth:0px; } .builder-item--footer-one-widgets{ --padding:0;--margin:0; --textalign: left;--justify: flex-start; } .builder-item--footer-two-widgets{ --padding:0;--margin:0; --textalign: left;--justify: flex-start; } .builder-item--footer-three-widgets{ --padding:0;--margin:0; --textalign: left;--justify: flex-start; } }@media(min-width: 960px){ :root{ --container: 1170px;--postwidth:50%;--btnpadding:12px 24px;--primarybtnpadding:12px 24px;--secondarybtnpadding:12px 24px; --btnfs: 1rem; --btnlineheight: 1.1em; --bodyfontsize: 1rem; --bodylineheight: 1.7em; --bodyletterspacing: 0px; --h1fontsize: 43px; --h1lineheight: 1.1em; --h1letterspacing: 0px; --h2fontsize: 2.25rem; --h2lineheight: 1.1em; --h2letterspacing: 0px; --h3fontsize: 1.75rem; --h3lineheight: 1.1em; --h3letterspacing: 0px; --h4fontsize: 1.375rem; --h4lineheight: 1.1em; --h4letterspacing: 0px; --h5fontsize: 1.25rem; --h5lineheight: 1.1em; --h5letterspacing: 0px; --h6fontsize: 1.0rem; --h6lineheight: 1.1em; --h6letterspacing: 0px; } body:not(.single):not(.archive):not(.blog):not(.search):not(.error404) .neve-main > .container .col, body.post-type-archive-course .neve-main > .container .col, body.post-type-archive-llms_membership .neve-main > .container .col{ max-width: 100%; } body:not(.single):not(.archive):not(.blog):not(.search):not(.error404) .nv-sidebar-wrap, body.post-type-archive-course .nv-sidebar-wrap, body.post-type-archive-llms_membership .nv-sidebar-wrap{ max-width: 0%; } .neve-main > .archive-container .nv-index-posts.col{ max-width: 100%; } .neve-main > .archive-container .nv-sidebar-wrap{ max-width: 0%; } .neve-main > .single-post-container .nv-single-post-wrap.col{ max-width: 70%; } .single-post-container .alignfull > [class*="__inner-container"], .single-post-container .alignwide > [class*="__inner-container"]{ max-width:789px } .container-fluid.single-post-container .alignfull > [class*="__inner-container"], .container-fluid.single-post-container .alignwide > [class*="__inner-container"]{ max-width:calc(70% + 15px) } .neve-main > .single-post-container .nv-sidebar-wrap{ max-width: 30%; } .nv-meta-list{ --avatarsize: 20px; } .single .nv-meta-list{ --avatarsize: 20px; } .blog .blog-entry-title, .archive .blog-entry-title{ --fontsize: 32px; } .single h1.entry-title{ --fontsize: 65px; } .nv-post-cover{ --height: 500px;--padding:0 3rem 2rem 3rem;;--justify: flex-start; --textalign: left; --valign: flex-end; } .nv-post-cover .nv-title-meta-wrap, .nv-page-title-wrap, .entry-header{ --textalign: left; } .nv-is-boxed.nv-title-meta-wrap{ --padding:60px 40px; } .nv-is-boxed.nv-comments-wrap{ --padding:40px; } .nv-is-boxed.comment-respond{ --padding:40px; } .single:not(.single-product), .page{ --c-vspace:0 0 0 0;; } .scroll-to-top{ --padding:8px 10px;--size:16px; } .builder-item--logo{ --maxwidth: 16.5rem; --fs: 1rem;--padding:10px 0;--margin:0; --textalign: left;--justify: flex-start; } .builder-item--primary-menu{ --spacing: 20px; --height: 25px;--padding:0;--margin:0; --fontsize: 1rem; --lineheight: 1.1em; --letterspacing: 0px; --iconsize: 1rem; } .footer-top{ --rowbwidth:1px; } .footer-main{ --rowbwidth:1px; } .builder-item--footer-one-widgets{ --padding:0;--margin:0; --textalign: left;--justify: flex-start; } .builder-item--footer-two-widgets{ --padding:0;--margin:0; --textalign: left;--justify: flex-start; } .builder-item--footer-three-widgets{ --padding:0;--margin:0; --textalign: left;--justify: flex-start; } }.scroll-to-top {right: 20px; border: none; position: fixed; bottom: 30px; display: none; opacity: 0; visibility: hidden; transition: opacity 0.3s ease-in-out, visibility 0.3s ease-in-out; align-items: center; justify-content: center; z-index: 999; } @supports (-webkit-overflow-scrolling: touch) { .scroll-to-top { bottom: 74px; } } .scroll-to-top.image { background-position: center; } .scroll-to-top .scroll-to-top-image { width: 100%; height: 100%; } .scroll-to-top .scroll-to-top-label { margin: 0; padding: 5px; } .scroll-to-top:hover { text-decoration: none; } .scroll-to-top.scroll-to-top-left {left: 20px; right: unset;} .scroll-to-top.scroll-show-mobile { display: flex; } @media (min-width: 960px) { .scroll-to-top { display: flex; } }.scroll-to-top { color: var(--color); padding: var(--padding); border-radius: var(--borderradius); background: var(--bgcolor); } .scroll-to-top:hover, .scroll-to-top:focus { color: var(--hovercolor); background: var(--hoverbgcolor); } .scroll-to-top-icon, .scroll-to-top.image .scroll-to-top-image { width: var(--size); height: var(--size); } .scroll-to-top-image { background-image: var(--bgimage); background-size: cover; }.has-custom-1-color {color:var(--custom-1) !important} .has-custom-1-background-color {background-color:var(--custom-1) !important}.has-custom-2-color {color:var(--custom-2) !important} .has-custom-2-background-color {background-color:var(--custom-2) !important}.has-custom-3-color {color:var(--custom-3) !important} .has-custom-3-background-color {background-color:var(--custom-3) !important}.has-custom-4-color {color:var(--custom-4) !important} .has-custom-4-background-color {background-color:var(--custom-4) !important}:root{--nv-primary-accent:#004e42;--nv-secondary-accent:#004e42;--nv-site-bg:#ffffff;--nv-light-bg:#f8f9fb;--nv-dark-bg:#0a1d1b;--nv-text-color:#004e42;--nv-text-dark-bg:#ffffff;--nv-c-1:#418fde;--nv-c-2:#cf4520;--nv-fallback-ff:Arial, Helvetica, sans-serif;--custom-1:#7a9a01;--custom-2:#002d72;--custom-3:#0a1d1b;--custom-4:#ffcd00;}
+/*# sourceURL=neve-style-inline-css */
+</style>
+<link rel='stylesheet' id='neve-google-font-montserrat-css' href='//fonts.googleapis.com/css?family=Montserrat%3A500%2C700%2C400&#038;display=swap&#038;ver=4.2.13' media='all' />
+
+<!-- Google tag (gtag.js) snippet added by Site Kit -->
+<!-- Google Analytics snippet added by Site Kit -->
+<script id="google_gtagjs-js" src="https://www.googletagmanager.com/gtag/js?id=G-4SS09QR72T" async></script>
+<script id="google_gtagjs-js-after">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["study.clarkson.edu"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "G-4SS09QR72T");
+//# sourceURL=google_gtagjs-js-after
+</script>
+<link rel="https://api.w.org/" href="https://study.clarkson.edu/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://study.clarkson.edu/wp-json/wp/v2/pages/471" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://study.clarkson.edu/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.1.2" />
+<link rel="canonical" href="https://study.clarkson.edu/transferadmissions/" />
+<link rel='shortlink' href='https://study.clarkson.edu/?p=471' />
+<meta name="generator" content="Site Kit by Google 1.188.0" />
+<!-- Google Tag Manager snippet added by Site Kit -->
+<script>
+			( function( w, d, s, l, i ) {
+				w[l] = w[l] || [];
+				w[l].push( {'gtm.start': new Date().getTime(), event: 'gtm.js'} );
+				var f = d.getElementsByTagName( s )[0],
+					j = d.createElement( s ), dl = l != 'dataLayer' ? '&l=' + l : '';
+				j.async = true;
+				j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+				f.parentNode.insertBefore( j, f );
+			} )( window, document, 'script', 'dataLayer', 'GTM-MTNVCPJ' );
+			
+</script>
+
+<!-- End Google Tag Manager snippet added by Site Kit -->
+<style type="text/css">.left-block, .is-style-left-block {
+background: none repeat scroll 0 0px, radial-gradient(ellipse at center center, #ffffff 0%, #f2f2f2 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #8b8e97;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+}.right-block, .is-style-right-block {
+background: none repeat scroll 0 0px, radial-gradient(ellipse at center center, #ffffff 0%, #f2f2f2 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #8b8e97;
+    padding: 10px;
+    margin: 10px;
+    float: right;
+}.blockquote--alt, .is-style-blockquote--alt {
+margin: 4rem auto;
+position: relative;
+}.columns--green, .is-style-columns--green {
+background: #004e42;
+color: #fff;
+position: relative;
+z-index: 0;
+padding: 3rem;
+}.feature, .is-style-feature {
+align-items: center;
+display: flex;
+background: #004e42;
+margin: 6rem 0;
+overflow: hidden;
+position: relative;
+z-index: 0;
+color: #fff;
+padding: 3rem;
+}.feature--alt, .is-style-feature--alt {
+align-items: center;
+display: flex;
+background: #d7d2cb;
+color: #0a1d1b;
+margin: 6rem 0;
+overflow: hidden;
+position: relative;
+z-index: 0;
+padding: 3rem;
+}.testimonials--bg, .is-style-testimonials--bg {
+background: #004e42;
+margin-bottom: 6rem;
+margin-top: 6rem;
+padding: 4rem;
+position: relative;
+z-index: 0;
+color: #fff;
+}.cta, .is-style-cta {
+background: #004e42;
+background-position: 50%;
+background-size: cover;
+color: #fff;
+padding: 4rem;
+position: relative;
+}.heading-arrow, .is-style-heading-arrow {
+color: #fff;
+flex-basis: 30%;
+margin-top: 0;
+align-items: center;
+display: flex;
+justify-content: flex-start;
+}.widget--contact, .is-style-widget--contact {
+background: #d7d2cb;
+position: relative;
+padding: 3rem 2rem;
+}.widget__list, .is-style-widget__list {
+margin: 3rem 0;
+padding: 0 2rem;
+border-right: 11px solid #004e42;
+}.blockquote, .is-style-blockquote {
+margin: 4rem auto;
+position: relative;
+}.blockquote__interior, .is-style-blockquote__interior {
+color: #004e42;
+padding: 4rem 1.5rem;
+position: relative;
+}.button--router, .is-style-button--router {
+list-style: none;
+padding-left: 0!important;
+}.router, .is-style-router {
+margin: 6rem 0;
+}.router__content, .is-style-router__content {
+background: #fff;
+border-right: .5625rem solid #ffcd00;
+color: #004e42;
+margin-bottom: -2rem;
+padding: 1rem;
+transform: translateY(-50%);
+width: 70%;
+font-weight: 700;
+}.grid__item, .is-style-grid__item {
+width: 100%;
+display: inline-flex;
+margin-right: 1.5rem;
+margin-bottom: 1.5rem;
+}.grid__item--3, .is-style-grid__item--3 {
+width: 100%;
+display: inline-flex;
+margin-right: 1.5rem;
+margin-bottom: 1.5rem;
+}</style><link rel="icon" href="https://study.clarkson.edu/wp-content/uploads/2024/03/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://study.clarkson.edu/wp-content/uploads/2024/03/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://study.clarkson.edu/wp-content/uploads/2024/03/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://study.clarkson.edu/wp-content/uploads/2024/03/cropped-favicon-270x270.png" />
+<style id="wp-custom-css">
+h2,h3,h4,h5,h6{
+	padding-top:2rem;
+}
+
+.nv-content-wrap{
+	max-width:81rem;
+	margin:0 auto;
+}
+/*Form*/
+form select{
+	margin: 5px 0!important;
+}
+div.form_header .form_label{
+	background:transparent!important;
+	padding:0!important;
+	font-size:1.25rem;
+}
+/*Router Grid*/
+.router .grid__item:nth-child(6n+1) .router__content,
+.router .grid__item--3:nth-child(6n+1) .router__content{
+    border-right: .5625rem solid #ffcd00;
+}
+.router .grid__item:nth-child(6n+3) .router__content,
+.router .grid__item--3:nth-child(6n+3) .router__content{
+	border-right: .5625rem solid #004e42;}
+
+.router .grid__item:nth-child(6n+2) .router__content,
+.router .grid__item--3:nth-child(6n+2) .router__content{
+	border-right: .5625rem solid #418fde;}
+.router .grid__item:nth-child(6n+4) .router__content,
+.router .grid__item--3:nth-child(6n+4) .router__content{
+	border-right: .5625rem solid #cf4520;}
+.router .grid__item:nth-child(6n+5) .router__content,
+.router .grid__item--3:nth-child(6n+5) .router__content{
+	border-right: .5625rem solid #7a9a01;}
+.router .grid__item:nth-child(6n+6) .router__content,
+.router .grid__item--3:nth-child(6n+6) .router__content{
+	border-right: .5625rem solid #002d72;}
+@media (min-width:48rem){
+	.grid__item {
+    width: calc(50% - 3rem);
+}
+}
+@media (min-width: 36em){
+.grid__item--3 {
+    width: calc(50% - 1.5rem);
+	}}
+@media (min-width: 48em){
+.grid__item--3 {
+    width: calc(50% - 3rem);
+}
+}
+@media (min-width: 64em){
+.grid__item--3 {
+    width: calc(33.333% - 2rem);
+}
+}
+
+/*2-Up Panel*/
+.columns--green:before {
+background: #0a1d1b;
+content: "";
+height: 100%;
+left: 0;
+-webkit-mask: url(https://www.clarkson.edu/themes/custom/clarkson_theme/dist/img/bg-arrow-green.svg) center no-repeat;
+mask: url(https://www.clarkson.edu/themes/custom/clarkson_theme/dist/img/bg-arrow-green.svg) center no-repeat;
+opacity: .18;
+position: absolute;
+top: 0;
+transform: scaleX(-1);
+width: 65%;
+z-index: -1;
+}
+.columns--green a{
+	color:#fff;
+	text-decoration:underline;
+}
+/*Feature Panels*/
+.feature a{
+	color:#fff;
+}
+.feature:before,
+.feature--alt:before,
+.testimonials--bg:before{
+    background: #0a1d1b;
+    content: "";
+    height: 100%;
+    -webkit-mask: url(https://www.clarkson.edu/themes/custom/clarkson_theme/dist/img/bg-arrow-green.svg) center no-repeat;
+    mask: url(https://www.clarkson.edu/themes/custom/clarkson_theme/dist/img/bg-arrow-green.svg) center no-repeat;
+    opacity: .18;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 65%;
+    z-index: -2;
+}
+.feature--alt .heading-arrow{
+	color:#000;
+}
+/*Router Panel*/
+.button--router a{
+padding: 1.5rem;
+align-items: center;
+background: #004e42;
+border: 0;
+color: #fff !important;
+display: inline-flex;
+font-weight: 700;
+margin: 0 .5rem .5rem 0;
+overflow: hidden;
+    padding: 1.5rem;
+position: relative;
+text-decoration: none;
+text-shadow: none;
+transition: .3s ease;
+	width:100%;
+}
+
+.button--router a:before {
+    background: #ffcd00;
+    content: "";
+    display: block;
+    height: 1.1875rem;
+    margin-right: 1rem;
+    -webkit-mask: url(https://www.clarkson.edu/themes/custom/clarkson_theme/dist/img/arrow.svg) center no-repeat;
+    mask: url(https://www.clarkson.edu/themes/custom/clarkson_theme/dist/img/arrow.svg) center no-repeat;
+    width: 2rem;
+}
+.button--router a:after {
+    border-bottom: 80px solid #ffcd00;
+    border-right: 50px solid transparent;
+    bottom: 0;
+    content: "";
+    left: 0;
+    position: absolute;
+    right: -50px;
+    top: 0;
+    transform: translateX(-100%);
+    transition: .3s ease;
+    z-index: 1;
+}
+/*Accordion*/
+.advgb-accordion-header, .advgb-accordion-header.ui-accordion-header.ui-state-default {
+	padding: 2rem 7rem 2rem 3rem!important;
+}
+.wp-block-themeisle-blocks-accordion-item__content a{
+	color:#fff;
+	text-decoration:underline;
+}
+/*Sidebars*/
+.widget--contact h2{
+	padding-top:0;
+}
+.widget__list p{
+	font-weight: 700;
+    margin-top: -0.25rem;
+    text-transform: uppercase;
+}
+}
+.widget__list ul {
+    list-style-type: none;
+    padding: 0;
+}
+.widget__list li:first-of-type {
+    border-top: none;
+}
+.widget__list li {
+    margin: 0;
+    padding: 1rem 0;
+	    border-top: 0.125rem solid rgba(10, 29, 27, .16);
+	list-style:none;
+}
+.widget__list ul li a{
+    --underline-color: transparent;
+    --underline-hover: currentcolor;
+    --underline-height: 0.0625em;
+    background-image: linear-gradient(90deg, var(--underline-hover) 50%, var(--underline-color) 50%);
+    background-position: 100% 100%;
+    background-size: 200% var(--underline-height);
+    text-decoration: none;
+    transition: background-position .3s ease;
+}
+/*Blockquote*/
+
+.blockquote--alt:before {
+    background: #0a1d1b;
+    content: "";
+    height: 100%;
+    -webkit-mask: url(https://www.clarkson.edu/themes/custom/clarkson_theme/dist/img/bg-arrow-green.svg) center no-repeat;
+    mask: url(https://www.clarkson.edu/themes/custom/clarkson_theme/dist/img/bg-arrow-green.svg) center no-repeat;
+    opacity: .18;
+    position: absolute;
+    top: 0;
+    transform: scaleX(-1);
+    width: 65%;
+}
+.blockquote__interior:before {
+    background: #004e42;
+    content: "";
+    display: block;
+    height: 2.625rem;
+    margin-bottom: 2rem;
+    -webkit-mask: url(https://www.clarkson.edu/themes/custom/clarkson_theme/dist/img/quote.svg) center no-repeat;
+    mask: url(https://www.clarkson.edu/themes/custom/clarkson_theme/dist/img/quote.svg) center no-repeat;
+    width: 2.625rem;
+}
+.blockquote__interior p{
+	margin-bottom:5px;
+}
+/* Slate Forms */
+div.form_container:not(.form_width_narrow) div.form_question.form_layout_table .form_label{
+	display:table-row!important;
+}
+/*CTA*/
+.cta > div{
+	z-index:1;
+	max-width:91rem;
+}
+.cta:before{
+	content: "";
+	bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 0;
+	-webkit-mask: url(https://www.clarkson.edu/themes/custom/clarkson_theme/dist/img/pattern-dimensional.svg) center;
+	mask: url(https://www.clarkson.edu/themes/custom/clarkson_theme/dist/img/pattern-dimensional.svg) center;
+	background: hsla(0,0%,100%,.2);
+}
+.cta:after{
+	background-image: linear-gradient(270deg, #004e42 15%, transparent 50%, #004e42 85%);
+	content: " ";
+	opacity: 1;
+	bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 0;
+}
+.heading-arrow:before{
+	background: #ffcd00;
+    content: "";
+    display: block;
+    flex-shrink: 0;
+    height: 1.1875rem;
+    margin-right: 1rem;
+    -webkit-mask: url(https://www.clarkson.edu/themes/custom/clarkson_theme/dist/img/arrow.svg) center no-repeat;
+    mask: url(https://www.clarkson.edu/themes/custom/clarkson_theme/dist/img/arrow.svg) center no-repeat;
+    width: 2rem;
+}
+.cta h2{
+	padding-top:0;
+}
+/*Footer*/
+.builder-item--footer-one-widgets ul li{
+	margin-top:0;
+}
+.builder-item--footer-one-widgets :where(.wp-block-columns){
+	margin-bottom:0;
+}
+.builder-item--footer-two-widgets p{
+	line-height:1.25rem;
+}
+.builder-item--footer-three-widgets{
+	/* background:#f8f9fb;*/
+}
+.footer__social{
+	height: auto;
+  margin: 0;
+	align-items: center;
+  align-self: center;
+	display: flex;
+}
+.footer__icon{
+	background: #0a1d1b;
+  border-radius: 50%;
+  color: #fff!important;
+  margin-right: 1rem;
+  padding: 0.5rem;
+  transition: background-color .3s ease;
+  width: 2rem;
+}
+.footer__icon svg {
+  display: block;
+}
+.footer-bottom{
+	display:none;
+}
+</style>
+
+	<link rel='stylesheet' id='advgb_blocks_styles-css' href='https://study.clarkson.edu/wp-content/plugins/advanced-gutenberg-pro/lib/vendor/publishpress/publishpress-blocks/assets/css/blocks.css?ver=3.7.6' media='all' />
+<link rel='stylesheet' id='material_icon_font-css' href='https://study.clarkson.edu/wp-content/plugins/advanced-gutenberg-pro/assets/css/fonts/material-icons.min.css?ver=3.7.6' media='all' />
+<link rel='stylesheet' id='advgb_blocks_styles_pro-css' href='https://study.clarkson.edu/wp-content/plugins/advanced-gutenberg-pro/assets/css/blocks-pro.css?ver=3.7.6' media='all' />
+<style id="core-block-supports-inline-css">
+.wp-container-core-columns-is-layout-8f761849{flex-wrap:nowrap;}.wp-elements-1 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--neve-link-color);}.wp-elements-1 a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--neve-link-color);}.wp-elements-2 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--neve-link-color);}.wp-elements-2 a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--neve-link-color);}.wp-elements-3 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--neve-link-color);}.wp-elements-3 a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--neve-link-color);}.wp-elements-4 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--neve-link-color);}.wp-elements-4 a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--neve-link-color);}.wp-elements-5 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--neve-link-color);}.wp-elements-5 a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--neve-link-color);}.wp-elements-6 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--neve-link-color);}.wp-elements-6 a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--neve-link-color);}.wp-elements-7 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--neve-link-color);}.wp-elements-7 a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--neve-link-color);}.wp-elements-8 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--neve-link-color);}.wp-elements-8 a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--neve-link-color);}.wp-elements-9 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--neve-link-color);}.wp-elements-9 a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--neve-link-color);}.wp-elements-10 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--neve-link-color);}.wp-elements-10 a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--neve-link-color);}.wp-elements-11 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--neve-link-color);}.wp-elements-11 a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--neve-link-color);}.wp-elements-12 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--neve-link-color);}.wp-elements-12 a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--neve-link-color);}
+/*# sourceURL=core-block-supports-inline-css */
+</style>
+
+</head>
+
+<body  class="wp-singular page-template-default page page-id-471 page-parent wp-theme-neve  nv-blog-grid nv-sidebar-full-width menu_sidebar_slide_left" id="neve_body"  >
+		<!-- Google Tag Manager (noscript) snippet added by Site Kit -->
+		<noscript>
+			<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MTNVCPJ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+		</noscript>
+		<!-- End Google Tag Manager (noscript) snippet added by Site Kit -->
+		<div class="wrapper">
+	
+	<header class="header"  >
+		<a class="neve-skip-link show-on-focus" href="#content" >
+			Skip to content		</a>
+		<div id="header-grid"  class="hfg_header site-header">
+	
+<div class="header--row header-main hide-on-mobile hide-on-tablet layout-fullwidth nv-navbar header--row"
+	data-row-id="main" data-show-on="desktop">
+
+	<div
+		class="header--row-inner header-main-inner">
+		<div class="container">
+			<div
+				class="row row--wrapper"
+				data-section="hfg_header_layout_main" >
+				<div class="hfg-slot left"><div class="builder-item desktop-left"><div class="item--inner builder-item--logo"
+		data-section="title_tagline"
+		data-item-id="logo">
+	
+<div class="site-logo">
+	<a class="brand" href="https://study.clarkson.edu/" aria-label="Discover Clarkson University" rel="home"><div class="title-with-logo"><img width="910" height="224" src="https://study.clarkson.edu/wp-content/uploads/2024/03/logo-gr.png" class="neve-site-logo skip-lazy" alt="Clarkson University Logo. Wordmark and shield" data-variant="logo" decoding="async" fetchpriority="high" srcset="https://study.clarkson.edu/wp-content/uploads/2024/03/logo-gr.png 910w, https://study.clarkson.edu/wp-content/uploads/2024/03/logo-gr-300x74.png 300w, https://study.clarkson.edu/wp-content/uploads/2024/03/logo-gr-768x189.png 768w" sizes="(max-width: 910px) 100vw, 910px" /><div class="nv-title-tagline-wrap"></div></div></a></div>
+	</div>
+
+</div></div><div class="hfg-slot right"><div class="builder-item has-nav"><div class="item--inner builder-item--primary-menu has_menu"
+		data-section="header_menu_primary"
+		data-item-id="primary-menu">
+	<div class="nv-nav-wrap">
+	<div role="navigation" class="nav-menu-primary style-border-bottom m-style"
+			aria-label="Primary Menu (Desktop)">
+
+			</div>
+</div>
+
+	</div>
+
+</div></div>							</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="header--row header-main hide-on-desktop layout-fullwidth nv-navbar header--row"
+	data-row-id="main" data-show-on="mobile">
+
+	<div
+		class="header--row-inner header-main-inner">
+		<div class="container">
+			<div
+				class="row row--wrapper"
+				data-section="hfg_header_layout_main" >
+				<div class="hfg-slot left"><div class="builder-item tablet-left mobile-left"><div class="item--inner builder-item--logo"
+		data-section="title_tagline"
+		data-item-id="logo">
+	
+<div class="site-logo">
+	<a class="brand" href="https://study.clarkson.edu/" aria-label="Discover Clarkson University" rel="home"><div class="title-with-logo"><img width="910" height="224" src="https://study.clarkson.edu/wp-content/uploads/2024/03/logo-gr.png" class="neve-site-logo skip-lazy" alt="Clarkson University Logo. Wordmark and shield" data-variant="logo" decoding="async" srcset="https://study.clarkson.edu/wp-content/uploads/2024/03/logo-gr.png 910w, https://study.clarkson.edu/wp-content/uploads/2024/03/logo-gr-300x74.png 300w, https://study.clarkson.edu/wp-content/uploads/2024/03/logo-gr-768x189.png 768w" sizes="(max-width: 910px) 100vw, 910px" /><div class="nv-title-tagline-wrap"></div></div></a></div>
+	</div>
+
+</div></div><div class="hfg-slot right"></div>							</div>
+		</div>
+	</div>
+</div>
+
+</div>
+	</header>
+
+	<div class="nv-post-cover" style="background-image:url(https://study.clarkson.edu/wp-content/uploads/2024/12/Late-Night-Study-Session-17-scaled.jpg);"><div class="nv-overlay"></div><div class="nv-title-meta-wrap "><h1 class="title entry-title">Undergraduate Transfer Admissions</h1></div></div>
+
+	
+	<main id="content" class="neve-main" tabindex="-1">
+
+<div class="container-fluid single-page-container">
+	<div class="row">
+				<div class="nv-single-page-wrap col">
+			<div class="nv-content-wrap entry-content">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<h2 class="wp-block-heading">Ignite Your Future</h2>
+
+
+
+<p class="wp-block-paragraph">We say that no one arrives at Clarkson University by chance. And for transfer students like yourself, you’re looking for a school that not only recognizes your unwavering drive but also embraces your ideas and gives you the tools to uncover novel solutions.<br><br>Here, students do more than observe and discuss theories. They make discoveries, whether conducting research alongside faculty in our labs, pushing the boundaries of science and engineering on our SPEED teams, learning from established professionals in the field or expanding their perspective abroad. These experiences go beyond enrichment: they’re the catalyst for the start of your career and transform you from a curious investigator into a can-do problem-solver.<br><br>For our transfer students, we immerse you in our collaborative culture of innovation from the get-go, showing you the ropes and all the resources and support Clarkson has to offer. Discuss next steps with your advisor and get mentorship as you adjust to life as a Golden Knight. Along the way, we hold various transfer-specific events, from <a href="https://www.clarkson.edu/admissions-aid/undergraduate/visits-events-tours" target="_blank" rel="noreferrer noopener">visits</a> and orientation to career fairs, where you can meet others like you — eager, ingenious and ready to explore.<br><br>As you progress from an associate degree, search for your community or follow the structure of your 3+2 program, learn more about Clarkson, how to apply and what to do once you’re admitted.</p>
+
+
+
+<p class="wp-block-paragraph">Have questions? We have answers. Reach out to your <a href="https://undergrad.clarkson.edu/portal/find_counselor" target="_blank" rel="noreferrer noopener">admissions counselor</a> or contact the Office of Undergraduate Transfer Admissions today with your inquiry.</p>
+
+
+
+<h2 class="wp-block-heading">Why Transfer To Clarkson</h2>
+
+
+
+<p class="wp-block-paragraph">Every year, we welcome many talented transfer students to campus. They are here because they know Clarkson has so much to offer — unparalleled career opportunities, exciting hands-on experiences and a high-caliber college education. Plus, we make sure the transfer process is as smooth as possible. Come join us.</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-primary"><a class="wp-block-button__link wp-element-button" href="https://www.clarkson.edu/admissions-aid/transfer/why-clarkson" target="_blank" rel="noreferrer noopener">Why Clarkson?</a></div>
+</div>
+
+
+
+<h2 class="wp-block-heading">Important Admission Deadlines</h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>July 1:</strong> Preferred deadline for Fall applicants</li>
+
+
+
+<li><strong>December 1:</strong> Preferred deadline for Spring applicants</li>
+
+
+
+<li>Applications are reviewed on a rolling basis.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Life At Clarkson</h2>
+
+
+
+<p class="wp-block-paragraph">With some 3,000 undergraduate students on a wooded residential campus, Clarkson provides the atmosphere of a small, tight-knit community ideal for transfer students</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h3 class="wp-block-heading">Clubs &amp; Organizations</h3>
+
+
+
+<p class="wp-block-paragraph">Extracurricular activities are one of the best ways to get involved at Clarkson, whether it&#8217;s with one of our award-winning SPEED teams like Baja SAE, Concrete Canoe or FIRST Robotics; professional societies like SWE (Society of Women and Engineers) or The Outing Club; a fraternity or sorority; an athletic team or a community service club. Clarkson is home to over 200 student clubs and organizations, so it&#8217;s safe to say you&#8217;ll find something you enjoy. Or, you can always start your own club!</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h3 class="wp-block-heading">Housing</h3>
+
+
+
+<p class="wp-block-paragraph">All transfer students are guaranteed housing on-campus.  We offer traditional residence halls (double and single rooms) as well as suites, apartments and townhouses.  Also, new incoming transfer students can live off-campus if they are looking for a different student experience.</p>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<div class="wp-block-group widget--contact"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
+<h2 class="wp-block-heading">Request Info</h2>
+
+
+<div id="form_93a18fce-c6ba-4fda-8fc4-a2c7db0578e6">Loading...</div>
+<script>/*<![CDATA[*/var script = document.createElement('script'); script.async = 1; script.src = 'https://undergrad.clarkson.edu/register/?id=93a18fce-c6ba-4fda-8fc4-a2c7db0578e6&output=embed&div=form_93a18fce-c6ba-4fda-8fc4-a2c7db0578e6&redirect=' + encodeURI('https://study.clarkson.edu/thank-you/') + ((location.search.length > 1) ? '&' + location.search.substring(1) : ''); var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);/*]]&gt;*/</script>
+</div></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns feature is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<h2 class="wp-block-heading heading-arrow">Journey of a Transfer Student</h2>
+
+
+
+<p class="wp-block-paragraph">Read About Mara&#8217;s decision to transfer to Clarkson and her tips for other students considering transferring.</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-secondary"><a class="wp-block-button__link wp-element-button" href="https://diy.clarkson.edu/apply-to-clarkson/undergraduate-education/my-journey-as-a-transfer-student-challenges-opportunities-and-growth/" target="_blank" rel="noreferrer noopener">Read Blog</a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<figure class="wp-block-image size-full"><img decoding="async" width="2560" height="1922" src="https://study.clarkson.edu/wp-content/uploads/2024/12/Mara-2024-48-scaled.jpg" alt="" class="wp-image-1712" srcset="https://study.clarkson.edu/wp-content/uploads/2024/12/Mara-2024-48-scaled.jpg 2560w, https://study.clarkson.edu/wp-content/uploads/2024/12/Mara-2024-48-300x225.jpg 300w" sizes="(max-width: 2560px) 100vw, 2560px" /></figure>
+</div>
+</div>
+
+
+
+<h2 class="wp-block-heading">How to Apply as a Transfer Student</h2>
+
+
+
+<p class="wp-block-paragraph">Whether you fill out Clarkson’s application or the Common App, you’ll need to be mindful of specific test score and transcript requirements based on credits earned at your previous institution. Need assistance? Reach out to your admissions counselor for more information. Please note that students who have attended college outside of New York State need to provide course descriptions with their application.</p>
+
+
+
+<div id="wp-block-themeisle-blocks-accordion-6513f868" class="wp-block-themeisle-blocks-accordion exclusive has-dark-content-bg">
+<details class="wp-block-themeisle-blocks-accordion-item"><summary class="wp-block-themeisle-blocks-accordion-item__title"><div>Start Your Application</div></summary><div class="wp-block-themeisle-blocks-accordion-item__content">
+<p class="wp-block-paragraph">Complete ONE of the applications listed below:</p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://www.commonapp.org/" target="_blank" rel="noreferrer noopener">Common Application</a> (online)</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://undergrad.clarkson.edu/apply/" target="_blank" rel="noreferrer noopener">Clarkson Transfer Application</a> (online)</li>
+</ul>
+</div></details>
+
+
+
+<details class="wp-block-themeisle-blocks-accordion-item"><summary class="wp-block-themeisle-blocks-accordion-item__title"><div>Review Admission Requirements for Transfer Students</div></summary><div class="wp-block-themeisle-blocks-accordion-item__content">
+<p class="wp-block-paragraph">You will also need to submit the following supporting materials:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Dean of Students Recommendation Form *needs to be completed prior to enrollment.</li>
+
+
+
+<li>Official transcripts from each college or university you have attended. (If you attended college outside of New York State, please provide course descriptions.)</li>
+
+
+
+<li>Letters of recommendation. While not required, Clarkson will consider recommendations during the application review process. These recommendations can come from a professor, an employer, a former teacher, a coach or another professional.</li>
+
+
+
+<li>Personal statement (250-500 words) describing a special interest, experience or achievement that is important or meaningful to you.</li>
+
+
+
+<li>All transfer students are REQUIRED to submit a final high school transcript. This is required for federal aid and will not be taken into consideration for admissions unless the criteria below for credits is not met.</li>
+</ul>
+</div></details>
+
+
+
+<details class="wp-block-themeisle-blocks-accordion-item"><summary class="wp-block-themeisle-blocks-accordion-item__title"><div>For Fewer Than 24 Hours of Credit </div></summary><div class="wp-block-themeisle-blocks-accordion-item__content">
+<p class="wp-block-paragraph">If you have earned fewer than 24 hours of credit at your current college or university, you will also need to supply the following information:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Official high school record.</li>
+
+
+
+<li>Test optional: SAT/ACT scores. If submitted, the scores will be taken into consideration during the admissions process. Clarkson also accepts self-reported test scores.
+<ul class="wp-block-list">
+<li>Clarkson SAT code: <strong>2084</strong></li>
+
+
+
+<li>Clarkson ACT code: <strong>2698</strong></li>
+</ul>
+</li>
+</ul>
+</div></details>
+
+
+
+<details class="wp-block-themeisle-blocks-accordion-item"><summary class="wp-block-themeisle-blocks-accordion-item__title"><div>For International Transfer Students</div></summary><div class="wp-block-themeisle-blocks-accordion-item__content">
+<h3 class="wp-block-heading">Step 1: Complete one of the applications below</h3>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://undergrad.clarkson.edu/apply/" target="_blank" rel="noreferrer noopener">Clarkson Transfer Application</a></li>
+
+
+
+<li><a href="https://www.commonapp.org/" target="_blank" rel="noreferrer noopener">Common Application</a></li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Step 2: Submit the following supporting materials</h3>
+
+
+
+<ul class="wp-block-list">
+<li>Dean of Students Recommendation Form (needs to be completed prior to enrollment).</li>
+
+
+
+<li>Official transcripts from each college or university you have attended. If you attended college outside of New York State, please provide course descriptions.</li>
+
+
+
+<li>Letters of recommendation are not required but will be considered during the application review process. The recommendations can come from a professor, employer, former teacher, coach or another professional.</li>
+
+
+
+<li>Personal statement (250-500 words) describing a special interest, experience or achievement that is important or meaningful to you.</li>
+
+
+
+<li>All transfer students must submit a final high school transcript. This is required for federal aid and will not be taken into consideration for admission unless you have earned fewer than 24 hours of credit at your current college or university. All transcripts should be translated.</li>
+
+
+
+<li>Official English proficiency test scores, unless you are applying from a country with <a href="https://www.clarkson.edu/about/departments/international-center/international-students-and-scholars/international-students-english-proficiency-exemptions" target="_blank" rel="noreferrer noopener">English testing waivers</a>. Acceptable tests and minimum scores are:
+<ul class="wp-block-list">
+<li>TOEFL: 80</li>
+
+
+
+<li>IELTS: 6.5</li>
+
+
+
+<li>Duolingo English Test: 115</li>
+
+
+
+<li>PTE: 56</li>
+</ul>
+</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Step 3: Additional information for the application</h3>
+
+
+
+<p class="wp-block-paragraph">If you have earned fewer than 24 hours of credit at your current college or university, you will need to submit:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Official high school record.</li>
+
+
+
+<li>Test optional: SAT/ACT scores. If submitted, the scores will be taken into consideration during the admissions process. Clarkson also accepts self-reported test scores.
+<ul class="wp-block-list">
+<li>Clarkson SAT code: <strong>2084</strong></li>
+
+
+
+<li>Clarkson ACT code: <strong>2698</strong></li>
+</ul>
+</li>
+
+
+
+<li>If you are not a U.S. citizen or permanent resident, you are likely going to need a student visa. For more information, please visit the <a href="https://www.clarkson.edu/about/departments/international-center/international-students-and-scholars/new-students-and-visitors" target="_blank" rel="noreferrer noopener">International Center to learn more about this process</a>.</li>
+
+
+
+<li>To receive an I-20, you will need to show proof of financial support. There are two ways to do that:
+<ul class="wp-block-list">
+<li>Complete and return the Certificate of Finance Form. This will appear on your checklist in the admission portal.</li>
+
+
+
+<li>Provide a certified letter from your sponsor indicating the amount of support available for each year along with a supporting letter from a bank official.<br></li>
+</ul>
+</li>
+</ul>
+</div></details>
+</div>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.clarkson.edu/admissions-aid/transfer/how-to-apply"></a></p>
+
+
+
+<h2 class="wp-block-heading">Transfer-Specific Financial Aid &amp; Scholarships</h2>
+
+
+
+<p class="wp-block-paragraph">Clarkson is committed to helping you afford higher education. The Financial Assistance Committee distributes aid to assist as many qualified students as possible. Nine out of 10 students at Clarkson receive some form of financial assistance through scholarships, grants, loans, and campus employment. We also encourage students to explore federal, state and private scholarship and loan opportunities through their transfer office, state education departments, or online.</p>
+
+
+
+<div id="wp-block-themeisle-blocks-accordion-3d339aa3" class="wp-block-themeisle-blocks-accordion exclusive has-dark-content-bg">
+<details class="wp-block-themeisle-blocks-accordion-item"><summary class="wp-block-themeisle-blocks-accordion-item__title"><div>Merit-Based Awards</div></summary><div class="wp-block-themeisle-blocks-accordion-item__content">
+<p class="wp-block-paragraph">Based on academic success and promise, these include Clarkson Merit Awards, Transfer Excellence Awards, Phi Theta Kappa, and Alpha Beta Gamma Scholarships.</p>
+</div></details>
+
+
+
+<details class="wp-block-themeisle-blocks-accordion-item"><summary class="wp-block-themeisle-blocks-accordion-item__title"><div>Clarkson Transfer Ignite Presidential Fellowship</div></summary><div class="wp-block-themeisle-blocks-accordion-item__content">
+<p class="wp-block-paragraph">The Clarkson Ignite Presidential Fellowship program is a merit-based scholarship covering all tuition costs for one transfer student entering Clarkson each fall.</p>
+
+
+
+<ul class="wp-block-list">
+<li>First, apply to Clarkson.</li>
+
+
+
+<li>Second, on your Clarkson Application Status Page apply for The Clarkson Ignite Presidential Fellows program by March 1.  We welcome you to submit a 2- to 3-minute video OR a 250-300 word statement on the following topic: Clarkson students seek to pursue their passions by starting college early. What passion(s) and interests will you bring to Clarkson? How will you positively  impact the Clarkson community?</li>
+
+
+
+<li>Five (5) finalists will be selected and invited to interview before final decisions are made.</li>
+</ul>
+</div></details>
+
+
+
+<details class="wp-block-themeisle-blocks-accordion-item"><summary class="wp-block-themeisle-blocks-accordion-item__title"><div>Alumni Connection Awards</div></summary><div class="wp-block-themeisle-blocks-accordion-item__content">
+<ul class="wp-block-list">
+<li><strong>Holcroft Alumni Recognition Awards:</strong> Awards based on strong potential for success and the recommendation from a Clarkson alumnus/alumna. Awards are $500 per year—students can only receive one award, regardless of the number of recommendations. We suggest students contact alumni who know enough about them to provide a meaningful reference. </li>
+
+
+
+<li><strong>Alumni Family Award:</strong> If you indicate on your application for admission that you have a brother, sister, aunt, uncle, or cousin that attended Clarkson, you may qualify for a $500 scholarship. Only one scholarship will be granted no matter how many alumni family members you have. *You may receive one Alumni Family and one Alumni Legacy award.</li>
+
+
+
+<li><strong>Alumni Legacy Award:</strong> If you indicate on your application for admission that you have a mother, father, grandfather, or grandmother who attended Clarkson, you may qualify for a $1000 scholarship. You can only receive one Alumni Legacy Award no matter how many alumni legacy connections you have. *You may receive one Alumni Family and one Alumni Legacy award.</li>
+</ul>
+</div></details>
+
+
+
+<details class="wp-block-themeisle-blocks-accordion-item"><summary class="wp-block-themeisle-blocks-accordion-item__title"><div>Honors Program</div></summary><div class="wp-block-themeisle-blocks-accordion-item__content">
+<p class="wp-block-paragraph">Scholarships for students selected for admission to the University&#8217;s <a href="https://www.clarkson.edu/academics/honors" target="_blank" rel="noreferrer noopener">Honors Program</a>. Space for transfer students in the Honors Program is limited.</p>
+</div></details>
+</div>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-primary"><a class="wp-block-button__link wp-element-button" href="https://www.clarkson.edu/admissions-aid/transfer/financial-aid-scholarships" target="_blank" rel="noreferrer noopener">More About Financial Aid</a></div>
+</div>
+
+
+
+<h2 class="wp-block-heading">Clarkson Program Offerings</h2>
+
+
+
+<div id="wp-block-themeisle-blocks-accordion-911d2683" class="wp-block-themeisle-blocks-accordion exclusive has-dark-content-bg">
+<details class="wp-block-themeisle-blocks-accordion-item"><summary class="wp-block-themeisle-blocks-accordion-item__title"><div>Business Programs</div></summary><div class="wp-block-themeisle-blocks-accordion-item__content">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<ul class="wp-block-list">
+<li>3+1 Business Administration BS/MBA</li>
+
+
+
+<li>Accounting</li>
+
+
+
+<li>Applied Mathematics and Statistics</li>
+
+
+
+<li>Business Analytics</li>
+
+
+
+<li>Business Studies</li>
+
+
+
+<li>Construction Engineering Management</li>
+
+
+
+<li>Economics</li>
+
+
+
+<li>Engineering and Management</li>
+
+
+
+<li>Finance</li>
+
+
+
+<li>Financial Information and Analysis</li>
+
+
+
+<li>Global Supply Chain Management</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<ul class="wp-block-list">
+<li>Human Resources</li>
+
+
+
+<li>Human Resources Management</li>
+
+
+
+<li>Information Systems</li>
+
+
+
+<li>Information Technology</li>
+
+
+
+<li>Innovation and Entrepreneurship</li>
+
+
+
+<li>Joint Programs</li>
+
+
+
+<li>Law Studies</li>
+
+
+
+<li>Marketing</li>
+
+
+
+<li>Product Development and Marketing</li>
+
+
+
+<li>Quality-Based Project Management</li>
+
+
+
+<li>University Studies</li>
+</ul>
+</div>
+</div>
+</div></details>
+
+
+
+<details class="wp-block-themeisle-blocks-accordion-item"><summary class="wp-block-themeisle-blocks-accordion-item__title"><div>Engineering Programs</div></summary><div class="wp-block-themeisle-blocks-accordion-item__content">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<ul class="wp-block-list">
+<li>Advanced Manufacturing Engineering</li>
+
+
+
+<li>Aerospace Engineering</li>
+
+
+
+<li>Architectural and Facilities Engineering</li>
+
+
+
+<li>Biomedical Engineering</li>
+
+
+
+<li>Biomolecular Engineering</li>
+
+
+
+<li>Chemical Engineering</li>
+
+
+
+<li>Civil Engineering</li>
+
+
+
+<li>Computer Engineering</li>
+
+
+
+<li>Construction Engineering Management</li>
+
+
+
+<li>Cybersecurity</li>
+
+
+
+<li>Electrical Engineering</li>
+
+
+
+<li>Electrical and Computer Engineering</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<ul class="wp-block-list">
+<li>Electrical Power Engineering</li>
+
+
+
+<li>Engineering and Management</li>
+
+
+
+<li>Engineering Science</li>
+
+
+
+<li>Environmental Engineering</li>
+
+
+
+<li>Industrial Hygiene</li>
+
+
+
+<li>Materials Science and Engineering</li>
+
+
+
+<li>Mechanical Engineering</li>
+
+
+
+<li>Robotics</li>
+
+
+
+<li>Software Engineering</li>
+
+
+
+<li>Structural Engineering</li>
+
+
+
+<li>University Studies</li>
+
+
+
+<li>Water Resources Engineering</li>
+</ul>
+</div>
+</div>
+</div></details>
+
+
+
+<details class="wp-block-themeisle-blocks-accordion-item"><summary class="wp-block-themeisle-blocks-accordion-item__title"><div>Mathematics Programs</div></summary><div class="wp-block-themeisle-blocks-accordion-item__content">
+<ul class="wp-block-list">
+<li>Applied Mathematics and Statistics</li>
+
+
+
+<li>Computational Science</li>
+
+
+
+<li>Data Science</li>
+
+
+
+<li>Mathematics</li>
+
+
+
+<li>University Studies</li>
+</ul>
+</div></details>
+
+
+
+<details class="wp-block-themeisle-blocks-accordion-item"><summary class="wp-block-themeisle-blocks-accordion-item__title"><div>Science Programs</div></summary><div class="wp-block-themeisle-blocks-accordion-item__content">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<ul class="wp-block-list">
+<li>Applied Mathematics and Statistics</li>
+
+
+
+<li>Biology</li>
+
+
+
+<li>Biomedical Science and Technology</li>
+
+
+
+<li>Biochemistry</li>
+
+
+
+<li>Chemistry</li>
+
+
+
+<li>Cognitive Neuroscience</li>
+
+
+
+<li>Computational Science</li>
+
+
+
+<li>Computer Science</li>
+
+
+
+<li>Digital Arts</li>
+
+
+
+<li>Environmental Science and Sustainability</li>
+
+
+
+<li>Healthcare</li>
+
+
+
+<li>Medicine and Healthcare</li>
+
+
+
+<li>Physician Assistant Studies</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<ul class="wp-block-list">
+<li>Physics</li>
+
+
+
+<li>Pre-Dental</li>
+
+
+
+<li>Pre-Health Sciences</li>
+
+
+
+<li>Pre-Medical</li>
+
+
+
+<li>Pre-Veterinary</li>
+
+
+
+<li>Psychology</li>
+
+
+
+<li>Robotics</li>
+
+
+
+<li>Science Studies</li>
+
+
+
+<li>Software Engineering</li>
+
+
+
+<li>Sustainable Energy Systems Engineering</li>
+
+
+
+<li>Sustainable Solutions for the Developing World</li>
+
+
+
+<li>University Studies</li>
+
+
+
+<li>War Studies</li>
+</ul>
+</div>
+</div>
+</div></details>
+
+
+
+<details class="wp-block-themeisle-blocks-accordion-item"><summary class="wp-block-themeisle-blocks-accordion-item__title"><div>Technology Programs</div></summary><div class="wp-block-themeisle-blocks-accordion-item__content">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<ul class="wp-block-list">
+<li>Biomedical Science and Technology</li>
+
+
+
+<li>Business Analytics</li>
+
+
+
+<li>Communication</li>
+
+
+
+<li>Computer Science</li>
+
+
+
+<li>Cybersecurity</li>
+
+
+
+<li>Digital Arts</li>
+
+
+
+<li>Financial Information and Analysis</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<ul class="wp-block-list">
+<li>Global Supply Chain Management</li>
+
+
+
+<li>Information Technology</li>
+
+
+
+<li>Innovation and Entrepreneurship</li>
+
+
+
+<li>Robotics</li>
+
+
+
+<li>Science Studies</li>
+
+
+
+<li>Software Engineering</li>
+
+
+
+<li>University Studies</li>
+</ul>
+</div>
+</div>
+</div></details>
+
+
+
+<details class="wp-block-themeisle-blocks-accordion-item"><summary class="wp-block-themeisle-blocks-accordion-item__title"><div>Health Programs</div></summary><div class="wp-block-themeisle-blocks-accordion-item__content">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<ul class="wp-block-list">
+<li>Biomedical Engineering</li>
+
+
+
+<li>Clinical Leadership in Healthcare Management</li>
+
+
+
+<li>Direct Entry Healthcare Programs</li>
+
+
+
+<li>Healthcare</li>
+
+
+
+<li>Joint Programs</li>
+
+
+
+<li>Medicine and Healthcare</li>
+
+
+
+<li>Occupational Therapy</li>
+
+
+
+<li>Physical Therapy</li>
+
+
+
+<li>Physician Assistant Studies</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<ul class="wp-block-list">
+<li>Pre-Dental</li>
+
+
+
+<li>Pre-Health Sciences</li>
+
+
+
+<li>Pre-Medical</li>
+
+
+
+<li>Pre-Optometry</li>
+
+
+
+<li>Pre-Pharmacy</li>
+
+
+
+<li>Pre-Public Health</li>
+
+
+
+<li>Pre-Veterinary</li>
+
+
+
+<li>University Studies</li>
+</ul>
+</div>
+</div>
+</div></details>
+
+
+
+<details class="wp-block-themeisle-blocks-accordion-item"><summary class="wp-block-themeisle-blocks-accordion-item__title"><div>Liberal Arts Programs</div></summary><div class="wp-block-themeisle-blocks-accordion-item__content">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<ul class="wp-block-list">
+<li>Anthropology</li>
+
+
+
+<li>Cognitive Neuroscience</li>
+
+
+
+<li>Communication</li>
+
+
+
+<li>Digital Arts</li>
+
+
+
+<li>Gender and Sexuality Studies</li>
+
+
+
+<li>Humanities and Social Sciences</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<ul class="wp-block-list">
+<li>Law Studies</li>
+
+
+
+<li>Literature</li>
+
+
+
+<li>Professional Studies</li>
+
+
+
+<li>University Studies</li>
+
+
+
+<li>War Studies</li>
+</ul>
+</div>
+</div>
+</div></details>
+</div>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-primary"><a class="wp-block-button__link wp-element-button" href="https://www.clarkson.edu/academics/majors-minors" target="_blank" rel="noreferrer noopener">Learn More About Our Programs</a></div>
+</div>
+
+
+
+<div class="wp-block-group router"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
+<div class="wp-block-group grid__item--3"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="900" height="600" src="https://study.clarkson.edu/wp-content/uploads/2024/08/image-1.jpeg" alt="This image has an empty alt attribute; its file name is Game-Night-Student-Center-3_900x600.jpg" class="wp-image-1186" srcset="https://study.clarkson.edu/wp-content/uploads/2024/08/image-1.jpeg 900w, https://study.clarkson.edu/wp-content/uploads/2024/08/image-1-300x200.jpeg 300w, https://study.clarkson.edu/wp-content/uploads/2024/08/image-1-768x512.jpeg 768w" sizes="auto, (max-width: 900px) 100vw, 900px" /></figure>
+
+
+
+<p class="router__content wp-block-paragraph"><a href="https://www.clarkson.edu/about/visit-clarkson" target="_blank" rel="noreferrer noopener">Visit Clarkson</a></p>
+</div></div>
+
+
+
+<div class="wp-block-group grid__item--3"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
+<figure class="wp-block-image size-full"><img decoding="async" src="https://study.clarkson.edu/wp-content/uploads/2024/04/Clarkson-Baja-Seven-Springs-4-1.jpg" alt="" class="wp-image-820"/></figure>
+
+
+
+<p class="router__content wp-block-paragraph"><a href="https://www.clarkson.edu/student-life/clubs-activities/speed-teams" target="_blank" rel="noreferrer noopener">SPEED Teams</a></p>
+</div></div>
+
+
+
+<div class="wp-block-group grid__item--3"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="898" height="600" src="https://study.clarkson.edu/wp-content/uploads/2024/12/Student-Model-Day-2-4-8-22-68_900x600.jpg" alt="" class="wp-image-1700" srcset="https://study.clarkson.edu/wp-content/uploads/2024/12/Student-Model-Day-2-4-8-22-68_900x600.jpg 898w, https://study.clarkson.edu/wp-content/uploads/2024/12/Student-Model-Day-2-4-8-22-68_900x600-300x200.jpg 300w, https://study.clarkson.edu/wp-content/uploads/2024/12/Student-Model-Day-2-4-8-22-68_900x600-768x513.jpg 768w" sizes="auto, (max-width: 898px) 100vw, 898px" /></figure>
+
+
+
+<p class="router__content wp-block-paragraph"><a href="https://www.clarkson.edu/admissions-aid/transfer" target="_blank" rel="noreferrer noopener">Transfer Admissions &amp; Aid</a></p>
+</div></div>
+</div></div>
+
+
+
+<div class="wp-block-columns cta is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<h2 class="wp-block-heading">Meet Your Admission Counselor/Get Your Credit Evaluation</h2>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-secondary"><a class="wp-block-button__link wp-element-button" href="mailto:kcollett@clarkson.edu" target="_blank" rel="noreferrer noopener">Contact Admissions Counselor</a></div>
+
+
+
+<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-secondary"><a class="wp-block-button__link wp-element-button" href="mailto:tradmission@clarkson.edu" target="_blank" rel="noreferrer noopener">Contact Transfer Admissions</a></div>
+
+
+
+<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-secondary"><a class="wp-block-button__link wp-element-button" href="https://www.clarkson.edu/apply" target="_blank" rel="noreferrer noopener">Apply Now</a></div>
+</div>
+</div>
+</div>
+
+
+
+<p class="wp-block-paragraph"></p>
+</div>		</div>
+			</div>
+</div>
+
+</main><!--/.neve-main-->
+
+<footer class="site-footer" id="site-footer"  >
+	<div class="hfg_footer">
+		<div class="footer--row footer-top hide-on-mobile hide-on-tablet layout-fullwidth"
+	id="cb-row--footer-desktop-top"
+	data-row-id="top" data-show-on="desktop">
+	<div
+		class="footer--row-inner footer-top-inner footer-content-wrap">
+		<div class="container">
+			<div
+				class="hfg-grid nv-footer-content hfg-grid-top row--wrapper row "
+				data-section="hfg_footer_layout_top" >
+				<div class="hfg-slot left"><div class="builder-item desktop-left tablet-left mobile-left"><div class="item--inner builder-item--footer-one-widgets"
+		data-section="neve_sidebar-widgets-footer-one-widgets"
+		data-item-id="footer-one-widgets">
+		<div class="widget-area">
+		<div id="block-10" class="widget widget_block">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<figure class="wp-block-image is-resized"><img loading="lazy" decoding="async" width="910" height="224" src="https://live-cu-programs.pantheonsite.io/wp-content/uploads/2024/03/logo-gr.png" alt="Clarkson University Logo. Wordmark and shield" class="wp-image-14" style="width:335px" srcset="https://study.clarkson.edu/wp-content/uploads/2024/03/logo-gr.png 910w, https://study.clarkson.edu/wp-content/uploads/2024/03/logo-gr-300x74.png 300w, https://study.clarkson.edu/wp-content/uploads/2024/03/logo-gr-768x189.png 768w" sizes="auto, (max-width: 910px) 100vw, 910px" /></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<ul style="font-size:0.75rem" class="menu has-neve-link-color-color has-text-color has-link-color wp-block-list wp-elements-1">
+<li><a href="https://sites.clarkson.edu/library/">University Libraries</a></li>
+
+
+
+<li style="font-size:0.75rem"><a href="https://www.clarkson.edu/news-events">News &amp; Events</a></li>
+
+
+
+<li><a href="https://www.clarkson.edu/admissions-financial-aid/sas/academic-calendar">Academic Calendar</a></li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<ul style="font-size:0.75rem" class="menu has-neve-link-color-color has-text-color has-link-color wp-block-list wp-elements-2">
+<li><a href="https://www.clarkson.edu/human-resources">Human Resources</a></li>
+
+
+
+<li><a href="https://www.clarkson.edu/academics/research/labs-centers/ise/sustainability-0">Sustainability</a></li>
+
+
+
+<li><a href="https://clarkson.bncollege.com/">Book Store</a></li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<ul style="font-size:0.75rem" class="menu has-neve-link-color-color has-text-color has-link-color wp-block-list wp-elements-3">
+<li><a href="https://www.clarkson.edu/student-life/student-support-services/dei">Diversity, Equity &amp; Inclusion</a></li>
+
+
+
+<li><a href="https://intranet.clarkson.edu/">Intranet</a></li>
+
+
+
+<li><a href="https://www.clarkson.edu/organizational-chart">Organizational Chart</a></li>
+</ul>
+</div>
+</div>
+</div>	</div>
+	</div>
+
+</div></div>							</div>
+		</div>
+	</div>
+</div>
+
+<div class="footer--row footer-main hide-on-mobile hide-on-tablet layout-fullwidth"
+	id="cb-row--footer-desktop-main"
+	data-row-id="main" data-show-on="desktop">
+	<div
+		class="footer--row-inner footer-main-inner footer-content-wrap">
+		<div class="container">
+			<div
+				class="hfg-grid nv-footer-content hfg-grid-main row--wrapper row "
+				data-section="hfg_footer_layout_main" >
+				<div class="hfg-slot left"><div class="builder-item desktop-left tablet-left mobile-left"><div class="item--inner builder-item--footer-two-widgets"
+		data-section="neve_sidebar-widgets-footer-two-widgets"
+		data-item-id="footer-two-widgets">
+		<div class="widget-area">
+		<div id="block-13" class="widget widget_block">
+<div style="height:0px" aria-hidden="true" class="wp-block-spacer"></div>
+</div><div id="block-11" class="widget widget_block">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p class="has-neve-link-color-color has-text-color has-link-color wp-elements-4 wp-block-paragraph" style="font-size:0.75rem"><a href="https://www.clarkson.edu/about/visit/potsdam"><strong>Potsdam Campus</strong>&nbsp;</a>&nbsp;<br>8 Clarkson Ave&nbsp;<br>Potsdam, NY&nbsp;13699&nbsp;&nbsp;<br><a href="tel:315-268-6400">Phone: 315-268-6400</a></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p class="has-neve-link-color-color has-text-color has-link-color wp-elements-5 wp-block-paragraph" style="font-size:0.75rem"><a href="https://www.clarkson.edu/about/visit/capital-region"><strong>Capital Region Campus</strong>&nbsp;</a>&nbsp;<br>40 British American Boulevard<br>Latham, NY 12110<br><a href="tel:518-631-9831">Phone: 518-631-9831</a></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-primary"><a class="wp-block-button__link has-custom-font-size wp-element-button" href="https://www.clarkson.edu/request-info" style="font-size:1rem">Contact Us</a></div>
+</div>
+</div>
+</div>
+</div>	</div>
+	</div>
+
+</div><div class="builder-item desktop-left tablet-left mobile-left"><div class="item--inner builder-item--footer-three-widgets"
+		data-section="neve_sidebar-widgets-footer-three-widgets"
+		data-item-id="footer-three-widgets">
+		<div class="widget-area">
+		<div id="block-12" class="widget widget_block">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:75%">
+<p class="has-neve-link-color-color has-text-color has-link-color wp-elements-6 wp-block-paragraph" style="font-size:0.75rem">© Copyright Clarkson University | <a href="https://www.clarkson.edu/consumer-information-disclosures-heoa">CARES Act Report &amp; Consumer Information Disclosure (HEOA)</a> | <a href="https://www.clarkson.edu/student-life/student-support-services/student-success-center/ways-act-issues-legal-or-moral-concern">Act on Legal &amp; Moral Concerns</a> | <a href="https://www.clarkson.edu/web-accessibility-assistance">Web Accessibility Assistance</a></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%">
+<div class="footer__social">
+     
+    <a class="footer__icon" href="https://www.facebook.com/ClarksonUniversity" target="_blank">
+        <span class="screen-reader-text">facebook</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1664 1664">
+            <path fill="currentColor" d="M1264 12v264h-157q-86 0-116 36t-30 108v189h293l-39 296H961v759H655V905H400V609h255V391q0-186 104-288.5T1036 0q147 0 228 12z"></path>
+          </svg>
+    </a>
+     
+    <a class="footer__icon" href="https://twitter.com/ClarksonUniv" target="_blank">
+        <span class="screen-reader-text">twitter</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<path fill="currentColor" d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path>
+</svg>
+    </a>
+     
+    <a class="footer__icon" href="https://www.instagram.com/clarksonuniv/" target="_blank">
+        <span class="screen-reader-text">Instagram</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 1536">
+            <path fill="currentColor" d="M1024 768q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zM768 138q-7 0-76.5-.5t-105.5 0-96.5 3-103 10T315 169q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103T169 1221q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103T1367 315q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124T5 1085q-5-88-5-317t5-317q10-208 124-322T451 5q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"></path>
+          </svg>
+    </a>
+     
+    <a class="footer__icon" href="https://www.youtube.com/user/clarksonweb" target="_blank">
+        <span class="screen-reader-text">Youtube</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792">
+            <path fill="currentColor" d="M1280 896q0-37-30-54L738 522q-31-20-65-2-33 18-33 56v640q0 38 33 56 16 8 31 8 20 0 34-10l512-320q30-17 30-54zm512 0q0 96-1 150t-8.5 136.5T1760 1330q-16 73-69 123t-124 58q-222 25-671 25t-671-25q-71-8-124.5-58T31 1330q-14-65-21.5-147.5T1 1046 0 896t1-150 8.5-136.5T32 462q16-73 69-123t124-58q222-25 671-25t671 25q71 8 124.5 58t69.5 123q14 65 21.5 147.5T1791 746t1 150z"></path>
+          </svg>
+    </a>
+    </div>
+</div>
+</div>
+</div>	</div>
+	</div>
+
+</div></div>							</div>
+		</div>
+	</div>
+</div>
+
+<div class="footer--row footer-bottom hide-on-mobile hide-on-tablet layout-fullwidth"
+	id="cb-row--footer-desktop-bottom"
+	data-row-id="bottom" data-show-on="desktop">
+	<div
+		class="footer--row-inner footer-bottom-inner footer-content-wrap">
+		<div class="container">
+			<div
+				class="hfg-grid nv-footer-content hfg-grid-bottom row--wrapper row "
+				data-section="hfg_footer_layout_bottom" >
+				<div class="hfg-slot left"><div class="builder-item cr"><div class="item--inner"><div class="component-wrap"><div><p><a href="https://themeisle.com/themes/neve/" rel="nofollow">Neve</a> | Powered by <a href="https://wordpress.org" rel="nofollow">WordPress</a></p></div></div></div></div></div>							</div>
+		</div>
+	</div>
+</div>
+
+<div class="footer--row footer-top hide-on-desktop layout-fullwidth"
+	id="cb-row--footer-mobile-top"
+	data-row-id="top" data-show-on="mobile">
+	<div
+		class="footer--row-inner footer-top-inner footer-content-wrap">
+		<div class="container">
+			<div
+				class="hfg-grid nv-footer-content hfg-grid-top row--wrapper row "
+				data-section="hfg_footer_layout_top" >
+				<div class="hfg-slot left"><div class="builder-item desktop-left tablet-left mobile-left"><div class="item--inner builder-item--footer-one-widgets"
+		data-section="neve_sidebar-widgets-footer-one-widgets"
+		data-item-id="footer-one-widgets">
+		<div class="widget-area">
+		<div id="block-10" class="widget widget_block">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<figure class="wp-block-image is-resized"><img loading="lazy" decoding="async" width="910" height="224" src="https://live-cu-programs.pantheonsite.io/wp-content/uploads/2024/03/logo-gr.png" alt="Clarkson University Logo. Wordmark and shield" class="wp-image-14" style="width:335px" srcset="https://study.clarkson.edu/wp-content/uploads/2024/03/logo-gr.png 910w, https://study.clarkson.edu/wp-content/uploads/2024/03/logo-gr-300x74.png 300w, https://study.clarkson.edu/wp-content/uploads/2024/03/logo-gr-768x189.png 768w" sizes="auto, (max-width: 910px) 100vw, 910px" /></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<ul style="font-size:0.75rem" class="menu has-neve-link-color-color has-text-color has-link-color wp-block-list wp-elements-7">
+<li><a href="https://sites.clarkson.edu/library/">University Libraries</a></li>
+
+
+
+<li style="font-size:0.75rem"><a href="https://www.clarkson.edu/news-events">News &amp; Events</a></li>
+
+
+
+<li><a href="https://www.clarkson.edu/admissions-financial-aid/sas/academic-calendar">Academic Calendar</a></li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<ul style="font-size:0.75rem" class="menu has-neve-link-color-color has-text-color has-link-color wp-block-list wp-elements-8">
+<li><a href="https://www.clarkson.edu/human-resources">Human Resources</a></li>
+
+
+
+<li><a href="https://www.clarkson.edu/academics/research/labs-centers/ise/sustainability-0">Sustainability</a></li>
+
+
+
+<li><a href="https://clarkson.bncollege.com/">Book Store</a></li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<ul style="font-size:0.75rem" class="menu has-neve-link-color-color has-text-color has-link-color wp-block-list wp-elements-9">
+<li><a href="https://www.clarkson.edu/student-life/student-support-services/dei">Diversity, Equity &amp; Inclusion</a></li>
+
+
+
+<li><a href="https://intranet.clarkson.edu/">Intranet</a></li>
+
+
+
+<li><a href="https://www.clarkson.edu/organizational-chart">Organizational Chart</a></li>
+</ul>
+</div>
+</div>
+</div>	</div>
+	</div>
+
+</div><div class="builder-item desktop-left tablet-left mobile-left"><div class="item--inner builder-item--footer-two-widgets"
+		data-section="neve_sidebar-widgets-footer-two-widgets"
+		data-item-id="footer-two-widgets">
+		<div class="widget-area">
+		<div id="block-13" class="widget widget_block">
+<div style="height:0px" aria-hidden="true" class="wp-block-spacer"></div>
+</div><div id="block-11" class="widget widget_block">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p class="has-neve-link-color-color has-text-color has-link-color wp-elements-10 wp-block-paragraph" style="font-size:0.75rem"><a href="https://www.clarkson.edu/about/visit/potsdam"><strong>Potsdam Campus</strong>&nbsp;</a>&nbsp;<br>8 Clarkson Ave&nbsp;<br>Potsdam, NY&nbsp;13699&nbsp;&nbsp;<br><a href="tel:315-268-6400">Phone: 315-268-6400</a></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p class="has-neve-link-color-color has-text-color has-link-color wp-elements-11 wp-block-paragraph" style="font-size:0.75rem"><a href="https://www.clarkson.edu/about/visit/capital-region"><strong>Capital Region Campus</strong>&nbsp;</a>&nbsp;<br>40 British American Boulevard<br>Latham, NY 12110<br><a href="tel:518-631-9831">Phone: 518-631-9831</a></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-primary"><a class="wp-block-button__link has-custom-font-size wp-element-button" href="https://www.clarkson.edu/request-info" style="font-size:1rem">Contact Us</a></div>
+</div>
+</div>
+</div>
+</div>	</div>
+	</div>
+
+</div><div class="builder-item desktop-left tablet-left mobile-left"><div class="item--inner builder-item--footer-three-widgets"
+		data-section="neve_sidebar-widgets-footer-three-widgets"
+		data-item-id="footer-three-widgets">
+		<div class="widget-area">
+		<div id="block-12" class="widget widget_block">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:75%">
+<p class="has-neve-link-color-color has-text-color has-link-color wp-elements-12 wp-block-paragraph" style="font-size:0.75rem">© Copyright Clarkson University | <a href="https://www.clarkson.edu/consumer-information-disclosures-heoa">CARES Act Report &amp; Consumer Information Disclosure (HEOA)</a> | <a href="https://www.clarkson.edu/student-life/student-support-services/student-success-center/ways-act-issues-legal-or-moral-concern">Act on Legal &amp; Moral Concerns</a> | <a href="https://www.clarkson.edu/web-accessibility-assistance">Web Accessibility Assistance</a></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%">
+<div class="footer__social">
+     
+    <a class="footer__icon" href="https://www.facebook.com/ClarksonUniversity" target="_blank">
+        <span class="screen-reader-text">facebook</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1664 1664">
+            <path fill="currentColor" d="M1264 12v264h-157q-86 0-116 36t-30 108v189h293l-39 296H961v759H655V905H400V609h255V391q0-186 104-288.5T1036 0q147 0 228 12z"></path>
+          </svg>
+    </a>
+     
+    <a class="footer__icon" href="https://twitter.com/ClarksonUniv" target="_blank">
+        <span class="screen-reader-text">twitter</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<path fill="currentColor" d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path>
+</svg>
+    </a>
+     
+    <a class="footer__icon" href="https://www.instagram.com/clarksonuniv/" target="_blank">
+        <span class="screen-reader-text">Instagram</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 1536">
+            <path fill="currentColor" d="M1024 768q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zM768 138q-7 0-76.5-.5t-105.5 0-96.5 3-103 10T315 169q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103T169 1221q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103T1367 315q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124T5 1085q-5-88-5-317t5-317q10-208 124-322T451 5q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z"></path>
+          </svg>
+    </a>
+     
+    <a class="footer__icon" href="https://www.youtube.com/user/clarksonweb" target="_blank">
+        <span class="screen-reader-text">Youtube</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792">
+            <path fill="currentColor" d="M1280 896q0-37-30-54L738 522q-31-20-65-2-33 18-33 56v640q0 38 33 56 16 8 31 8 20 0 34-10l512-320q30-17 30-54zm512 0q0 96-1 150t-8.5 136.5T1760 1330q-16 73-69 123t-124 58q-222 25-671 25t-671-25q-71-8-124.5-58T31 1330q-14-65-21.5-147.5T1 1046 0 896t1-150 8.5-136.5T32 462q16-73 69-123t124-58q222-25 671-25t671 25q71 8 124.5 58t69.5 123q14 65 21.5 147.5T1791 746t1 150z"></path>
+          </svg>
+    </a>
+    </div>
+</div>
+</div>
+</div>	</div>
+	</div>
+
+</div></div>							</div>
+		</div>
+	</div>
+</div>
+
+<div class="footer--row footer-bottom hide-on-desktop layout-fullwidth"
+	id="cb-row--footer-mobile-bottom"
+	data-row-id="bottom" data-show-on="mobile">
+	<div
+		class="footer--row-inner footer-bottom-inner footer-content-wrap">
+		<div class="container">
+			<div
+				class="hfg-grid nv-footer-content hfg-grid-bottom row--wrapper row "
+				data-section="hfg_footer_layout_bottom" >
+				<div class="hfg-slot left"><div class="builder-item cr"><div class="item--inner"><div class="component-wrap"><div><p><a href="https://themeisle.com/themes/neve/" rel="nofollow">Neve</a> | Powered by <a href="https://wordpress.org" rel="nofollow">WordPress</a></p></div></div></div></div></div>							</div>
+		</div>
+	</div>
+</div>
+
+	</div>
+</footer>
+
+</div><!--/.wrapper-->
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/neve/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<button id="scroll-to-top" class="scroll-to-top scroll-to-top-right  scroll-show-mobile icon" aria-label="Scroll To Top"><svg class="scroll-to-top-icon" aria-hidden="true" role="img" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15"><rect width="15" height="15" fill="none"/><path fill="currentColor" d="M2,8.48l-.65-.65a.71.71,0,0,1,0-1L7,1.14a.72.72,0,0,1,1,0l5.69,5.7a.71.71,0,0,1,0,1L13,8.48a.71.71,0,0,1-1,0L8.67,4.94v8.42a.7.7,0,0,1-.7.7H7a.7.7,0,0,1-.7-.7V4.94L3,8.47a.7.7,0,0,1-1,0Z"/></svg></button>
+<style type="text/css" media="all">
+ .wp-block-themeisle-blocks-accordion {--accordion-content-background: var(--nv-primary-accent);--accordion-border-color: var(--nv-primary-accent);}tablet{}mobile{} .wp-block-themeisle-blocks-button .wp-block-button__link {--gr-btn-font-style: normal;}
+</style>
+
+<style type="text/css" media="all">
+#wp-block-themeisle-blocks-accordion-6513f868{--content-background:var(--nv-primary-accent);--border-color:var(--nv-primary-accent)}#wp-block-themeisle-blocks-accordion-3d339aa3{--content-background:var(--nv-primary-accent);--border-color:var(--nv-primary-accent)}#wp-block-themeisle-blocks-accordion-911d2683{--content-background:var(--nv-primary-accent);--border-color:var(--nv-primary-accent)}
+</style>
+<script id="neve-script-js-extra">
+var NeveProperties = {"ajaxurl":"https://study.clarkson.edu/wp-admin/admin-ajax.php","nonce":"d039ea5f4a","isRTL":"","isCustomize":""};
+//# sourceURL=neve-script-js-extra
+</script>
+<script id="neve-script-js" src="https://study.clarkson.edu/wp-content/themes/neve/assets/js/build/modern/frontend.js?ver=4.2.13" async></script>
+<script id="neve-script-js-after">
+	;(function () {
+	var htmlEl = document.documentElement;
+	var theme = htmlEl.getAttribute('data-neve-theme') || 'light';
+	var variants = {"logo":{"light":{"src":"https:\/\/study.clarkson.edu\/wp-content\/uploads\/2024\/03\/logo-gr.png","srcset":"https:\/\/study.clarkson.edu\/wp-content\/uploads\/2024\/03\/logo-gr.png 910w, https:\/\/study.clarkson.edu\/wp-content\/uploads\/2024\/03\/logo-gr-300x74.png 300w, https:\/\/study.clarkson.edu\/wp-content\/uploads\/2024\/03\/logo-gr-768x189.png 768w","sizes":"(max-width: 910px) 100vw, 910px"},"dark":{"src":"https:\/\/study.clarkson.edu\/wp-content\/uploads\/2024\/03\/logo-gr.png","srcset":"https:\/\/study.clarkson.edu\/wp-content\/uploads\/2024\/03\/logo-gr.png 910w, https:\/\/study.clarkson.edu\/wp-content\/uploads\/2024\/03\/logo-gr-300x74.png 300w, https:\/\/study.clarkson.edu\/wp-content\/uploads\/2024\/03\/logo-gr-768x189.png 768w","sizes":"(max-width: 910px) 100vw, 910px"},"same":true}};
+
+	function setCurrentTheme( theme ) {
+		var pictures = document.getElementsByClassName( 'neve-site-logo' );
+		for(var i = 0; i<pictures.length; i++) {
+			var picture = pictures.item(i);
+			if( ! picture ) {
+				continue;
+			};
+			var fileExt = picture.src.slice((Math.max(0, picture.src.lastIndexOf(".")) || Infinity) + 1);
+			if ( fileExt === 'svg' ) {
+				picture.removeAttribute('width');
+				picture.removeAttribute('height');
+				picture.style = 'width: var(--maxwidth)';
+			}
+			var compId = picture.getAttribute('data-variant');
+			if ( compId && variants[compId] ) {
+				var isConditional = variants[compId]['same'];
+				if ( theme === 'light' || isConditional || variants[compId]['dark']['src'] === false ) {
+					picture.src = variants[compId]['light']['src'];
+					picture.srcset = variants[compId]['light']['srcset'] || '';
+					picture.sizes = variants[compId]['light']['sizes'];
+					continue;
+				};
+				picture.src = variants[compId]['dark']['src'];
+				picture.srcset = variants[compId]['dark']['srcset'] || '';
+				picture.sizes = variants[compId]['dark']['sizes'];
+			};
+		};
+	};
+
+	var observer = new MutationObserver(function(mutations) {
+		mutations.forEach(function(mutation) {
+			if (mutation.type == 'attributes' && mutation.attributeName === 'data-neve-theme') {
+				theme = htmlEl.getAttribute('data-neve-theme');
+				setCurrentTheme(theme);
+			};
+		});
+	});
+
+	observer.observe(htmlEl, {
+		attributes: true,
+		attributeFilter: ['data-neve-theme']
+	});
+	})();
+//# sourceURL=neve-script-js-after
+</script>
+<script id="neve-scroll-to-top-js-extra">
+var neveScrollOffset = {"offset":"0"};
+//# sourceURL=neve-scroll-to-top-js-extra
+</script>
+<script id="neve-scroll-to-top-js" src="https://study.clarkson.edu/wp-content/themes/neve/assets/js/build/modern/scroll-to-top.js?ver=4.2.13" async></script>
+<script id="otter-accordion-js" src="https://study.clarkson.edu/wp-content/plugins/otter-blocks/build/blocks/accordion.js?ver=247e4628ed5ae9fa5f13" defer></script>
+<script id="jquery-core-js" src="https://study.clarkson.edu/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://study.clarkson.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://study.clarkson.edu/wp-includes/js/wp-emoji-release.min.js?ver=7.1.2"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://study.clarkson.edu/wp-includes/js/wp-emoji-loader.min.js
+</script>
+</body>
+
+</html>
