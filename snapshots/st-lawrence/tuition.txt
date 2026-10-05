@@ -1,0 +1,11 @@
+# St. Lawrence University — tuition & fees baseline
+# Source: http://www.stlawu.edu/admissions/tuition-and-fees (fetched 2026-10-05)
+# Costs for the 2026-27 Academic Year:
+#   Tuition: $69,460
+#   Room & Board: $18,030
+#   Student Activities Fee: $465
+#   Class Dues: $10 (seniors $30/year)
+#   TOTAL: $87,965
+# Notes: single-room rate carries an additional charge; figures approved at the
+# February Board of Trustees meeting per the financial aid booklet.
+# sha256 of this file is recorded in st-lawrence.json (tuition.hash).
