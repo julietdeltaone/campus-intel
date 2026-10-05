@@ -1,0 +1,1111 @@
+# https://www.potsdam.edu/news
+# fetched 2026-10-05
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8" />
+<noscript><style>form.antibot > * { display: none !important; } form.antibot noscript { display: block !important; }</style>
+</noscript><script async src="https://www.googletagmanager.com/gtag/js?id=G-D6NQ09J9FW"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-D6NQ09J9FW", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location"});gtag("config", "AW-622804135", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location"});</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PWB3MXC');
+</script>
+<meta name="description" content="Featured News" />
+<link rel="canonical" href="https://www.potsdam.edu/news" />
+<meta name="Generator" content="Drupal 11 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/potsdam/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>News | SUNY Potsdam</title>
+    <script>document.documentElement.className += ' js';</script>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://catalog.potsdam.edu/widget-api/widget-api.min.js"></script>
+    <script>
+      $.noConflict();
+      jQuery( document ).ready(function( $acalog ) {
+        $acalog('.acalog').acalogWidgetize({
+          gateway: 'https://catalog.potsdam.edu'
+        });
+      });
+    </script>
+    
+        <script async="async" src="https://apply.potsdam.edu/ping">/**/</script>
+    <script async="async" src="https://applygrad.potsdam.edu/ping">/**/</script>
+    
+    <!-- Global site tag (gtag.js) - Google Ads: 622804135 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-622804135"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'AW-622804135');
+    </script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PWB3MXC');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Event snippet for Submit lead form conversion page -->
+    <script>
+      gtag('event', 'conversion', {'send_to': 'AW-622804135/Z9MmCLXam9QBEKf5_KgC'});
+    </script>
+
+
+		<script>
+			window.addEventListener('load',function(){
+				if(jQuery('#form_151cfade-06df-42f7-b63b-5c465064f1f8').is(":visible")){
+					gtag('event', 'conversion', {'send_to': 'AW-10817251542/YNzUCMKFzLADENbRiKYo'});
+				}
+			});
+		</script>
+
+    <!-- DO NOT EDIT BELOW THIS LINE -->
+
+    <link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?tliuib" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?tliuib" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?tliuib" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?tliuib" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?tliuib" />
+<link rel="stylesheet" media="all" href="/core/misc/components/progress.module.css?tliuib" />
+<link rel="stylesheet" media="all" href="/core/misc/components/ajax-progress.module.css?tliuib" />
+<link rel="stylesheet" media="all" href="/core/modules/filter/css/filter.caption.css?tliuib" />
+<link rel="stylesheet" media="all" href="/core/modules/media/css/filter.caption.css?tliuib" />
+<link rel="stylesheet" media="all" href="/core/modules/views/css/views.module.css?tliuib" />
+<link rel="stylesheet" media="all" href="/modules/contrib/better_exposed_filters/css/better_exposed_filters.css?tliuib" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?tliuib" />
+<link rel="stylesheet" media="all" href="/themes/contrib/idfive/css/base/normalize.css?tliuib" />
+<link rel="stylesheet" media="all" href="/themes/contrib/idfive/css/base/elements.css?tliuib" />
+<link rel="stylesheet" media="screen" href="/themes/custom/potsdam/silc/build/css/index.css?tliuib" />
+<link rel="stylesheet" media="print" href="/themes/custom/potsdam/css/print.css?tliuib" />
+<link rel="stylesheet" media="all" href="/themes/contrib/idfive/css/layout/layout.css?tliuib" />
+<link rel="stylesheet" media="all" href="/themes/contrib/idfive/css/components/components.css?tliuib" />
+<link rel="stylesheet" media="all" href="/themes/contrib/idfive/css/theme/theme.css?tliuib" />
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://www.potsdam.edu/themes/custom/potsdam/favicons/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.potsdam.edu/themes/custom/potsdam/favicons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.potsdam.edu/themes/custom/potsdam/favicons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.potsdam.edu/themes/custom/potsdam/favicons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://www.potsdam.edu/themes/custom/potsdam/favicons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.potsdam.edu/themes/custom/potsdam/favicons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.potsdam.edu/themes/custom/potsdam/favicons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.potsdam.edu/themes/custom/potsdam/favicons/apple-touch-icon-152x152.png">
+    <link rel="icon" type="image/png" href="https://www.potsdam.edu/themes/custom/potsdam/favicons/favicon-196x196.png" sizes="196x196">
+    <link rel="icon" type="image/png" href="https://www.potsdam.edu/themes/custom/potsdam/favicons/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="https://www.potsdam.edu/themes/custom/potsdam/favicons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://www.potsdam.edu/themes/custom/potsdam/favicons/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="https://www.potsdam.edu/themes/custom/potsdam/favicons/favicon-128.png" sizes="128x128">
+    <meta name="application-name" content="SUNY Potsdam"/>
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="msapplication-TileImage" content="https://www.potsdam.edu/themes/custom/potsdam/favicons/mstile-144x144.png">
+    <meta name="msapplication-square70x70logo" content="https://www.potsdam.edu/themes/custom/potsdam/favicons/mstile-70x70.png">
+    <meta name="msapplication-square150x150logo" content="https://www.potsdam.edu/themes/custom/potsdam/favicons/mstile-150x150.png">
+    <meta name="msapplication-wide310x150logo" content="https://www.potsdam.edu/themes/custom/potsdam/favicons/mstile-310x150.png">
+    <meta name="msapplication-square310x310logo" content="https://www.potsdam.edu/themes/custom/potsdam/favicons/mstile-310x310.png">
+    
+    <meta name="facebook-domain-verification" content="np8njryfaqjtr5bk9oflsokqm3tjdo" />
+
+  </head>
+  <body class="internal route--entity-node-canonical path-node page-node-type-page has-sidebar">
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PWB3MXC"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div class="svg-sprite">
+  <svg xmlns="http://www.w3.org/2000/svg">
+    <symbol id="search" viewBox="0 0 23 23" xml:space="preserve">
+      <path d="m22 20.1-6.6-6.6c2.3-3.2 2-7.7-.9-10.5C13 1.4 11 .6 8.8.6S4.5 1.4 3 3C-.2 6.2-.2 11.4 3 14.6 4.5 16.1 6.6 17 8.8 17c1.7 0 3.4-.5 4.7-1.5l6.6 6.6c.3.3.6.4 1 .4.3 0 .7-.1 1-.4.4-.6.4-1.5-.1-2m-9.4-7.5c-1 1-2.4 1.6-3.9 1.6s-2.8-.6-3.9-1.6c-2.1-2.1-2.1-5.6 0-7.7 1-1 2.4-1.6 3.9-1.6s2.8.6 3.9 1.6c2.1 2.1 2.1 5.6 0 7.7" class="search-svg__shape"/>
+      <path d="M12.6 12.6c-1 1-2.4 1.6-3.9 1.6s-2.8-.6-3.9-1.6c-2.1-2.1-2.1-5.6 0-7.7 1-1 2.4-1.6 3.9-1.6s2.8.6 3.9 1.6c2.1 2.1 2.1 5.6 0 7.7" class="search-svg__mask"/>
+    </symbol>
+
+    <symbol id="arrowdown" viewBox="0 0 28 35" xml:space="preserve">
+      <path d="M49 19.8 39.8 29V1.7C39.8.8 39 0 38 0s-1.7.8-1.7 1.7V29L27 19.8c-.7-.7-1.8-.7-2.5 0s-.7 1.8 0 2.5l12.2 12.2c.7.7 1.8.7 2.5 0l12.2-12.3c.3-.3.5-.8.5-1.2s-.2-.9-.5-1.2c-.6-.7-1.7-.7-2.4 0" class="st1" transform="translate(563 695)"/>
+    </symbol>
+
+    <symbol id="email" viewBox="0 0 38 38">
+      <circle cx="19" cy="19" r="19" class="svg-email__circle"/>
+      <path d="M26 16.55c-.234.258-.5.485-.781.68a150 150 0 0 0-3.89 2.699c-.657.485-1.47 1.079-2.321 1.079h-.016c-.851 0-1.664-.594-2.32-1.08-1.274-.93-2.586-1.814-3.883-2.697a4.4 4.4 0 0 1-.789-.68v6.209c0 .688.563 1.251 1.25 1.251h11.5c.688 0 1.25-.563 1.25-1.251zm0-2.299A1.26 1.26 0 0 0 24.75 13h-11.5c-.836 0-1.25.657-1.25 1.423 0 .712.79 1.596 1.344 1.971 1.21.845 2.437 1.69 3.648 2.542.508.352 1.367 1.071 2 1.071h.016c.633 0 1.492-.72 2-1.071 1.21-.853 2.437-1.697 3.656-2.542.688-.477 1.336-1.267 1.336-2.143" class="svg-email__shape"/>
+    </symbol>
+
+    <symbol id="instagram" viewBox="0 0 33 33">
+      <title>Instagram</title>
+      <path d="M8.066 16.5A8.437 8.437 0 0 1 16.5 8.066a8.437 8.437 0 0 1 8.434 8.434 8.436 8.436 0 0 1-8.434 8.433A8.436 8.436 0 0 1 8.066 16.5M25.2 0H7.8C3.51 0 0 3.51 0 7.8v17.4C0 29.495 3.51 33 7.8 33h17.4c4.296 0 7.8-3.504 7.8-7.8V7.8C33 3.51 29.496 0 25.2 0M7.8 1.95h17.4c3.224 0 5.85 2.634 5.85 5.85v17.4a5.86 5.86 0 0 1-5.85 5.85H7.8c-3.216 0-5.85-2.627-5.85-5.85V7.8c0-3.216 2.634-5.85 5.85-5.85m19.14 2.46c-.95 0-1.71.77-1.71 1.714 0 .95.76 1.712 1.71 1.712a1.712 1.712 0 1 0 .001-3.425m.203 12.09c0-5.88-4.764-10.643-10.643-10.643S5.858 10.622 5.858 16.501s4.764 10.643 10.643 10.643 10.643-4.764 10.643-10.643"/>
+    </symbol>
+
+    <symbol id="minus" viewBox="0 0 20 20">
+      <path d="M16 10c0 .553-.048 1-.601 1H4.601C4.049 11 4 10.553 4 10s.049-1 .601-1H15.4c.552 0 .6.447.6 1"/>
+    </symbol>
+
+    <symbol id="play" viewBox="0 0 53 53">
+      <title>Combined Shape</title>
+      <path d="M26.5 53C41.136 53 53 41.136 53 26.5S41.136 0 26.5 0 0 11.864 0 26.5 11.864 53 26.5 53m14.455-26.5L20.236 40.955v-28.91z" fill="#fff" fill-rule="evenodd" opacity=".791"/>
+    </symbol>
+
+    <symbol id="quotes" viewBox="0 0 99 77" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <title>quotation</title>
+      <path d="m35.675 0 8.255 9.683c-11.793 9.977-16.216 17.9-18.87 28.17 8.55 2.054 14.153 9.39 14.153 18.487 0 11.15-7.666 19.66-19.46 19.66C7.96 76 0 66.61 0 54.58 0 36.092 12.088 14.964 35.675 0m53.07 0L97 9.683c-11.793 9.977-16.216 17.9-19.164 28.17 8.845 2.054 14.447 9.39 14.447 18.487 0 11.15-7.96 19.66-19.754 19.66-11.793 0-19.46-9.39-19.46-21.42 0-18.487 12.09-39.615 35.676-54.58" fill="#fff"/>
+    </symbol>
+
+    <symbol id="health" viewBox="0 0 100 100">
+      <title>Health</title>
+      <path d="M82 29.9H67.6V18.9a3 3 0 0 0-3-3H35.4a3 3 0 0 0-3 3V29.9H18a3 3 0 0 0-3 3V81.1a3 3 0 0 0 3 3H82a3 3 0 0 0 3-3V32.9a3 3 0 0 0-3-3ZM61.2 60H53v8.2H47V60H38.8V54H47V45.9h6V54h8.2Zm.5-30.1H38.4V21.9H61.6Z"/>
+    </symbol>
+
+    <symbol id="community" viewBox="0 0 100 100" xml:space="preserve">
+      <path d="M67.7 17.2c-.5-.3-1.2-.3-1.7-.1l-.1.1c-.3.2-.5.4-.7.7l-4.1 6.8c-.2.4-.3.9-.2 1.4.1.5.4.9.8 1.1.6.3 1.3.3 1.8 0 .3-.2.5-.4.7-.7l4.1-6.8c.2-.4.3-.9.2-1.4-.1-.4-.4-.8-.8-1.1z"/>
+      <path d="M30.6 17.2c.5-.3 1.2-.3 1.7-.1l.1.1c.3.2.5.4.7.7l4.1 6.8c.2.4.3.9.2 1.4-.1.5-.4.9-.8 1.1-.6.3-1.3.3-1.8 0-.3-.2-.5-.4-.7-.7L30 19.7c-.2-.4-.3-.9-.2-1.4.1-.4.4-.8.8-1.1z"/>
+      <path d="M22.1 35.6c.2 0 .3 0 .5-.1.5-.1.9-.4 1.1-.8.5-.9.2-2-.7-2.5l-6.9-4c-.3-.2-.6-.3-.9-.3l-.1 0c-.6 0-1.1.4-1.5.9-.2.4-.3.9-.2 1.4.1.5.4.9.8 1.1l6.9 4c.3.1.6.2.9.3z"/>
+      <path d="M85.3 28.9c-.3-.5-.8-.9-1.5-.9l-.1 0c-.3 0-.6.1-.9.3l-6.9 4c-.4.2-.7.6-.9 1.1-.1.5-.1 1 .2 1.4.3.6.9.9 1.6.9.3 0 .6-.1.9-.2l6.9-4c.4-.2.7-.6.8-1.1.1-.5.1-1-.1-1.4z"/>
+      <path d="M49.4 13.3c-.6 0-1.2.3-1.5.8l-.1.1c-.2.3-.2.6-.2.9l-.1 8c0 .5.2.9.5 1.3.3.4.8.6 1.3.6.7 0 1.3-.3 1.6-.9.2-.3.3-.6.3-.9l.1-8c0-.5-.2-.9-.5-1.3-.4-.2-.8-.4-1.4-.4z"/>
+      <path d="M27 77.1v10.4h46.2V77.1c0-6.3-4.9-11.2-11.2-11.2H38.3C32.2 65.9 27 70.9 27 77.1z"/>
+      <path d="M50.1 61.3c7.1 0 12.9-5.8 12.9-12.9 0-7.1-5.8-12.9-12.9-12.9s-12.9 5.8-12.9 12.9c-.1 7.1 5.7 12.9 12.9 12.9z"/>
+      <path d="M20 63.2c5.6 0 10.1-4.6 10.1-10.1S25.6 42.9 20 42.9 9.8 47.5 9.8 53.1 14.4 63.2 20 63.2z"/>
+      <path d="M80.3 63.2c5.6 0 10.1-4.6 10.1-10.1s-4.6-10.1-10.1-10.1c-5.6 0-10.1 4.6-10.1 10.1s4.6 10.1 10.1 10.1z"/>
+      <path d="M10.6 66.9c-4.8 0-8.8 3.9-8.8 8.8v8.2h21.6v-6.7c0-4.2 1.9-7.9 4.8-10.3H10.6z"/>
+      <path d="M89.6 66.9H72.2c2.9 2.5 4.7 6.2 4.7 10.3v6.7h21.6v-8.2c.1-4-3.9-7.8-8.9-7.8z"/>
+    </symbol>
+
+    <symbol id="ratio-icon" viewBox="0 0 151.9 141" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+      <path d="M150.9 125.6c-2.6-1.8-5.5-3.3-8.6-4.3 5.5-5.2 5.7-13.8.5-19.2-5.2-5.5-13.8-5.7-19.2-.5-5.5 5.2-5.7 13.8-.5 19.2.2.2.3.4.5.5-2.4.9-4.7 2-6.9 3.3-2.2-1.3-4.5-2.4-6.9-3.3 5.5-5.2 5.7-13.8.5-19.2-5.2-5.5-13.8-5.7-19.2-.5-5.5 5.2-5.7 13.8-.5 19.2.2.2.3.4.5.5-2.4.9-4.7 2-6.9 3.3-2.2-1.3-4.5-2.4-6.9-3.3 5.5-5.2 5.7-13.8.5-19.2-5.2-5.5-13.8-5.7-19.2-.5-5.5 5.2-5.7 13.8-.5 19.2.2.2.3.4.5.5-3.1 1-6 2.5-8.6 4.3-1.2.9-1.5 2.6-.6 3.8.9 1.2 2.6 1.5 3.8.6.1 0 6.7-4.9 14.7-4.9s14.6 4.9 14.7 4.9h.1l.3.2.6.2h.8l.7-.2.4-.2h.3c.1 0 6.7-4.9 14.7-4.9s14.6 4.9 14.7 4.9h.1l.3.2.6.2h.8l.7-.2.4-.2h.3c.1 0 6.7-4.9 14.7-4.9s14.6 4.9 14.7 4.9c1.2.9 2.9.6 3.8-.6.9-1.2.6-2.9-.6-3.8m-91.2-14.2c.1-4.5 3.7-8.1 8.2-8 4.5.1 8.1 3.7 8 8.2-.1 4.4-3.7 8-8.1 8-4.5-.1-8.1-3.7-8.1-8.2m32.6 0c.1-4.5 3.7-8.1 8.2-8 4.5.1 8.1 3.7 8 8.2-.1 4.4-3.7 8-8.1 8-4.5-.1-8.1-3.7-8.1-8.2m32.6 0c.1-4.5 3.7-8.1 8.2-8 4.5.1 8.1 3.7 8 8.2-.1 4.4-3.7 8-8.1 8-4.5-.1-8.1-3.7-8.1-8.2"/>
+      <path d="M138.4 86.9c1.5 0 2.7-1.2 2.7-2.7v-71c0-1.5-1.2-2.7-2.7-2.7H27.1c-7.6-.1-13.8 6-13.9 13.5-.1 7.6 6 13.8 13.5 13.9s13.8-6 13.9-13.5c0-3-.9-6-2.7-8.4h97.8v65.4H43.4V55.5c0-.8.6-1.4 1.4-1.4h28.4c4.5 0 8.2-3.7 8.2-8.2s-3.7-8.2-8.2-8.2H38c-.7 0-1.4.3-1.9.8l-8.9 9-8.9-9c-.7-.7-1.7-.9-2.6-.7l-7.3 1.9C3.4 41.4 0 46.1 0 51.4v21.8c0 6.5 4.5 12.1 10.8 13.4v35.7c0 1.5 1.2 2.7 2.7 2.7h27.2c1.5 0 2.7-1.2 2.7-2.7V86.9H138.4zM35.2 24.1c0 4.5-3.6 8.1-8.1 8.1S19 28.6 19 24.1s3.6-8.1 8.1-8.1c4.5.1 8.1 3.6 8.1 8.1zm2.8 31.4v64.1h-8.2V84.1c0-1.5-1.2-2.7-2.7-2.7s-2.7 1.2-2.7 2.7v35.5h-8.2V56.9c0-1.5-1.2-2.7-2.7-2.7-1.5 0-2.7 1.2-2.7 2.7v24c-3.2-1.2-5.4-4.3-5.4-7.7V51.4c0-2.9 1.8-5.5 4.5-6.5l5.5-1.4 9.8 9.8c1.1 1 2.7 1 3.8 0l10.1-10.1h34.1c1.5 0 2.8 1.2 2.8 2.8s-1.2 2.8-2.8 2.8H44.7C41 48.8 38 51.8 38 55.5z"/>
+    </symbol>
+
+    <symbol id="majors-icon" viewBox="0 0 141 141" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+      <path d="M127.4 0h-103c-7.5 0-13.6 6.1-13.6 13.6v105.7H2.7c-1.5 0-2.7 1.2-2.7 2.7v5.4c0 7.5 6.1 13.6 13.6 13.6h92.2c7.5 0 13.6-6.1 13.6-13.6V21.7h19c1.5-.1 2.6-1.2 2.6-2.7v-5.4C141 6.1 134.9 0 127.4 0zm-113.8 135.6c-4.5 0-8.1-3.6-8.1-8.1v-2.7h86.7v2.7c0 2.9.9 5.8 2.7 8.1H13.6zm100.3-121.9v113.8c0 4.5-3.6 8.2-8.1 8.2s-8.2-3.6-8.2-8.2V122c0-1.5-1.2-2.7-2.7-2.7H16.3V13.6c0-4.5 3.6-8.1 8.1-8.1h92.3c-1.8 2.3-2.8 5.2-2.8 8.1zm21.7 2.6h-16.3v-2.7c0-4.5 3.6-8.2 8.2-8.2s8.2 3.6 8.2 8.2v2.7z"/>
+      <path d="M46.1 27.1h38c1.5 0 2.7-1.2 2.7-2.7 0-1.5-1.2-2.7-2.7-2.7h-38c-1.5 0-2.7 1.2-2.7 2.7 0 1.5 1.2 2.7 2.7 2.7z"/>
+      <path d="M35.3 43.4h59.6c1.5 0 2.7-1.2 2.7-2.7S96.4 38 94.9 38H35.3c-1.5 0-2.7 1.2-2.7 2.7s1.2 2.7 2.7 2.7z"/>
+      <path d="M35.3 54.2h59.6c1.5 0 2.7-1.2 2.7-2.7s-1.2-2.7-2.7-2.7H35.3c-1.5 0-2.7 1.2-2.7 2.7s1.2 2.7 2.7 2.7z"/>
+      <path d="M73.2 59.7h-38c-1.5 0-2.7 1.2-2.7 2.7 0 1.5 1.2 2.7 2.7 2.7h38c1.5 0 2.7-1.2 2.7-2.7s-1.2-2.7-2.7-2.7z"/>
+      <path d="M62.4 86.8H35.3c-1.5 0-2.7 1.2-2.7 2.7 0 1.5 1.2 2.7 2.7 2.7h27.1c1.5 0 2.7-1.2 2.7-2.7 0-1.5-1.2-2.7-2.7-2.7z"/>
+      <path d="M51.5 97.6H35.3c-1.5 0-2.7 1.2-2.7 2.7 0 1.5 1.2 2.7 2.7 2.7h16.2c1.5 0 2.7-1.2 2.7-2.7 0-1.5-1.2-2.7-2.7-2.7z"/>
+      <path d="M92.2 65.1c-8.9-.1-16.3 7.1-16.3 16.1 0 4.7 1.9 9.1 5.4 12.2v17.7c0 1.5 1.2 2.7 2.6 2.8.6 0 1.1-.1 1.6-.5l6.6-4.4 6.6 4.4c1.2.8 2.9.5 3.7-.7.3-.5.5-1 .5-1.6V93.4c6.7-5.9 7.3-16.2 1.3-22.9-2.9-3.4-7.3-5.4-11.9-5.4zm5.4 41c-1.3.9-2.6 1.7-3.9 2.6l-3.9-2.6c-.9-.6-2.1-.6-3 0l-3.9 2.6v-9.4c3.5 1.3 7.3 1.3 10.8 0v9.4zm-5.4-13.9c-6 0-10.8-4.8-10.8-10.8 0-6 4.8-10.8 10.8-10.8 5.9 0 10.7 4.8 10.8 10.7 0 6-4.8 10.8-10.8 10.9z"/>
+    </symbol>
+
+    <symbol id="arts-icon" viewBox="0 0 141 141" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+      <path d="M70.5 16.3c1.5 0 2.7 1.2 2.7 2.7 0 1.5-1.2 2.7-2.7 2.7-15 0-27.1 12.1-27.1 27.1 0 1.5-1.2 2.7-2.7 2.7s-2.7-1.2-2.7-2.7c.1-17.9 14.6-32.4 32.5-32.5z"/>
+      <path d="M117.5 21.7c-.7-1.3-.3-2.9 1-3.7l9.4-5.4c1.3-.7 3-.3 3.7 1s.3 3-1 3.7l-9.4 5.4c-1.3.7-2.9.3-3.7-1z"/>
+      <path d="M130.6 80.4c1.3.7 1.7 2.4 1 3.7s-2.4 1.7-3.7 1l-9.4-5.4c-1.3-.7-1.7-2.4-1-3.7s2.4-1.7 3.7-1l9.4 5.4z"/>
+      <path d="M131.4 62.3c1.4.4 2.3 1.9 1.9 3.3-.3 1.2-1.4 2-2.6 2h-.7l-5.2-1.4c-1.4-.5-2.1-2-1.7-3.4.4-1.3 1.7-2 3.1-1.8l5.2 1.3z"/>
+      <path d="M9.6 35.3c-1.5-.4-2.3-1.9-1.9-3.4.3-1.4 1.8-2.3 3.3-1.9l5.2 1.4c1.4.4 2.3 1.9 1.9 3.3-.3 1.2-1.4 2-2.6 2h-.7l-5.2-1.4z"/>
+      <path d="M130 30c1.4-.5 2.9.2 3.4 1.7s-.2 2.9-1.7 3.4c-.1 0-.3.1-.4.1l-5.2 1.4h-.7c-1.5 0-2.7-1.2-2.7-2.7 0-1.2.8-2.2 2-2.6L130 30z"/>
+    </symbol>
+
+    <symbol id="logo" viewBox="0 0 306 76.5" xml:space="preserve">
+      <path d="M29.3 38.1c0 2.5 0 5 0 7.5v.4c0 .1.1.1.1.1h.3c2.5 0 5 0 7.5 0h.3c0 0 .1 0 .1-.1v-.4c0-2.5 0-5 0-7.5v-.3c0 0 0-.1-.1-.1h-.3c-2.5 0-5 0-7.5 0h-.3c0 0-.1 0-.1.1v.3z" class="logo-color"/>
+      <path d="M23.9 47.6v-.3c0-.3 0-.7 0-1 0-6 0-12 0-18v-.4c0-.1.1-.1.1-.1.4 0 .7.1 1 .3s.5.4.7.7c.4.5.7 1.1.8 1.7.1.4.2.9.2 1.3v.5c0 4.5 0 8.9 0 13.4 0 .6.1.5-.4.7-.7.3-1.3.6-2 1-.1.1-.2.1-.3.1h-.1z" class="logo-color"/>
+      <path d="M40.3 46.2v-.2s0-.2 0-.4c0-4.4 0-8.8 0-13.2v-.8c0-.7.2-1.4.5-2 .2-.3.4-.6.6-.9.2-.2.4-.4.6-.5.3-.2.6-.3 1-.4l.1.1v.4c0 2.1 0 4.2 0 6.3 0 4.1 0 8.2 0 12.2v.3c0 .4 0 .5-.4.3-.7-.3-1.4-.7-2.1-1-.1-.1-.2-.1-.3-.2z" class="logo-color"/>
+    </symbol>
+
+    <symbol id="arts-alt-icon" viewBox="0 0 142.9 141" xmlns="http://www.w3.org/2000/svg">
+      <path d="M42.7 141c-1.6 0-2.9-1.3-2.9-2.9v-9c0-5.7-4.6-10.3-10.3-10.3H16c-5.7 0-10.3 4.6-10.3 10.3v9c0 1.6-1.3 2.9-2.9 2.9S0 139.7 0 138.1v-9c0-8.8 7.2-16 16-16h13.5c8.8 0 16 7.2 16 16v9c.1 1.6-1.2 2.9-2.8 2.9z" fill="#505759"/>
+      <path d="M91.4 141c-1.6 0-2.9-1.3-2.9-2.9v-9c0-5.7-4.6-10.3-10.3-10.3H64.7c-5.7 0-10.3 4.6-10.3 10.3v9c0 1.6-1.3 2.9-2.9 2.9-1.6 0-2.9-1.3-2.9-2.9v-9c0-8.8 7.2-16 16-16h13.5c8.8 0 16 7.2 16 16v9c.2 1.6-1.1 2.9-2.7 2.9z" fill="#505759"/>
+      <path d="M140.1 141c-1.6 0-2.9-1.3-2.9-2.9v-9c0-5.7-4.6-10.3-10.3-10.3h-13.5c-5.7 0-10.3 4.6-10.3 10.3v9c0 1.6-1.3 2.9-2.9 2.9s-2.9-1.3-2.9-2.9v-9c0-8.8 7.2-16 16-16h13.5c8.8 0 16 7.2 16 16v9c.1 1.6-1.1 2.9-2.7 2.9z" fill="#505759"/>
+      <path d="M18.3 60.4c-1.6 0-2.8-1.3-2.9-2.8 0-1.6 1.3-2.9 2.8-2.9h5.2c14.5-11.8 17.1-41.6 17.2-41.9.1-1.1.8-2.1 1.9-2.4 1-.4 2.2-.1 3 .7l.8.8c2.8 2.8 7.3 2.8 10 0 .5-.5 1.3-.8 2-.8.8 0 1.5.3 2 .8 2.7 2.7 7.3 2.7 10 0 1.1-1.1 2.9-1.1 4 0s1.1 2.9 0 4c-2.4 2.4-5.6 3.8-9.1 3.8-2.5 0-5-.7-7-2.1-3.8 2.5-8.6 2.8-12.6.8-1.5 9.9-6.2 31.5-19.5 41.5-.5.4-1.1.6-1.7.6l-6.1-.1z" fill="#505759"/>
+      <path d="M12.1 90.1c-1.6 0-2.9-1.3-2.9-2.9V2.9c0-1.6 1.3-2.9 2.9-2.9h60.2c1.6 0 2.9 1.3 2.9 2.9s-1.3 2.9-2.9 2.9H15v81.5c0 1.5-1.3 2.8-2.9 2.8z" fill="#505759"/>
+    </symbol>
+
+    <symbol id="learning-icon" viewBox="0 0 312.94 345.27">
+      <path d="M307.44 262.1c-7.88-7.88-18.58-12.31-29.72-12.31h-23.8c-7.56 0-14.8 3-20.15 8.35-4.56 4.56-10.74 7.12-17.18 7.12h-28.59c-5.81 0-10.81 3.45-13.07 8.41l-.81-.07-49.81-41.69c-5.83-4.88-14.43-4.5-19.8.88-5.73 5.73-5.73 15.03 0 20.76l73.72 73.72c4.14 4.14 9.76 6.47 15.62 6.47h73.7c4.94 0 9.67 1.96 13.17 5.45l.58.58" stroke="#515759" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <path d="M96.55 166.87c0-2.56-.27-5.06-.72-7.49l10.28-8.33c-1.14-3.61-2.65-7.15-4.61-10.56-1.97-3.41-4.28-6.49-6.84-9.27l-12.36 4.74c-3.78-3.25-8.17-5.79-12.96-7.48l-2.08-13.08c-3.69-.82-7.51-1.28-11.45-1.28s-7.76.46-11.45 1.28l-2.08 13.08c-4.8 1.69-9.18 4.23-12.97 7.48l-12.36-4.74c-2.55 2.79-4.87 5.86-6.83 9.27-1.97 3.41-3.48 6.95-4.62 10.56l10.28 8.33c-.45 2.43-.72 4.93-.72 7.49s.27 5.06.72 7.49l-10.28 8.33c1.14 3.6 2.65 7.15 4.62 10.56 1.97 3.41 4.28 6.49 6.83 9.27l12.36-4.74c3.78 3.25 8.17 5.79 12.97 7.48l2.08 13.08c3.69.82 7.51 1.28 11.45 1.28s7.76-.47 11.45-1.28l2.08-13.08c4.8-1.69 9.18-4.23 12.97-7.48l12.36 4.74c2.55-2.79 4.87-5.87 6.84-9.27 1.97-3.41 3.48-6.95 4.61-10.56l-10.28-8.33c.45-2.43.72-4.93.72-7.49Z" stroke="#515759" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    </symbol>
+
+    <symbol id="clubs-icon" viewBox="0 0 390.64 364.62">
+      <ellipse cx="334.43" cy="242.33" rx="26.47" ry="27.41" stroke="#515759" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <path d="M385.14 293.61c0-.06-.02-.12-.05-.17h.05s-10.46-22.24-41.9-22.74c-12.87-.21-8.01-.13-17.35-.03-32.77.33-40.43 22.94-40.43 22.95h0" stroke="#515759" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <ellipse cx="54.46" cy="242.33" rx="26.47" ry="27.41" stroke="#515759" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <path d="M105.18 293.61c0-.06-.02-.12-.05-.17h.05s-10.46-22.24-41.9-22.74c-12.87-.21-8.01-.13-17.35-.03-32.77.33-40.43 22.94-40.43 22.95h0" stroke="#515759" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    </symbol>
+
+    <symbol id="programs-icon" viewBox="0 0 343.21 341.87">
+      <polyline points="61.06 105.86 61.06 5.5 121.06 5.5 121.06 105.86" stroke="#515759" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <polyline points="106.06 276.95 136.04 300.03 136.04 261.5 136.04 206.67" stroke="#515759" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <polyline points="46.05 206.67 46.05 261.5 46.05 336.37 76.07 303.88 106.06 336.37 106.06 276.95 106.06 261.5 106.06 223.53" stroke="#515759" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <circle cx="91.06" cy="161.83" r="63.51" stroke="#515759" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <circle cx="91.06" cy="161.83" r="31.21" stroke="#515759" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <path d="M46.05 261.5H14.69c-5.06 0-9.19-4.1-9.19-9.16V14.69c0-5.09 4.13-9.19 9.19-9.19h313.86c5.06 0 9.16 4.1 9.16 9.19v237.65c0 5.06-4.1 9.16-9.16 9.16h-192.51" stroke="#515759" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <line x1="293.54" y1="150.84" x2="182.19" y2="150.84" stroke="#515759" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="293.54" y1="116.16" x2="182.19" y2="116.16" stroke="#515759" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="293.54" y1="81.48" x2="182.19" y2="81.48" stroke="#515759" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="232.26" y1="185.52" x2="182.19" y2="185.52" stroke="#515759" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+  </svg>
+</div>    <a href="#main-content" class="visually-hidden focusable skip-link">Skip to main content</a>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PWB3MXC" height="0" width="0" style="display:none;visibility:hidden;"></iframe>
+</noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+        <header class="main-header">
+    <div class="main-header__logo">
+      <a href="/" aria-label="SUNY Potsdam Logo">
+        <img src="https://www.potsdam.edu/themes/custom/potsdam/silc/build/img/logo.svg" aria-hidden="true" alt="Suny Potsdam" width="223" height="56">
+      </a>
+    </div>
+    <div class="main-nav">
+      <nav class="silc-nav">
+          
+              <ul data-block="top">
+              <li>
+        <a href="/academics" data-drupal-link-system-path="node/1195">Academics</a>
+                                <ul>
+              <li>
+        <a href="/academics/programs-study" data-drupal-link-system-path="node/38476">Programs of Study</a>
+              </li>
+          <li>
+        <a href="https://www.potsdam.edu/academics/programs-study/online-hybrid-programs">Online &amp; Hybrid Programs</a>
+              </li>
+          <li>
+        <a href="/academics/aas" data-drupal-link-system-path="node/127">School of Arts &amp; Sciences</a>
+              </li>
+          <li>
+        <a href="/academics/crane-school-music" data-drupal-link-system-path="node/33">Crane School of Music</a>
+              </li>
+          <li>
+        <a href="/academics/SOEPS" data-drupal-link-system-path="node/585">School of Education &amp; Professional Studies</a>
+              </li>
+          <li>
+        <a href="/academics/appliedlearning" title="" data-drupal-link-system-path="node/570">Applied Learning</a>
+              </li>
+          <li>
+        <a href="/academics/resources" data-drupal-link-system-path="node/1358">Academic Resources</a>
+              </li>
+          <li>
+        <a href="/academics/academic-calendar" title="" data-drupal-link-system-path="node/1123">Academic Calendar</a>
+              </li>
+        </ul>
+  
+              </li>
+          <li>
+        <a href="/admissions" data-drupal-link-system-path="node/676">Admission &amp; Aid</a>
+                                <ul>
+              <li>
+        <a href="/admissions/apply" data-drupal-link-system-path="node/956">Apply</a>
+              </li>
+          <li>
+        <a href="/admissions/financial-aid" data-drupal-link-system-path="node/227">Financial Aid</a>
+              </li>
+          <li>
+        <a href="/admissions/tuition" data-drupal-link-system-path="node/1021">Tuition &amp; Fees</a>
+              </li>
+          <li>
+        <a href="/admissions/accepted-students" data-drupal-link-system-path="node/102836">Accepted Students</a>
+              </li>
+          <li>
+        <a href="/admissions/visit" data-drupal-link-system-path="node/5">Visit Campus</a>
+              </li>
+          <li>
+        <a href="/admissions/request_info" data-drupal-link-system-path="node/2021">Request Information</a>
+              </li>
+          <li>
+        <a href="/admissions/visit/find-your-counselor" data-drupal-link-system-path="node/107286">Find Your Counselor</a>
+              </li>
+        </ul>
+  
+              </li>
+          <li>
+        <a href="/studentlife" data-drupal-link-system-path="node/242">Life at Potsdam</a>
+                                <ul>
+              <li>
+        <a href="/studentlife/get-involved" data-drupal-link-system-path="node/36871">Student Activities</a>
+              </li>
+          <li>
+        <a href="/studentlife/housing" data-drupal-link-system-path="node/1283">Housing</a>
+              </li>
+          <li>
+        <a href="/studentlife/dining" data-drupal-link-system-path="node/586">Dining</a>
+              </li>
+          <li>
+        <a href="/studentlife/wellness" data-drupal-link-system-path="node/36716">Health &amp; Wellness </a>
+              </li>
+          <li>
+        <a href="/studentlife/career-services" data-drupal-link-system-path="node/81">Career Services</a>
+              </li>
+          <li>
+        <a href="/studentlife/support" data-drupal-link-system-path="node/1786">Student Support</a>
+              </li>
+          <li>
+        <a href="/studentlife/recreation" data-drupal-link-system-path="node/36996">Recreation</a>
+              </li>
+          <li>
+        <a href="/studentlife/diversity" data-drupal-link-system-path="node/34936">Diversity</a>
+              </li>
+        </ul>
+  
+              </li>
+          <li>
+        <a href="/athletics" data-drupal-link-system-path="node/39491">Athletics</a>
+                                <ul>
+              <li>
+        <a href="/athletics/athletic-facilities" data-drupal-link-system-path="node/85796">Athletic Facilities</a>
+              </li>
+          <li>
+        <a href="/athletics/fitness-center" data-drupal-link-system-path="node/431">Fitness Center</a>
+              </li>
+          <li>
+        <a href="/studentlife/recreation/club-sports" data-drupal-link-system-path="node/40761">Club Sports</a>
+              </li>
+          <li>
+        <a href="/studentlife/recreation/intramurals" data-drupal-link-system-path="node/40756">Intramurals</a>
+              </li>
+          <li>
+        <a href="/athletics/sportsmedicine" data-drupal-link-system-path="node/20341">Sports Medicine</a>
+              </li>
+        </ul>
+  
+              </li>
+          <li>
+        <a href="/about" data-drupal-link-system-path="node/868">About</a>
+                                <ul>
+              <li>
+        <a href="/about/our-campus" title="" data-drupal-link-system-path="node/34816">Our Campus</a>
+              </li>
+          <li>
+        <a href="/about/location" title="" data-drupal-link-system-path="node/28121">Location</a>
+              </li>
+          <li>
+        <a href="/about/leadership" data-drupal-link-system-path="node/2043">Campus Leadership</a>
+              </li>
+          <li>
+        <a href="/about/administrative-offices" title="" data-drupal-link-system-path="node/295">Administrative Offices</a>
+              </li>
+          <li>
+        <a href="/about/college-history" data-drupal-link-system-path="node/24">College History</a>
+              </li>
+          <li>
+        <a href="/about/safety" data-drupal-link-system-path="node/516">Campus Safety</a>
+              </li>
+          <li>
+        <a href="/about/mission" data-drupal-link-system-path="node/2947">Mission</a>
+              </li>
+          <li>
+        <a href="/about/directory" data-drupal-link-system-path="node/38469">Online Directory</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+
+      </nav>
+    </div>
+    <nav class="silc-nav utility">
+      
+              <ul>
+              <li>
+        <a href="/news" data-drupal-link-system-path="node/38468" class="is-active" aria-current="page">News</a>
+              </li>
+          <li>
+        <a href="/events" data-drupal-link-system-path="node/38986">Events</a>
+              </li>
+          <li>
+        <a href="/about/contact-us" data-drupal-link-system-path="node/767">Contact</a>
+              </li>
+          <li>
+        <a href="/admissions/visit" data-drupal-link-system-path="node/5">Visit</a>
+              </li>
+          <li>
+        <a href="/giving" data-drupal-link-system-path="node/774">Give</a>
+              </li>
+          <li>
+        <a href="/the-quad" data-drupal-link-system-path="node/40211">The Quad</a>
+              </li>
+        </ul>
+  
+
+
+    </nav>
+    <div class="main-header__search" aria-label="Search Trigger" role="region">
+      <form action="/search" role="search" method="get" class="search-api-page-block-form" id="search-api-page-block-form" >
+        <label for="edit-keys" class="visible-for-screen-readers">Search this Site</label>
+        <input type="text" class="main-header__search-input" name="s" id="edit-keys" placeholder="Search...">
+      </form>
+      <button class="main-header__search-trigger" aria-label="Toggle search form" aria-expanded="false" aria-controls="search-api-page-block-form">
+        <span class="visible-for-screen-readers">Search</span>
+      </button>
+    </div>
+    <nav class="silc-nav dropdown">
+      <ul>
+        <li>
+          <a href="#">Information for</a>
+          
+              <ul>
+              <li>
+        <a href="/current" data-drupal-link-system-path="node/307">Current Students</a>
+              </li>
+          <li>
+        <a href="/faculty" data-drupal-link-system-path="node/553">Faculty &amp; Staff</a>
+              </li>
+          <li>
+        <a href="https://www.potsdam.edu/family-friends">Family &amp; Friends</a>
+              </li>
+          <li>
+        <a href="/alumni-friends" data-drupal-link-system-path="node/65">Alumni</a>
+              </li>
+          <li>
+        <a href="/community" data-drupal-link-system-path="node/1597">Community</a>
+              </li>
+        </ul>
+  
+
+
+        </li>
+      </ul>
+    </nav>
+    <div class="main-header__trigger-menu">
+      <div class="bar1"></div>
+      <div class="bar2"></div>
+      <div class="bar3"></div>
+    </div>
+  </header>
+
+  <div class="post-header post-header--" style="background-image: url('https://www.potsdam.edu/themes/custom/potsdam/silc/build/img/maroon_hero.jpg')">
+    <div class="compartment">
+      <h1>
+<span>News</span>
+</h1>
+          <nav class="breadcrumb" aria-label="breadcrumb">
+    <ol class="breadcrumb__list">
+                        <li class="breadcrumb__list-item">
+            <a class="breadcrumb__link" href="/">Home</a>
+          </li>
+                                <li class="breadcrumb__list-item" aria-current="true">
+            News
+          </li>
+                  </ol>
+  </nav>
+
+
+    </div>
+  </div>
+
+<main class="main" id="content">
+  <a id="main-content" tabindex="-1"></a>      <div class="compartment">
+      <div class="silc-grid silc-grid--collapse">
+                  <div class="silc-grid__col silc-grid__col--3-1000">
+              <aside class="sidebar-nav" aria-label="Sidebar Navigation">
+  <a class="silc-offcanvas__trigger" href="#sidebar-nav"><span class="link">Section Menu</span></a>
+  <div class="silc-offcanvas silc-offcanvas--sidebar-nav" id="sidebar-nav">
+    <nav class="silc-nav">
+      <ul>
+        <li class="silc-nav__item--parent">
+          <a class="sidebar-nav__parent" href="/">Home</a>
+          
+
+              <ul>
+              <li>
+        <a href="/about" data-drupal-link-system-path="node/868">About</a>
+              </li>
+          <li>
+        <a href="/admissions" data-drupal-link-system-path="node/676">Admissions</a>
+              </li>
+          <li>
+        <a href="/academics" data-drupal-link-system-path="node/1195">Academics</a>
+              </li>
+          <li>
+        <a href="/athletics" data-drupal-link-system-path="node/39491">Athletics</a>
+              </li>
+          <li>
+        <a href="/studentlife" data-drupal-link-system-path="node/242">Life at Potsdam</a>
+              </li>
+          <li>
+        <a href="/giving" data-drupal-link-system-path="node/774">Giving to Potsdam</a>
+              </li>
+          <li>
+        <a href="/alumni-friends" data-drupal-link-system-path="node/65">Alumni &amp; Friends</a>
+              </li>
+          <li>
+        <a href="/community" data-drupal-link-system-path="node/1597">Community</a>
+              </li>
+          <li>
+        <a href="/current" data-drupal-link-system-path="node/307">Current Students</a>
+              </li>
+          <li>
+        <a href="/faculty" data-drupal-link-system-path="node/553">Faculty &amp; Staff</a>
+              </li>
+          <li>
+        <a href="/family-friends" data-drupal-link-system-path="node/211491">Family &amp; Friends</a>
+              </li>
+        </ul>
+  
+
+
+
+        </li>
+      </ul>
+    </nav>
+  </div>
+</aside>
+
+          </div>
+          <div class="silc-grid__col silc-grid__col--9-1000">
+              <div data-drupal-messages-fallback class="hidden"></div>
+
+
+            
+              <div id="block-potsdam-content" class="block block-system block-system-main-block">
+  
+    
+      <div class="content">
+          <h3>Featured News&nbsp;</h3>
+
+
+  
+<div class="section section--padded-small">
+        <div class="compartment">
+  
+    <div class="slideshow" data-flickity='{ "contain": "true", "imagesLoaded": "true","adaptiveHeight": "true"}'>
+  <div class="slideshow__slide">
+  <div class="slideshow__img" style="background-image:url('/sites/default/files/styles/optimized/public/2026-09/d1.jpg?itok=t6Cttss0')"></div>
+  <div class="slideshow__desc">
+          <h5>Ranked Top 10 Rural College</h5>
+              <p><span>SUNY Potsdam has been ranked No. 9 nationally on Washington Monthly's inaugural Best Colleges for Rural America list. Out of 1,200 institutions, we are the only New York college in the Top 20 and the highest-ranked SUNY campus!</span></p><p><a class="btn btn--large" href="https://www.potsdam.edu/news/BestRuralCollege" data-entity-type="node" data-entity-uuid="0a8ef9b9-c470-4f66-9293-a8a8a5917bca" data-entity-substitution="canonical" title="SUNY Potsdam Ranked in Top 10 Best Rural Colleges in America by Washington Monthly Magazine "><span>Read more</span></a></p>
+      </div>
+</div><div class="slideshow__slide">
+  <div class="slideshow__img" style="background-image:url('/sites/default/files/styles/optimized/public/2026-09/1.jpg?itok=pS3unH7Z')"></div>
+  <div class="slideshow__desc">
+          <h5>SUNY Potsdam Surpassing $10 Million in Annual Giving</h5>
+              <p><span lang="EN-US">SUNY Potsdam has achieved a new level of philanthropic support, raising more than $10 million in new gifts and commitments in a single year for the first time in College history—nearly 70 percent more than the previous year, more than double its original $5 million goal, and more than $3.8 million above the institution’s previous all-time fundraising record.</span><span>&nbsp;</span></p><p><a class="btn btn--large" href="https://www.potsdam.edu/news/suny-potsdam-shatters-all-time-fundraising-record-surpassing-10-million-annual-giving-college" data-entity-type="node" data-entity-uuid="7728fae0-6090-4931-952a-827414367cac" data-entity-substitution="canonical" title="SUNY Potsdam Shatters All-Time Fundraising Record, Surpassing $10 Million in Annual Giving, as College Prepares to Launch Most Ambitious Campaign in its History "><span>Read more</span></a></p><p><br>&nbsp;</p>
+      </div>
+</div><div class="slideshow__slide">
+  <div class="slideshow__img" style="background-image:url('/sites/default/files/styles/optimized/public/2026-08/w.jpg?itok=uqWetAGn')"></div>
+  <div class="slideshow__desc">
+          <h5>SUNY Potsdam Welcomes 57th Cohort of EOP Students</h5>
+              <p><span>SUNY Potsdam is welcoming 22 incoming new students to campus this fall through the Arthur O. Eve Educational Opportunity Program (EOP), but for the new freshmen and transfer students, it’s not their first time living or studying on campus. The new students were able to kick-start their studies earlier this summer, thanks to a four-week residential immersion program.</span></p><p><a class="btn btn--large" href="https://www.potsdam.edu/news/EOP-57Cohort" data-entity-type="node" data-entity-uuid="b08f9fbd-b09a-4335-826b-57d68b4cb7ec" data-entity-substitution="canonical" title="SUNY Potsdam Welcomes 57th Cohort of Educational Opportunity Program Students">read more</a></p>
+      </div>
+</div>
+</div>
+
+
+      </div>
+  </div>
+  
+<div class="section section--padded-small">
+        <div class="compartment">
+  
+    <div class="silc-grid">
+                                                                                                      <div class="silc-grid__col silc-grid__col--6-800">
+                                                                                          <div class="paragraph paragraph--type--ip-text paragraph--view-mode--default">
+            <h5>Merit Student News</h5>
+
+<p>Merit is a media platform that helps SUNY Potsdam publish online news about student accomplishments through students’ hometown newspapers and social media.</p>
+
+<p><a href="http://potsdam.meritpages.com/">Visit Merit Pages</a></p>
+
+      </div>
+
+              </div>
+                <div class="silc-grid__col silc-grid__col--6-800">
+                                                                                          <div class="paragraph paragraph--type--ip-text paragraph--view-mode--default">
+            <h5>Athletics News</h5>
+
+<p><span>Stay up-to-date with the latest sports headlines and stats, promptly posted online after each game.</span></p>
+
+<p><a href="https://potsdambears.com/archives.aspx">Visit Potsdam Bears</a></p>
+
+      </div>
+
+              </div>
+                  </div>
+
+
+
+      </div>
+  </div>
+  
+<div class="section section--padded-mdm">
+        <div class="compartment">
+  
+      <div class="paragraph paragraph--type--ip-text paragraph--view-mode--default">
+            <h5>For Media Inquiries Contact College Communications</h5>
+
+<p><a href="mailto:news@potsdam.edu">news@potsdam.edu</a><br>
+<a href="tel:3152672114">(315) 267-2114</a></p>
+
+      </div>
+
+
+
+      </div>
+  </div>
+  
+<div class="section section--padded-lg">
+        <div class="compartment">
+  
+      <div class="paragraph paragraph--type--ip-view paragraph--view-mode--default">
+            <div class="views-element-container"><div class="js-view-dom-id-0be45c24e0487eb5bcb640bcb3cceab05e804faa485f234b0c09ec5d24b1e52f">
+  
+  <form class="views-exposed-form bef-exposed-form" data-bef-auto-submit="" data-bef-auto-submit-delay="500" data-bef-auto-submit-minimum-length="3" data-bef-auto-submit-full-form="" data-drupal-selector="views-exposed-form-news-block-1" action="/news" method="get" id="views-exposed-form-news-block-1" accept-charset="UTF-8">
+  
+
+
+
+
+
+
+<style>
+
+.ui-autocomplete-fields {
+  color: black !important;
+  background-color: transparent!important;
+}
+
+.ui-menu li {
+  color: black !important;
+}
+
+.ui-menu-item-wrapper{
+  color: black !important;
+}
+
+.ui-menu .ui-menu-item-wrapper {
+  border-color:transparent !important;
+  background-color: transparent !important;
+}
+
+</style>
+
+<div class="section section--padded-small">
+  <h3>Explore SUNY Potsdam News</h3>
+  <div class="search__bar">
+    <div class="js-form-item form-item form-type-textfield js-form-type-textfield form-item-combine js-form-item-combine">
+      <label for="edit-combine">Search By Keywords</label>
+        <input data-drupal-selector="edit-combine" type="text" id="edit-combine" name="combine" value="" size="30" maxlength="128" class="form-text" />
+
+        </div>
+
+    <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-bef-auto-submit-click="" data-drupal-selector="edit-submit-news" type="submit" id="edit-submit-news" value="Apply" class="button js-form-submit form-submit" />
+</div>
+
+  </div>
+
+  <div class="search__news-filter">
+    <h5>Or search by:</h5>
+    <div class="search__news-filter--wrapper">
+      <div class="search__news-filter--row">
+        <div class="search__news-filter--label">
+          <h4 class="h4--callout">Topics</h4>
+        </div>
+        <div class="search__news-filter--element">
+          <fieldset data-drupal-selector="edit-news-categories-target-id" id="edit-news-categories-target-id--wrapper" class="fieldgroup form-composite js-form-item form-item js-form-wrapper form-wrapper">
+      <legend>
+    <span class="fieldset-legend"></span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-news-categories-target-id"><div class="form-radios">
+                  <div class="js-form-item form-item form-type-radio js-form-type-radio form-item-news-categories-target-id js-form-item-news-categories-target-id">
+        <input data-drupal-selector="edit-news-categories-target-id-all" type="radio" id="edit-news-categories-target-id-all" name="news_categories_target_id" value="All" checked="checked" class="form-radio" />
+
+        <label for="edit-news-categories-target-id-all" class="option">All</label>
+      </div>
+
+                    <div class="js-form-item form-item form-type-radio js-form-type-radio form-item-news-categories-target-id js-form-item-news-categories-target-id">
+        <input data-drupal-selector="edit-news-categories-target-id-24" type="radio" id="edit-news-categories-target-id-24" name="news_categories_target_id" value="24" class="form-radio" />
+
+        <label for="edit-news-categories-target-id-24" class="option">General News</label>
+      </div>
+
+                    <div class="js-form-item form-item form-type-radio js-form-type-radio form-item-news-categories-target-id js-form-item-news-categories-target-id">
+        <input data-drupal-selector="edit-news-categories-target-id-926" type="radio" id="edit-news-categories-target-id-926" name="news_categories_target_id" value="926" class="form-radio" />
+
+        <label for="edit-news-categories-target-id-926" class="option">Arts &amp; Culture</label>
+      </div>
+
+      </div>
+</div>
+
+          </div>
+</fieldset>
+
+        </div>
+      </div>
+      <div class="search__news-filter--row">
+        <div class="search__news-filter--label">
+          <h4 class="h4--callout">Spotlight On</h4>
+        </div>
+        <div class="search__news-filter--element">
+          <fieldset data-drupal-selector="edit-news-spotlight-target-id" id="edit-news-spotlight-target-id--wrapper" class="fieldgroup form-composite js-form-item form-item js-form-wrapper form-wrapper">
+      <legend>
+    <span class="fieldset-legend"></span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-news-spotlight-target-id"><div class="form-radios">
+                  <div class="js-form-item form-item form-type-radio js-form-type-radio form-item-news-spotlight-target-id js-form-item-news-spotlight-target-id">
+        <input data-drupal-selector="edit-news-spotlight-target-id-all" type="radio" id="edit-news-spotlight-target-id-all" name="news_spotlight_target_id" value="All" checked="checked" class="form-radio" />
+
+        <label for="edit-news-spotlight-target-id-all" class="option">All</label>
+      </div>
+
+                    <div class="js-form-item form-item form-type-radio js-form-type-radio form-item-news-spotlight-target-id js-form-item-news-spotlight-target-id">
+        <input data-drupal-selector="edit-news-spotlight-target-id-936" type="radio" id="edit-news-spotlight-target-id-936" name="news_spotlight_target_id" value="936" class="form-radio" />
+
+        <label for="edit-news-spotlight-target-id-936" class="option">Alumni</label>
+      </div>
+
+                    <div class="js-form-item form-item form-type-radio js-form-type-radio form-item-news-spotlight-target-id js-form-item-news-spotlight-target-id">
+        <input data-drupal-selector="edit-news-spotlight-target-id-931" type="radio" id="edit-news-spotlight-target-id-931" name="news_spotlight_target_id" value="931" class="form-radio" />
+
+        <label for="edit-news-spotlight-target-id-931" class="option">Faculty &amp; Staff</label>
+      </div>
+
+                    <div class="js-form-item form-item form-type-radio js-form-type-radio form-item-news-spotlight-target-id js-form-item-news-spotlight-target-id">
+        <input data-drupal-selector="edit-news-spotlight-target-id-916" type="radio" id="edit-news-spotlight-target-id-916" name="news_spotlight_target_id" value="916" class="form-radio" />
+
+        <label for="edit-news-spotlight-target-id-916" class="option">Students</label>
+      </div>
+
+      </div>
+</div>
+
+          </div>
+</fieldset>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+</form>
+
+    
+<div class="news news--horizontal">
+  <a class="news__cta" href="/news/4thPublicHealthDay" aria-label="SUNY Potsdam to Celebrate Fourth Annual Public Health Day  October 5, 2026">
+                      <div class="news__media" style="background-image:url('/sites/default/files/styles/optimized/public/images/news/PublicHealthDay%202.jpg?itok=nsCideqx')"></div>
+    <div class="news__content">
+      <h5>SUNY Potsdam to Celebrate Fourth Annual Public Health Day </h5>
+      
+              <span class="news__date">October 5, 2026</span>
+          </div>
+  </a>
+</div>
+
+  
+<div class="news news--horizontal">
+  <a class="news__cta" href="/news/suny-potsdam-joins-ogdensburg-promise-founding-campus-partner-new-college-access-initiative" aria-label="SUNY Potsdam Joins The Ogdensburg Promise as Founding Campus Partner in New College Access Initiative October 2, 2026">
+            <div class="news__media" style="background-image:url('https://www.potsdam.edu/themes/custom/potsdam/silc/build/img/news-default.jpg')"></div>
+    <div class="news__content">
+      <h5>SUNY Potsdam Joins The Ogdensburg Promise as Founding Campus Partner in New College Access Initiative</h5>
+      
+              <span class="news__date">October 2, 2026</span>
+          </div>
+  </a>
+</div>
+
+  
+<div class="news news--horizontal">
+  <a class="news__cta" href="/news/AprilFullerton" aria-label="SUNY Potsdam Counselor April Fullerton Honored with Basic Needs Champion Award  October 1, 2026">
+                      <div class="news__media" style="background-image:url('/sites/default/files/styles/optimized/public/images/news/1_22.jpg?itok=LBXlwhDk')"></div>
+    <div class="news__content">
+      <h5>SUNY Potsdam Counselor April Fullerton Honored with Basic Needs Champion Award </h5>
+      
+              <span class="news__date">October 1, 2026</span>
+          </div>
+  </a>
+</div>
+
+  
+<div class="news news--horizontal">
+  <a class="news__cta" href="/news/crane-school-music-students-faculty-guest-artists-take-center-stage-upcoming-performances" aria-label="Crane School of Music Students, Faculty &amp; Guest Artists Take Center Stage in Upcoming Performances September 29, 2026">
+                      <div class="news__media" style="background-image:url('/sites/default/files/styles/optimized/public/images/news/Jazz1.jpg?itok=xYhOC2Rt')"></div>
+    <div class="news__content">
+      <h5>Crane School of Music Students, Faculty &amp; Guest Artists Take Center Stage in Upcoming Performances</h5>
+      
+              <span class="news__date">September 29, 2026</span>
+          </div>
+  </a>
+</div>
+
+  
+<div class="news news--horizontal">
+  <a class="news__cta" href="/news/basketballcamp" aria-label="SUNY Potsdam to Host High School Girls Elite Basketball Camp  September 25, 2026">
+                      <div class="news__media" style="background-image:url('/sites/default/files/styles/optimized/public/images/news/Women%27sBasketball.jpg?itok=xe_Ned1M')"></div>
+    <div class="news__content">
+      <h5>SUNY Potsdam to Host High School Girls Elite Basketball Camp </h5>
+      
+              <span class="news__date">September 25, 2026</span>
+          </div>
+  </a>
+</div>
+
+  
+<div class="news news--horizontal">
+  <a class="news__cta" href="/news/drpagequintonsunyfacultyfellow" aria-label="SUNY Potsdam Faculty Member Dr. Page Quinton Named SUNY Sustainability Faculty Fellow September 25, 2026">
+                      <div class="news__media" style="background-image:url('/sites/default/files/styles/optimized/public/images/news/Page%20Quinton%201.jpg?itok=TtKVEkIO')"></div>
+    <div class="news__content">
+      <h5>SUNY Potsdam Faculty Member Dr. Page Quinton Named SUNY Sustainability Faculty Fellow</h5>
+      
+              <span class="news__date">September 25, 2026</span>
+          </div>
+  </a>
+</div>
+
+  
+<div class="news news--horizontal">
+  <a class="news__cta" href="/news/IggyBeerbowerLondonExhibit" aria-label="SUNY Potsdam Art Faculty Member Iggy Beerbower Exhibits Photography at London Design Festival  September 24, 2026">
+                      <div class="news__media" style="background-image:url('/sites/default/files/styles/optimized/public/images/news/Beerbower%20show.jpg?itok=XVTVzRcW')"></div>
+    <div class="news__content">
+      <h5>SUNY Potsdam Art Faculty Member Iggy Beerbower Exhibits Photography at London Design Festival </h5>
+      
+              <span class="news__date">September 24, 2026</span>
+          </div>
+  </a>
+</div>
+
+  
+<div class="news news--horizontal">
+  <a class="news__cta" href="/news/crane-school-music-hosts-alumni-mary-biddlecombe-99-tucker-biddlecombe-98-visiting-master-educator" aria-label="Crane School of Music Hosts Alumni Mary Biddlecombe ’99 &amp; Tucker Biddlecombe ’98 for Visiting Master Educator Residency September 24, 2026">
+                      <div class="news__media" style="background-image:url('/sites/default/files/styles/optimized/public/images/news/news1_4.jpg?itok=acATgPOe')"></div>
+    <div class="news__content">
+      <h5>Crane School of Music Hosts Alumni Mary Biddlecombe ’99 &amp; Tucker Biddlecombe ’98 for Visiting Master Educator Residency</h5>
+      
+              <span class="news__date">September 24, 2026</span>
+          </div>
+  </a>
+</div>
+
+  
+<div class="news news--horizontal">
+  <a class="news__cta" href="/news/familyfriendsweekend" aria-label="SUNY Potsdam Welcomes Guests for Family &amp; Friends Weekend September 23, 2026">
+                      <div class="news__media" style="background-image:url('/sites/default/files/styles/optimized/public/images/news/parents-web.jpg?itok=JpaXZI0y')"></div>
+    <div class="news__content">
+      <h5>SUNY Potsdam Welcomes Guests for Family &amp; Friends Weekend</h5>
+      
+              <span class="news__date">September 23, 2026</span>
+          </div>
+  </a>
+</div>
+
+  
+<div class="news news--horizontal">
+  <a class="news__cta" href="/news/suny-potsdam-ranked-top-tier-northern-regional-universities-us-news-world-report-4" aria-label="SUNY Potsdam Ranked in Top Tier of Northern Regional Universities by U.S. News &amp; World Report  September 22, 2026">
+                      <div class="news__media" style="background-image:url('/sites/default/files/styles/optimized/public/images/news/FirstDayClasses01.jpeg?itok=WWK0ff3w')"></div>
+    <div class="news__content">
+      <h5>SUNY Potsdam Ranked in Top Tier of Northern Regional Universities by U.S. News &amp; World Report </h5>
+      
+              <span class="news__date">September 22, 2026</span>
+          </div>
+  </a>
+</div>
+
+
+  
+    <nav class="pager" aria-labelledby="pagination-heading">
+    <h4 id="pagination-heading" class="visually-hidden">Pagination</h4>
+    <ul class="pager__items js-pager__items">
+                                                        <li class="pager__item pager__item--active">
+                                          <a href="?page=0" class="pager__page-link" title="Current page" aria-current="page">
+            <span class="visually-hidden">
+              Current page
+            </span>1</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?page=1" class="pager__page-link" title="Go to page 2">
+            <span class="visually-hidden">
+              Page
+            </span>2</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?page=2" class="pager__page-link" title="Go to page 3">
+            <span class="visually-hidden">
+              Page
+            </span>3</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?page=3" class="pager__page-link" title="Go to page 4">
+            <span class="visually-hidden">
+              Page
+            </span>4</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?page=4" class="pager__page-link" title="Go to page 5">
+            <span class="visually-hidden">
+              Page
+            </span>5</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?page=5" class="pager__page-link" title="Go to page 6">
+            <span class="visually-hidden">
+              Page
+            </span>6</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?page=6" class="pager__page-link" title="Go to page 7">
+            <span class="visually-hidden">
+              Page
+            </span>7</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?page=7" class="pager__page-link" title="Go to page 8">
+            <span class="visually-hidden">
+              Page
+            </span>8</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?page=8" class="pager__page-link" title="Go to page 9">
+            <span class="visually-hidden">
+              Page
+            </span>9</a>
+        </li>
+                          <li class="pager__item pager__item--ellipsis" role="presentation">&hellip;</li>
+                          <li class="pager__item pager__item--next">
+          <a href="?page=1" class="pager__next pager__controls" aria-label="Next" title="Go to next page" rel="next">
+            <span class="visible-for-screen-readers">Next</span>
+          </a>
+        </li>
+                          <li class="pager__item pager__item--last">
+          <a href="?page=124" class="pager__last pager__controls" aria-label="Last" title="Go to last page">
+            <span class="visible-for-screen-readers">Last</span>
+          </a>
+        </li>
+          </ul>
+  </nav>
+
+</div></div>
+
+
+      </div>
+
+
+
+      </div>
+  </div>
+
+
+    </div>
+  </div>
+
+
+          </div>
+              </div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer__bck" style="background-image:url('https://www.potsdam.edu/themes/custom/potsdam/silc/build/img/SUNY_Potsdam_Footer.png')" ></div>
+    <div class="compartment">
+      <div class="silc-grid silc-grid--collapse">
+        <div class="silc-grid__col silc-grid__col--3-800">
+          <div class="footer__logo">
+            <a href="/" aria-label="SUNY Potsdam">
+              <img src="https://www.potsdam.edu/themes/custom/potsdam/silc/build/img/logo.svg" aria-hidden="true" alt="Suny Potsdam" width="223" height="56">
+            </a>
+          </div>
+        </div>
+        <div class="silc-grid__col silc-grid__col--4-800">
+          <nav class="footer__dropdown" aria-label="Information For:">
+            <h4 class="h4--callout">Information for:</h4>
+            
+              <ul>
+              <li>
+        <a href="/current" data-drupal-link-system-path="node/307">Current Students</a>
+              </li>
+          <li>
+        <a href="/faculty" data-drupal-link-system-path="node/553">Faculty &amp; Staff</a>
+              </li>
+          <li>
+        <a href="https://www.potsdam.edu/family-friends">Family &amp; Friends</a>
+              </li>
+          <li>
+        <a href="/alumni-friends" data-drupal-link-system-path="node/65">Alumni</a>
+              </li>
+          <li>
+        <a href="/community" data-drupal-link-system-path="node/1597">Community</a>
+              </li>
+        </ul>
+  
+
+
+          </nav>
+        </div>
+        <div class="silc-grid__col silc-grid__col--2-800">
+          <nav class="footer__utility" aria-label="Footer Menu">
+            
+              <ul>
+              <li>
+        <a href="/news" data-drupal-link-system-path="node/38468" class="is-active" aria-current="page">News</a>
+              </li>
+          <li>
+        <a href="/events" data-drupal-link-system-path="node/38986">Events</a>
+              </li>
+          <li>
+        <a href="/about/contact-us" data-drupal-link-system-path="node/767">Contact</a>
+              </li>
+          <li>
+        <a href="/admissions/visit" data-drupal-link-system-path="node/5">Visit</a>
+              </li>
+          <li>
+        <a href="/giving" data-drupal-link-system-path="node/774">Give</a>
+              </li>
+          <li>
+        <a href="/the-quad" data-drupal-link-system-path="node/40211">The Quad</a>
+              </li>
+        </ul>
+  
+
+
+          </nav>
+        </div>
+        <div class="silc-grid__col silc-grid__col--3-800">
+          <ul class="social-links">
+            <li><a class="social-links__item" href="https://www.facebook.com/SUNYPotsdam" target="_blank"><i class="icon-facebook"><span class="visible-for-screen-readers">Facebook</span></i></a></li>
+            <li><a class="social-links__item" href="https://twitter.com/SUNYPotsdam1816" target="_blank"><i class="icon-twitter"><span class="visible-for-screen-readers">Twitter</span></i></a></li>
+            <li><a class="social-links__item" href="https://www.instagram.com/sunypotsdam/" target="_blank"><i class="icon-instagram"><span class="visible-for-screen-readers">Instagram</span></i></a></li>
+            <li><a class="social-links__item" href="https://www.youtube.com/user/TheSUNYPotsdam" target="_blank"><i class="icon-youtube"><span class="visible-for-screen-readers">Youtube</span></i></a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer__info">
+        <nav class="footer__menu">
+          
+              <ul>
+              <li>
+        <a href="/privacy-policy" data-drupal-link-system-path="node/1360">Privacy Policy</a>
+              </li>
+          <li>
+        <a href="/accessibility" data-drupal-link-system-path="node/5750">Accessibility</a>
+              </li>
+        </ul>
+  
+
+
+        </nav>
+        <p class="copyright">© 2026 SUNY Potsdam The State University of New York at Potsdam, all rights reserved.</p>
+        <address>44 Pierrepont Avenue. | Potsdam, NY 13676. | <a href="tel:315-267-2000">315-267-2000</a></address>
+      </div>
+    </div>
+  </footer>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/38468","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJxtjEEOwyAMBD-E4EnIBIe4Mhhhkya_b9Qeola9rLSzo01ohiPi0UUxx5X4qhpgmkSdqZK59F8p2HAAuyJSGCM04NNouYYf4CivtGMoLOnyK2aC8HnxC3Qjaa7DgDKgbxrymB3Y38TP1mdi0g2z01MNa0ig6HbCp4Z3enjA8QWq5Mn4Au8WWCU","theme":"potsdam","theme_token":null},"ajaxTrustedUrl":{"\/news":true},"google_analytics":{"account":"G-D6NQ09J9FW","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:0be45c24e0487eb5bcb640bcb3cceab05e804faa485f234b0c09ec5d24b1e52f":{"view_name":"news","view_display_id":"block_1","view_args":"","view_path":"\/node\/38468","view_base_path":null,"view_dom_id":"0be45c24e0487eb5bcb640bcb3cceab05e804faa485f234b0c09ec5d24b1e52f","pager_element":0,"viewsreference":{"compressed":"eJxlkNEOgyAMRf-lzzxolsXFnyHdqKwJIkF0McZ_X5luLNsDaenpvdywgsGE0K4wdN1ICVoABYmTI2grBQEtRRl2k3MCHPd87GC0U09ebl7YpoA8Xh0ZLS6JvR2z6Vu-129RaYvrXlWJcjSfQEfdcq4oWi2H06LTEuj1SkQbMdzhd4GN4Lr5mzv09jaYLCZfaMfkjPbYZ8BBz0yPQiPNPPLgd9fT-VJVTS14V3GiXhty-Ver7QncW3gx"}}}},"better_exposed_filters":{"autosubmit_exclude_textfield":true},"ckeditor5Premium":{"isMediaInstalled":true},"user":{"uid":0,"permissionsHash":"43971311aaa8ba8fc8bcfdeaad7077e64d9083379eab5811da3221c42ac58434"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=4.0.0"></script>
+<script src="/sites/default/files/js/js_OcYtRZUimZRHmSRqVkovfwwlypk-CIhDAuGuiPRN2Yw.js?scope=footer&amp;delta=1&amp;language=en&amp;theme=potsdam&amp;include=eJxtilsKgDAMBC9U7JFCatcSiY3Y-Lq9xU_xZ2BnJ8EdG-FarSHTJNpni7y7UdvTIh7Sf1JQsbGGYlYUxJX1dhn78RFB8iQHYlFLvT8EZ4svB575egB0cDPu"></script>
+
+
+    <!-- DO NOT EDIT BELOW THIS LINE -->
+    <!-- AdmitHub Web Chat -->
+    <script>window.admitHubBot = {botToken: "6fc02acfed6642a2a" };</script>
+    <script src="https://webbot.admithub.com/static/js/webchat.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://webbot.admithub.com/static/css/webchat.css">
+    <!-- DO NOT EDIT ABOVE THIS LINE -->
+
+  </body>
+</html>
