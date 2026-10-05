@@ -1,0 +1,16 @@
+# Clarkson University — tuition & costs baseline
+# Source: https://Clarkson.edu/admissions-aid/undergraduate/tuition-costs (fetched 2026-10-05)
+# Cost of Attendance 2026-2027:
+#   BILLABLE EXPENSES:
+#     Tuition: $61,694
+#     Fees: $1,370
+#     Housing (average): $10,840
+#     Food: $8,528
+#     TOTAL DIRECT COSTS: $82,432
+#   ADDITIONAL ESTIMATED EXPENSES:
+#     Books, Course Materials, Supplies, Equipment: $1,560
+#     Personal: $900
+#     Transportation: $1,596
+#     Loan Fees: $68
+#   TOTAL COST OF ATTENDANCE: $86,556
+# sha256 of this file is recorded in clarkson.json (tuition.hash).
