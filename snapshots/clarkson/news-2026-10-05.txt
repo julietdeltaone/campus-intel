@@ -1,0 +1,835 @@
+# http://clarkson.edu/news-events
+# fetched 2026-10-05
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,700;1,500;1,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20,100..300,0..1,0" rel="stylesheet">
+    <meta charset="utf-8" />
+<meta name="description" content="Keep up with the latest news and happenings at Clarkson by following us on LinkedIn, Facebook, X, Instagram and YouTube. See our Daily Events Calendar, our Annual Events Information and Academic Calendar." />
+<link rel="canonical" href="https://clarkson.edu/news-events" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/clarkson_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>News &amp; Events | Clarkson University</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_qpNfoY5scefgJIagsZs3M7-qXPoMoG-fOYUrBKh05oM.css?delta=0&amp;language=en&amp;theme=clarkson_theme&amp;include=eJxlUNEOwyAI_CGnn2SostYVxYDd1r-f69J22V7guDvChTBjTI3FQwgsMXFxB7JX4dKwRBMIZNau7cBTGgRkPRTPMvowgbTTs43_zopcCd2n-XvCx5cmPApk90ucjjZhRjcSD0AXbSulMpoeGF2UpQJZuMHTVBDoe3XSnT4Zu5S6DJR0wmiUQwLyuX8BetQyq_un7HbU6KoNsxtA0bxjq9uqzRwXwhcVrYLp" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_IFT8wdXgRknrhOLmBwNJBawjdIeE6IG67ba_250YwTs.css?delta=1&amp;language=en&amp;theme=clarkson_theme&amp;include=eJxlUNEOwyAI_CGnn2SostYVxYDd1r-f69J22V7guDvChTBjTI3FQwgsMXFxB7JX4dKwRBMIZNau7cBTGgRkPRTPMvowgbTTs43_zopcCd2n-XvCx5cmPApk90ucjjZhRjcSD0AXbSulMpoeGF2UpQJZuMHTVBDoe3XSnT4Zu5S6DJR0wmiUQwLyuX8BetQyq_un7HbU6KoNsxtA0bxjq9uqzRwXwhcVrYLp" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/10315","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"ajaxPageState":{"libraries":"eJxlkOtyxCAIhV_IyiM5RKmxQXHAtM3b12anm-3uHy7fOcMAcaNUhmjAGEVTkQb3yr-rtEEtuciom03trwhcFkU97koQzSGuqOPynO2rs5N0Jril8Fno60FTyYoVnsHlGCtVgsyyIL_ZOLi07LJInrMGZsgzPPceP_D7P6yuo-Ic3VeDpHtH9hfxe-v7wsVWSs4kFuRQ56NwXtM2g1fkz72cHTaowoJG7vcygzPeFngEVdLO9AOOSZbN","theme":"clarkson_theme","theme_token":null},"ajaxTrustedUrl":{"\/news-events":true},"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_classes":false,"allowlist_classes":"","blocklist_classes":"","include_environment":false,"environment_id":"","environment_token":""},"tagIds":["GTM-MTNVCPJ"]},"ckeditorAccordion":{"accordionStyle":{"collapseAll":1,"keepRowsOpen":1,"animateAccordionOpenAndClose":1,"openTabsWithHash":0,"allowHtmlInTitles":0}},"field_group":{"html_element":{"mode":"default","context":"view","settings":{"classes":"","show_empty_fields":false,"id":"","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast"}}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:d3cf48921c165e7cbe7563d1d69571e7746340e7a6067d85952b9f5f616bd7d2":{"view_name":"news_listing","view_display_id":"block_1","view_args":"","view_path":"\/node\/10315","view_base_path":null,"view_dom_id":"d3cf48921c165e7cbe7563d1d69571e7746340e7a6067d85952b9f5f616bd7d2","pager_element":0,"viewsreference":{"compressed":"eJxdkNEKhCAQRf9lnn2oZSPoZ2QWJxtQC512iejfV6lW2AfR67nXubiDQUEYdnDsWWAAULCgpQhDWJ1TICyObjGPYyK51URoqhGjXT2Fix4KKODLkdE5IRxsKlOqqR7Vb_a5H6VBzETnxbJp2ZbcoFyijbhM8G9gk3HXNhWMTM7ogL4EL0GfpB2n0qUaI7058RzONx591z_bTM8IC3ltyJUfao4vnudpLg"}}}},"user":{"uid":0,"permissionsHash":"661d2c5cb3b2065c71759656f512257711a4c90d7913ab77702a48200bc564c3"}}</script>
+<script src="/sites/default/files/js/js_RqHrYtw7umEQLJtxbex-6bz5U2jF4X25sEOOLZQijOQ.js?scope=header&amp;delta=0&amp;language=en&amp;theme=clarkson_theme&amp;include=eJxlilEOwjAMQy9U1iNFWRuysKyR0gjY7ZkqMQT8WM9-LitVCXPAUsyrWMsnTVe3FtRqKoq-9sO9AVRmR99PA-YMZUGPz2fU_2cstFFmtRn10mNXaZzYjJUgkDMf8dsnvOHze9zSXejR88jhX3ZMUEU"></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?tfeiuj"></script>
+<script src="/modules/contrib/google_tag/js/gtm.js?tfeiuj"></script>
+
+    <script src="https://v285.clarkson.edu/script.js"></script>
+  </head>
+  <body class="path-node page-node-type-tertiary-template">
+        <a href="#main-content" class="visually-hidden focusable skip-link" aria-label="Skip to main content">
+      Skip to main content
+    </a>
+  <div class="layout-container">
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MTNVCPJ"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    
+          <header class="header">
+        <div class="header__canvas">
+          <div class="header__container"><a class="header__logo" href="/"><img src="/themes/custom/clarkson_theme/dist/img/logo.png" alt="Clarkson University"></a>
+            <div><button class="header__menu-toggle" data-expand="popup" data-expand-lock data-expand-body="mobile-menu-active"><span class="screen-reader-text">Toggle menu</span></button>
+              <div class="header__menu">
+                <nav id="main-nav" class="header__nav">
+                    <div class="region region-primary-menu">
+    
+  
+
+  
+   
+   
+   
+   
+     
+     
+      <ul class="o-menu c-menu-main">  
+         
+       
+                        <li>          
+        <a href="/academics" title="Academics &amp; Research" data-drupal-link-system-path="node/10320">Academics &amp; Research</a>
+                        <button class="subnav__sub-toggle header__sub-toggle" data-expand="" aria-expanded="false"><span class="screen-reader-text">Toggle submenu</span></button>
+            
+   
+   
+   
+   
+     
+     
+      <ul class="o-menu c-menu-main__submenu">  
+         
+       
+                        <li>          
+        <a href="/academics/majors-minors" data-drupal-link-system-path="academics/majors-minors">Find Your Program</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/academics/schools-institutes" data-drupal-link-system-path="node/10321">Schools, Institutes &amp; Centers</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/academics/research" data-drupal-link-system-path="node/10323">Research</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/academics/graduate" data-drupal-link-system-path="node/10556">Graduate Education</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/academics/professional" data-drupal-link-system-path="node/10558">Professional Development</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/academics/honors" data-drupal-link-system-path="node/10550">Honors Program</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/academics/immersion-experiences" data-drupal-link-system-path="node/10551">Global &amp; Immersion Experiences</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="https://sites.clarkson.edu/library/">University Libraries</a>
+                      </li>
+        </ul>
+                 </li>
+     
+       
+                        <li>          
+        <a href="/admissions-aid" data-drupal-link-system-path="node/10561">Admissions &amp; Financial Aid</a>
+                        <button class="subnav__sub-toggle header__sub-toggle" data-expand="" aria-expanded="false"><span class="screen-reader-text">Toggle submenu</span></button>
+            
+   
+   
+   
+   
+     
+     
+      <ul class="c-menu-main__submenu o-menu">  
+         
+       
+                        <li>          
+        <a href="/admissions-aid/financial-aid" data-drupal-link-system-path="node/16045">Financial Aid</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/admissions-aid/undergraduate" data-drupal-link-system-path="node/10562">Undergraduate Admissions &amp; Aid</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/admissions-aid/graduate" data-drupal-link-system-path="node/10571">Graduate Admissions &amp; Aid</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/admissions-aid/transfer" data-drupal-link-system-path="node/10575">Transfer Admissions &amp; Aid</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/admissions-aid/international" data-drupal-link-system-path="node/10579">International Admissions &amp; Aid</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/admissions-aid/clarkson-school" data-drupal-link-system-path="node/10583">The Clarkson School: Early College Program</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/admissions-financial-aid/sas" data-drupal-link-system-path="node/10652">Student Achievement Services</a>
+                      </li>
+        </ul>
+                 </li>
+     
+       
+                        <li>          
+        <a href="/student-life" data-drupal-link-system-path="node/10283">Student Life</a>
+                        <button class="subnav__sub-toggle header__sub-toggle" data-expand="" aria-expanded="false"><span class="screen-reader-text">Toggle submenu</span></button>
+            
+   
+   
+   
+   
+     
+     
+      <ul class="c-menu-main__submenu o-menu">  
+         
+       
+                        <li>          
+        <a href="/student-life/clubs-activities" data-drupal-link-system-path="node/10282">Clubs &amp; Activities</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/student-life/housing-dining" data-drupal-link-system-path="node/10289">Housing &amp; Dining</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/student-life/health-wellness" data-drupal-link-system-path="node/10292">Health &amp; Wellness</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/student-life/surrounding-region" data-drupal-link-system-path="node/10293">The Surrounding Region</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/student-life/student-support-services" data-drupal-link-system-path="node/10294">Student Support and Services</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/student-life/graduate" data-drupal-link-system-path="node/10314">Graduate Student Life</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/student-life/clarkson-ignite" data-drupal-link-system-path="node/10714">Clarkson Ignite</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/student-life/dean-students" data-drupal-link-system-path="node/11526">Dean of Students</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/student-life/get-outside" data-drupal-link-system-path="node/18548">Get Outside</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/oit" data-drupal-link-system-path="node/11626">Office of Information Technology</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/parents-families" data-drupal-link-system-path="node/10588">Resources for Parents and Families</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/student-life/annual-university-events" data-drupal-link-system-path="node/11220">Annual University Events</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/student-life/student-health-and-counseling-services" data-drupal-link-system-path="node/12679">Student Health and Counseling Services</a>
+                      </li>
+        </ul>
+                 </li>
+     
+       
+                        <li>          
+        <a href="https://clarksonathletics.com/">Athletics</a>
+                        <button class="subnav__sub-toggle header__sub-toggle" data-expand="" aria-expanded="false"><span class="screen-reader-text">Toggle submenu</span></button>
+            
+   
+   
+   
+   
+     
+     
+      <ul class="c-menu-main__submenu o-menu">  
+         
+       
+                        <li>          
+        <a href="http://www.clarksonathletics.com/calendar">Game Schedules</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="https://vivenu.com/seller/clarkson-university-bk4b?path=mhock">Purchase Hockey Tickets</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="http://www.clarksonathletics.com/sports/2003/9/27/intramurals">Intramural Sports</a>
+                      </li>
+        </ul>
+                 </li>
+     
+       
+                        <li>          
+        <a href="/about" data-drupal-link-system-path="node/10584">About</a>
+                        <button class="subnav__sub-toggle header__sub-toggle" data-expand="" aria-expanded="false"><span class="screen-reader-text">Toggle submenu</span></button>
+            
+   
+   
+   
+   
+     
+     
+      <ul class="c-menu-main__submenu o-menu">  
+         
+       
+                        <li>          
+        <a href="/about/accreditation" data-drupal-link-system-path="node/11433">Accreditation</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/about/history" data-drupal-link-system-path="node/11447">History</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/news-events" data-drupal-link-system-path="node/10315" class="is-active" aria-current="page">News &amp; Events</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/about/clarkson-glance" data-drupal-link-system-path="node/11430">Clarkson at a Glance</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/about/university-leadership" data-drupal-link-system-path="node/11429">University Leadership</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/about/shared-community" data-drupal-link-system-path="node/10312">Our Shared Community</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/about/visit-clarkson" data-drupal-link-system-path="node/10585">Visit Clarkson</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/about/clarkson-brand" data-drupal-link-system-path="node/11221">The Clarkson Brand</a>
+                      </li>
+     
+       
+                        <li>          
+        <a href="/news-events" data-drupal-link-system-path="node/10315" class="is-active" aria-current="page">News &amp; Events</a>
+                      </li>
+        </ul>
+                 </li>
+        </ul>
+    
+
+
+
+  </div>
+
+                </nav>
+              <div class="search-desktop"><button class="header__search-toggle" data-expand="popup" data-expand-lock data-expand-body="search-menu-active"><span class="screen-reader-text">Toggle search</span></button>
+              <div class="header__search">
+                <form action="/search">
+                  <div class="h6">Search</div>
+                  <div class="header__input-wrapper"><label class="header__label" aria-label="Search Input"><input class="header__input" type="search" placeholder="What are you looking for?" name="q"></label><button class="header__submit"><span class="screen-reader-text">Submit</span></button></div>
+                </form>
+                                                      <div class="h6">Resources For</div>
+                                    <ul>
+                                          <li><a href="https://www.clarkson.edu/admissions-aid">Prospective Students</a></li>
+                                          <li><a href="https://intranet.clarkson.edu">Current Students</a></li>
+                                          <li><a href="/parents-families">Parents &amp; Families</a></li>
+                                          <li><a href="/employers-partners">Employers &amp; Partners</a></li>
+                                          <li><a href="https://engage.clarkson.edu">Alumni</a></li>
+                                      </ul>
+                
+              </div>
+            </div>
+                <div class="header__audiences">
+                  <p class="header__heading text-xs">Information for</p>
+                    <div class="region region-secondary-menu">
+    
+  
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://engage.clarkson.edu/">Alumni</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://intranet.clarkson.edu/">Current Students</a>
+              </li>
+                <li class="menu-item">
+        <a href="/parents-families" data-drupal-link-system-path="node/10588">Parents &amp; Families</a>
+              </li>
+                <li class="menu-item">
+        <a href="/employers-partners" data-drupal-link-system-path="node/10589">Employers &amp; Partners</a>
+              </li>
+        </ul>
+  
+
+
+
+  </div>
+
+                </div>
+                <div class="header__actions">
+                    <div class="region region-tertiary-menu">
+    
+  
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/request-info" data-drupal-link-system-path="node/11353">Request Info</a>
+              </li>
+                <li class="menu-item">
+        <a href="/about/visit">Visit</a>
+              </li>
+                <li class="menu-item">
+        <a href="/apply" data-drupal-link-system-path="node/11360">Apply</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://connect.clarkson.edu/register/giving">Give</a>
+              </li>
+        </ul>
+  
+
+
+
+  </div>
+
+                </div>
+              </div>
+            </div>
+            <div class="search-mobile"><button class="header__search-toggle" data-expand="popup" data-expand-lock data-expand-body="search-menu-active"><span class="screen-reader-text">Toggle search</span></button>
+              <div class="header__search">
+                <form action="/search">
+                  <div class="h6">Search</div>
+                  <div class="header__input-wrapper"><label class="header__label" aria-label="Search Input"><input class="header__input" type="search" placeholder="What are you looking for?" name="q"></label><button class="header__submit"><span class="screen-reader-text">Submit</span></button></div>
+                </form>
+                                                      <div class="h6">Resources For</div>
+                                    <ul>
+                                          <li><a href="https://www.clarkson.edu/admissions-aid">Prospective Students</a></li>
+                                          <li><a href="https://intranet.clarkson.edu">Current Students</a></li>
+                                          <li><a href="/parents-families">Parents &amp; Families</a></li>
+                                          <li><a href="/employers-partners">Employers &amp; Partners</a></li>
+                                          <li><a href="https://engage.clarkson.edu">Alumni</a></li>
+                                      </ul>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+          <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+    
+            <div class="region region-admin-tabs">
+    
+  </div>
+
+          <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div id="main-content" style="overflow: hidden;">
+  <div class="region region-content">
+    
+   
+    
+
+  
+
+  <div class="node__content">
+    
+<div >
+      
+<div >
+      
+      <div class="field field--name-field-hero field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">
+
+  
+  <div class="hero hero--solid hero--image hero--pull pattern pattern--topography">
+    <div class="hero__container container ">
+      <div class="hero__breadcrumbs">
+        <div class="breadcrumbs text-xs">
+          <a href="/" aria-label="home">
+            <svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M160-120v-480l320-240 320 240v480H560v-280H400v280H160Z"></path></svg>
+            <span class="screen-reader-text">Home</span>
+          </a>
+          <span class="breadcrumbs__separator">-</span>   <div class="region region-breadcrumb">
+    <div id="block-clarkson-theme-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+  
+    
+        <ul>
+      <li>
+              <a href="/about">About</a> > 
+          </li>
+      <li>
+              News &amp; Events
+          </li>
+    </ul>
+
+  </div>
+
+  </div>
+
+        </div>
+      </div>
+      <div class="hero__wrap">
+        <div class="hero__main">
+          <h1>News &amp; Events</h1>
+        </div>
+      </div>
+    </div>
+        <div class="hero__media">
+              <img src="/sites/default/files/2023-07/news-knight-hero-1600x900_0.jpg" alt="News &amp; Events" data-animation="fade-in-up" data-animate="true">
+                </div>
+      </div>
+
+</div>
+          </div>
+  
+  </div>
+
+<div  id="main-content" class="main container">
+      
+<div  class="main__content main__content--pull">
+      
+      <div class="field field--name-field-content field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">  <div class="paragraph paragraph--type--wysiwyg-editor paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-wysiwyg-editor field--type-text-long field--label-hidden field__item"><p class="text-lg text-bold" style="-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);background-repeat:no-repeat;box-sizing:border-box;color:rgb(0, 78, 66);font-family:Montserrat, sans-serif;font-size:1.25rem;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;letter-spacing:normal;line-height:1.5;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;"><strong>COVERING CLARKSON: Where Ingenuity Ignites Innovation that Impacts What Matters to the World. &nbsp;</strong></p><p style="-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);background-repeat:no-repeat;box-sizing:border-box;color:rgb(0, 78, 66);font-family:Montserrat, sans-serif;font-size:16px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;"><strong>Keep up with the latest news and happenings at Clarkson by following us on </strong><a href="https://www.linkedin.com/school/clarkson-university/" aria-label="Read Clarkson's LinkedIn Page."><strong>LinkedIn</strong></a><strong>, </strong><a href="https://www.facebook.com/ClarksonUniversity" aria-label="Read Clarkson's Facebook Page."><strong>Facebook</strong></a><strong>, </strong><a href="https://twitter.com/ClarksonUniv" aria-label="Read Clarkson's Twitter Feed."><strong>X</strong></a><strong>, </strong><a href="https://www.instagram.com/clarksonuniv/" aria-label="Read Clarkson's Instagram."><strong>Instagram</strong></a><strong> and </strong><a href="https://www.youtube.com/user/clarksonweb" aria-label="Watch Clarkson's YouTube channel."><strong>YouTube</strong></a><strong>. See our </strong><a href="https://calendar.clarkson.edu/" aria-label="Read our daily events calendar"><strong>Daily Events Calendar,</strong></a><strong> our </strong><a href="/student-life/annual-university-events" aria-label="Read our Annual Events Information" data-entity-type="node" data-entity-uuid="ff2bab1f-88bc-4fd3-ae2a-d3802984395d" data-entity-substitution="canonical" title="Annual University Events"><strong>Annual Events Information</strong></a><strong> and </strong><a href="/admissions-financial-aid/sas/academic-calendar" aria-label="Read our Academic Calendar. " data-entity-type="node" data-entity-uuid="3d9fcde3-ad8e-487a-b381-0bc6c5c95ce6" data-entity-substitution="canonical" title="Academic Calendar"><strong>Academic Calendar</strong></a><strong>.&nbsp;&nbsp;</strong><br><br>News directors and editors please contact <a href="/people/jacob-newman" aria-label="Read Jake Newman's Page" data-entity-type="node" data-entity-uuid="6e796831-6022-4c24-9931-f95546ff45ca" data-entity-substitution="canonical" title="jnewman">Jake Newman, Media Relations Director</a> at 315-268-6764, <a href="mailto:jnewman@clarkson.edu">jnewman@clarkson.edu</a>.</p><p style="-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);background-repeat:no-repeat;box-sizing:border-box;color:rgb(0, 78, 66);font-family:Montserrat, sans-serif;font-size:16px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;">&nbsp;</p><hr><p>&nbsp;</p></div>
+      
+      </div>
+</div>
+              <div class="field__item">  <div class="paragraph paragraph--type--news-listing paragraph--view-mode--default">
+          
+            <div class="field field--name-field-news-listing field--type-viewsreference field--label-hidden field__item"><div class="views-element-container"><div class="view view-news-listing view-id-news_listing view-display-id-block_1 js-view-dom-id-d3cf48921c165e7cbe7563d1d69571e7746340e7a6067d85952b9f5f616bd7d2">
+        <div class="header__input-wrapper">
+      <form class="views-exposed-form" data-drupal-selector="views-exposed-form-news-listing-block-1" action="/news-events" method="get" id="views-exposed-form-news-listing-block-1" accept-charset="UTF-8">
+  <div class="form--inline clearfix">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-title form-item-title">
+      <label for="edit-title">Search News</label>
+        <input placeholder="Search all Clarkson News Posts" data-drupal-selector="edit-title" type="text" id="edit-title" name="title" value="" size="30" maxlength="128" class="form-text" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit-news-listing" type="submit" id="edit-submit-news-listing" value="Apply" class="button js-form-submit form-submit" />
+</div>
+
+</div>
+
+</form>
+
+    </div>
+    
+      <div class="view-content">
+      <div class="news-list">
+            <div class="news-list__item">
+                <div class="news-list__image">
+          <img src="/sites/default/files/styles/news_image_335x223_/public/2025-10/grad-fair.jpg?itok=8h7wCcgY" alt="Clarkson University to Host Graduate Programs Fair for North Country Community">
+        </div>
+                <div class="news-list__content">
+                    <h2 class="h4">
+            <a href="node/17566" class="link-cover">Clarkson University to Host Graduate Programs Fair for North Country Community</a>
+          </h2>
+          <p>Thursday, October 1, 2026 | </p>
+        </div>
+      </div>
+            <div class="news-list__item">
+                <div class="news-list__image">
+          <img src="/sites/default/files/styles/news_image_335x223_/public/2026-10/nuclear-forum.jpg?itok=aCWvvZwt" alt="Clarkson University Supports Power Industry Workforce Needs Through Online Master’s Degree in Power Engineering">
+        </div>
+                <div class="news-list__content">
+                    <h2 class="h4">
+            <a href="node/18604" class="link-cover">Clarkson University Supports Power Industry Workforce Needs Through Online Master’s Degree in Power Engineering</a>
+          </h2>
+          <p>Thursday, October 1, 2026 | </p>
+        </div>
+      </div>
+            <div class="news-list__item">
+                <div class="news-list__image">
+          <img src="/sites/default/files/styles/news_image_335x223_/public/2026-09/podlaha-murphy.jpg?itok=vy7iUUG4" alt="Clarkson University Professor Elizabeth Podlaha-Murphy Receives Sustainability Research Award">
+        </div>
+                <div class="news-list__content">
+                    <h2 class="h4">
+            <a href="node/18598" class="link-cover">Clarkson University Professor Elizabeth Podlaha-Murphy Receives Sustainability Research Award</a>
+          </h2>
+          <p>Tuesday, September 29, 2026 | </p>
+        </div>
+      </div>
+            </div>
+    </div>
+        
+  
+      <div class="pagination">
+    
+    
+        <a href="?page=0" class="pagination__item pagination__item--active">1</a>
+      <a href="?page=1" class="pagination__item">2</a>
+      <a href="?page=2" class="pagination__item">3</a>
+      <a href="?page=3" class="pagination__item">4</a>
+      <a href="?page=4" class="pagination__item">5</a>
+      <a href="?page=5" class="pagination__item">6</a>
+      <a href="?page=6" class="pagination__item">7</a>
+      <a href="?page=7" class="pagination__item">8</a>
+      <a href="?page=8" class="pagination__item">9</a>
+  
+        <a href="#" class="pagination__item">...</a>
+  
+        <a href="?page=1" class="pagination__nav pagination__nav--next">
+      <span class="screen-reader-text">Next</span>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><path d="m79.514 30.28-.385.02a2.772 2.772 0 0 0-1.917.926c-.999 1.123-.9 2.9.22 3.903L89.96 46.366H2.771c-1.508 0-2.773 1.265-2.77 2.773 0 1.506 1.264 2.768 2.77 2.767h87.71L77.327 65.002h-.002c-1.066 1.063-1.07 2.847-.007 3.914h.002v.002c1.063 1.066 2.848 1.07 3.916.007l17.947-17.86.032-.035c.204-.225.216-.544.336-.819h.45l-.24-.216c.025-.055.051-.11.073-.167l.161-.42-.04-.449a2.773 2.773 0 0 0-.112-.556l.07.32a2.764 2.764 0 0 0-.07-.353l-.018-.072-.023-.067c-.014-.041-.053-.067-.07-.107l.063-.062h-.102c-.147-.343-.328-.673-.599-.931l.235.268-.03-.041-.114-.152-18.055-16.2.161.166c-.474-.542-1.072-.713-1.361-.774-.289-.06-.409-.116-.05.012zm20.417 19.005-.178.702-.081-.071c.067-.221.25-.397.259-.631z"></path></svg>
+    </a>
+  
+</div>
+
+          </div>
+</div>
+</div>
+      
+      </div>
+</div>
+          </div>
+  
+  </div>
+
+<div  class="main__sidebar">
+    <div id="side-menu-block"  class="block block-clarkson block-clarkson-side-menu-block subnav">
+  
+    <p class="subnav__heading">News &amp; Events</p>
+      
+      
+
+                       <ul class="subnav__list c-menu-footer"> 
+                                      <li>
+                  <a href="https://sites.clarkson.edu/library/">University Libraries</a>
+                      </li>
+                                  <li>
+                  <a href="/news-events" data-drupal-link-system-path="node/10315" class="is-active" aria-current="page">News &amp; Events</a>
+                      </li>
+                                  <li>
+                  <a href="/admissions-financial-aid/sas/academic-calendar" data-drupal-link-system-path="node/11060">Academic Calendar</a>
+                      </li>
+                                  <li>
+                  <a href="/human-resources" data-drupal-link-system-path="node/10642">Human Resources</a>
+                      </li>
+                                  <li>
+                  <a href="https://clarkson.bncollege.com/">Book Store</a>
+                      </li>
+                                  <li>
+                  <a href="/about/shared-community/non-discrimination" data-drupal-link-system-path="node/11187">Non-Discrimination</a>
+                      </li>
+                                  <li>
+                  <a href="https://intranet.clarkson.edu/">Intranet</a>
+                      </li>
+                                  <li>
+                  <a href="/organizational-chart" data-drupal-link-system-path="organizational-chart">Organizational Chart</a>
+                      </li>
+        </ul>
+       
+
+  </div>
+    
+  </div>
+
+  </div>
+
+<div  class="router">
+      
+      <div class="field field--name-field-sidebar field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">
+</div>
+          </div>
+  
+  </div>
+
+  </div>
+
+  </div>
+
+
+
+
+
+
+  </div>
+
+<div class="content-bottom">
+  
+  <div id="block-footercta" class="block block-block-content block-block-content51de5db7-5f0e-44d1-8c3e-eb6edcfff6a4">
+  
+    
+      
+  <div class="field field--name-field-cta-block field--type-entity-reference-revisions field--label-visually_hidden">
+    <div class="field__label visually-hidden">CTA Block</div>
+              <div class="field__item">
+  <div class="cta pattern pattern--dimensional">
+    <div class="cta__container container">
+      <div data-animation="slide-left-fade" data-animate="">
+        <h2 class="heading-arrow">Keep Exploring</h2>
+        <div class="cta__content">
+          
+        </div>
+      </div>
+      <div class="cta__buttons">
+                  <a href="/request-info" class="button button--white" data-animation="fade-in-up" data-animate="">
+            <span>More Information</span>
+          </a>
+                  <a href="/about/visit-clarkson" class="button button--white" data-animation="fade-in-up" data-animate="">
+            <span>Visit</span>
+          </a>
+                  <a href="/apply" class="button button--white" data-animation="fade-in-up" data-animate="">
+            <span>Apply</span>
+          </a>
+              </div>
+    </div>
+  </div>
+</div>
+          </div>
+
+  </div>
+
+
+</div>
+</div>
+  </div>
+
+    
+
+    <footer class="footer">
+      <div class="footer__top text-xs">
+        <div class="footer__container footer__border container">
+          <div class="footer__column"><a href="/" class="footer__logo"><img src="/themes/custom/clarkson_theme/dist/img/logo.png" alt="Clarkson University"></a></div>
+          <div class="footer__column footer__column--nav">
+              <div class="region region-footer">
+    
+  
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://sites.clarkson.edu/library/">University Libraries</a>
+              </li>
+                <li class="menu-item menu-item--active-trail">
+        <a href="/news-events" data-drupal-link-system-path="node/10315" class="is-active" aria-current="page">News &amp; Events</a>
+              </li>
+                <li class="menu-item">
+        <a href="/admissions-financial-aid/sas/academic-calendar" data-drupal-link-system-path="node/11060">Academic Calendar</a>
+              </li>
+                <li class="menu-item">
+        <a href="/human-resources" data-drupal-link-system-path="node/10642">Human Resources</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://clarkson.bncollege.com/">Book Store</a>
+              </li>
+                <li class="menu-item">
+        <a href="/about/shared-community/non-discrimination" data-drupal-link-system-path="node/11187">Non-Discrimination</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://intranet.clarkson.edu/">Intranet</a>
+              </li>
+                <li class="menu-item">
+        <a href="/organizational-chart" data-drupal-link-system-path="organizational-chart">Organizational Chart</a>
+              </li>
+        </ul>
+  
+
+
+
+  </div>
+
+          </div>
+        </div>
+        <div class="footer__container container">
+            <div class="region region-footer-blocks">
+    <div id="block-clarkson-theme-potsdamcampus-2" class="block block-block-content block-block-content3ea732c4-2920-40b9-96fa-99ebe999a6d5">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p class="footer__contact"><a class="footer__contact-name" href="/about/visit/potsdam" data-entity-type="node" data-entity-uuid="f51892e9-7514-485c-9fad-4b578f023af3" data-entity-substitution="canonical" title="Potsdam Campus"><strong>Potsdam Campus</strong>&nbsp;</a>&nbsp;<br>8 Clarkson Ave&nbsp;• Potsdam, NY&nbsp;13699&nbsp;&nbsp;<br><a href="tel:315-268-6400">Phone: 315-268-6400</a></p></div>
+      
+  </div>
+<div id="block-clarkson-theme-capitalregioncampus" class="block block-block-content block-block-content15efd5d0-e3ef-4be8-a99c-b6f19d44ce8f">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p class="footer__contact"><strong>Capital Region Campus</strong>&nbsp;&nbsp;<br>40 British American Boulevard&nbsp;• Latham, NY&nbsp;12110&nbsp;&nbsp;<br><a href="tel:518-631-9831">Phone: 518-631-9831</a></p></div>
+      
+  </div>
+
+  </div>
+
+          <div class="footer__column">
+            <p><a href="/request-info" class="button"><span>Contact Us</span></a></p>
+          </div>
+        </div>
+      </div>
+      <div class="footer__bottom text-xs">
+        <div class="footer__container container">
+            <div class="region region-footer-bottom">
+    <div id="block-clarkson-theme-footercopyright" class="block block-block-content block-block-contentedb500c0-27e0-4bfb-b66e-3408b764ff55">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><ul class="footer__links"><li>© Copyright 2025 Clarkson University</li><li><a href="/consumer-information-disclosures-heoa" data-entity-type="node" data-entity-uuid="2af159b2-2da7-4ef2-95eb-21217fe6c135" data-entity-substitution="canonical" title="Consumer Information Disclosures (HEOA)">CARES Act Report &amp; Consumer Information Disclosure (HEOA)</a></li><li><a href="/web-accessibility-assistance" data-entity-type="node" data-entity-uuid="40e68da4-7f7d-4e4c-81fa-185b8806d92d" data-entity-substitution="canonical" title="Web Accessibility Assistance">Web Accessibility Assistance</a></li></ul></div>
+      
+  </div>
+
+  </div>
+
+          <div class="footer__social">
+            
+  
+  
+ 
+<div class="footer__social">
+     
+    <a class="footer__icon" href="https://www.facebook.com/ClarksonUniversity" target="_blank">
+        <span class="screen-reader-text">facebook</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1664 1664">
+            <path d="M1264 12v264h-157q-86 0-116 36t-30 108v189h293l-39 296H961v759H655V905H400V609h255V391q0-186 104-288.5T1036 0q147 0 228 12z" />
+          </svg>
+    </a>
+     
+    <a class="footer__icon" href="https://twitter.com/ClarksonUniv" target="_blank">
+        <span class="screen-reader-text">twitter</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/>
+</svg>
+    </a>
+     
+    <a class="footer__icon" href="https://www.instagram.com/clarksonuniv/" target="_blank">
+        <span class="screen-reader-text">Instagram</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 1536">
+            <path d="M1024 768q0-106-75-181t-181-75-181 75-75 181 75 181 181 75 181-75 75-181zm138 0q0 164-115 279t-279 115-279-115-115-279 115-279 279-115 279 115 115 279zm108-410q0 38-27 65t-65 27-65-27-27-65 27-65 65-27 65 27 27 65zM768 138q-7 0-76.5-.5t-105.5 0-96.5 3-103 10T315 169q-50 20-88 58t-58 88q-11 29-18.5 71.5t-10 103-3 96.5 0 105.5.5 76.5-.5 76.5 0 105.5 3 96.5 10 103T169 1221q20 50 58 88t88 58q29 11 71.5 18.5t103 10 96.5 3 105.5 0 76.5-.5 76.5.5 105.5 0 96.5-3 103-10 71.5-18.5q50-20 88-58t58-88q11-29 18.5-71.5t10-103 3-96.5 0-105.5-.5-76.5.5-76.5 0-105.5-3-96.5-10-103T1367 315q-20-50-58-88t-88-58q-29-11-71.5-18.5t-103-10-96.5-3-105.5 0-76.5.5zm768 630q0 229-5 317-10 208-124 322t-322 124q-88 5-317 5t-317-5q-208-10-322-124T5 1085q-5-88-5-317t5-317q10-208 124-322T451 5q88-5 317-5t317 5q208 10 322 124t124 322q5 88 5 317z" />
+          </svg>
+    </a>
+     
+    <a class="footer__icon" href="https://www.youtube.com/user/clarksonweb" target="_blank">
+        <span class="screen-reader-text">Youtube</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792">
+            <path d="M1280 896q0-37-30-54L738 522q-31-20-65-2-33 18-33 56v640q0 38 33 56 16 8 31 8 20 0 34-10l512-320q30-17 30-54zm512 0q0 96-1 150t-8.5 136.5T1760 1330q-16 73-69 123t-124 58q-222 25-671 25t-671-25q-71-8-124.5-58T31 1330q-14-65-21.5-147.5T1 1046 0 896t1-150 8.5-136.5T32 462q16-73 69-123t124-58q222-25 671-25t671 25q71 8 124.5 58t69.5 123q14 65 21.5 147.5T1791 746t1 150z" />
+          </svg>
+    </a>
+    </div>    
+    
+
+
+          </div>
+        </div>
+      </div>
+    </footer>
+  </div>    
+    <script src="/sites/default/files/js/js_POfIRLdHEZ3aHgkqKuwZ6qlzZolRc-OsnnzbloFNZ8g.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=clarkson_theme&amp;include=eJxlilEOwjAMQy9U1iNFWRuysKyR0gjY7ZkqMQT8WM9-LitVCXPAUsyrWMsnTVe3FtRqKoq-9sO9AVRmR99PA-YMZUGPz2fU_2cstFFmtRn10mNXaZzYjJUgkDMf8dsnvOHze9zSXejR88jhX3ZMUEU"></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?tfeiuj"></script>
+<script src="/sites/default/files/js/js_NwDDnwAW3uAqYm9glHxosvUH1QSoKD6eBXVXabJtuhw.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=clarkson_theme&amp;include=eJxlilEOwjAMQy9U1iNFWRuysKyR0gjY7ZkqMQT8WM9-LitVCXPAUsyrWMsnTVe3FtRqKoq-9sO9AVRmR99PA-YMZUGPz2fU_2cstFFmtRn10mNXaZzYjJUgkDMf8dsnvOHze9zSXejR88jhX3ZMUEU"></script>
+
+  </body>
+</html>
