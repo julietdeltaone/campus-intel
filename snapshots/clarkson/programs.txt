@@ -1,0 +1,34 @@
+# Clarkson University — programs baseline
+# Primary source: https://www.clarkson.edu/academics/majors-minors ("Find Your Program")
+#   — fetched 2026-10-05: page is JS-driven, server-side text renders NO program list.
+#   Recorded here as the canonical source URL; list below is from Clarkson's official
+#   transfer admissions page https://study.clarkson.edu/transferadmissions/
+#   ("Clarkson Program Offerings"), captured 2026-10-05. Mix of majors, minors,
+#   pre-professional tracks and combined programs as presented by Clarkson.
+#
+# PROGRAMS (deduplicated):
+# 3+1 Business Administration BS/MBA; Accounting; Advanced Manufacturing Engineering;
+# Aerospace Engineering; Applied Mathematics and Statistics; Architectural and
+# Facilities Engineering; Biochemistry; Biology; Biomedical Engineering;
+# Biomedical Science and Technology; Biomolecular Engineering; Business Analytics;
+# Business Studies; Chemical Engineering; Chemistry; Civil Engineering;
+# Cognitive Neuroscience; Computational Science; Computer Engineering;
+# Computer Science; Construction Engineering Management; Cybersecurity;
+# Data Science; Digital Arts; Economics; Electrical and Computer Engineering;
+# Electrical Engineering; Electrical Power Engineering; Engineering and Management;
+# Engineering Science; Environmental Engineering; Environmental Science and
+# Sustainability; Finance; Financial Information and Analysis;
+# Global Supply Chain Management; Healthcare; Human Resources;
+# Human Resources Management; Industrial Hygiene; Information Systems;
+# Information Technology; Innovation and Entrepreneurship; Joint Programs;
+# Law Studies; Marketing; Materials Science and Engineering; Mathematics;
+# Mechanical Engineering; Medicine and Healthcare; Physician Assistant Studies;
+# Physics; Pre-Dental; Pre-Health Sciences; Pre-Medical; Pre-Veterinary;
+# Product Development and Marketing; Psychology; Quality-Based Project Management;
+# Robotics; Science Studies; Software Engineering; Structural Engineering;
+# Sustainable Energy Systems Engineering; Sustainable Solutions for the Developing
+# World; University Studies; War Studies; Water Resources Engineering.
+#
+# Also noted 2026-10-05: Clarkson homepage advertises a NEW bachelor of science in
+# neuroscience ("This Is Your Brain on Clarkson") — watch for it appearing in
+# official program listings.
