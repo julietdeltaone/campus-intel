@@ -1,0 +1,19 @@
+# SUNY Potsdam news index — captured 2026-10-05 from https://www.potsdam.edu/news
+Featured News (3 items; no dates shown on index):
+1. "Ranked Top 10 Rural College" — SUNY Potsdam ranked No. 9 nationally on Washington Monthly's inaugural Best Colleges for Rural America list (1,200 institutions; only NY college in Top 20; highest-ranked SUNY campus). Article: https://www.potsdam.edu/news/BestRuralCollege (published September 1, 2026).
+2. "SUNY Potsdam Surpassing $10 Million in Annual Giving" — more than $10M in new gifts/commitments in a single year for the first time; ~70% more than prior year; double the $5M goal; $3.8M above previous record. Article: https://www.potsdam.edu/news/suny-potsdam-shatters-all-time-fundraising-record-surpassing-10-million-annual-giving-college (published September 10, 2026). VP for Advancement quoted: David Davin.
+3. "SUNY Canton Welcomes 57th Cohort of EOP Students" — 22 incoming students via Arthur O. Eve EOP; four-week residential immersion. Article: https://www.potsdam.edu/news/EOP-57Cohort (fall 2026; exact publish date not shown).
+Also listed: Merit Student News (external: potsdam.meritpages.com); Athletics News (external: potsdambears.com).
+Note: a paginated dated news listing exists (e.g. https://www.potsdam.edu/news?page=7) but was not crawled for this baseline; featured items above are the index content.
+# Campus leadership — captured 2026-10-05
+Office of the President page (https://www.potsdam.edu/about/leadership/office-president/): Dr. Suzanne R. Smith is SUNY Potsdam's 18th president, joined campus April 2023 (appointed by SUNY Board of Trustees; inaugurated April 19, 2024 per https://www.potsdam.edu/news/PresidentSmithInauguration).
+From potsdam.edu sources captured 2026-10-05:
+- President: Dr. Suzanne R. Smith
+- Provost/VP for Academic Affairs: Dr. Alan L. Hersker (interim — per inauguration program and Academic Affairs updates)
+- VP for Administration and Human Resources: Melissa Proulx
+- VP for Advancement: David Davin (quoted as VP for Advancement in Sept 10, 2026 fundraising article; note: an older announcement named Sal Cania Jr. '79 & '82 — superseded)
+- Dean, Crane School of Music: Dr. Andrew M. Mast (started July 6, 2026)
+- Dean, School of Arts and Sciences: Dr. Celeste Marie Gagnon (joined July 6 — year per announcement; note: an older alumni event page named Gretchen Galbraith as A&S dean, likely a predecessor)
+- Dean, School of Education and Professional Studies: Dr. Allen C. Grant (recently joined after nationwide search)
+- College Council Chair: June O'Neill (Hon. '99)
+NOT VERIFIED: Dean of Students; VP for Enrollment Management. No public org chart found for Potsdam.
