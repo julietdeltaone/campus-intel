@@ -1,0 +1,1483 @@
+# https://www.stlawu.edu/news
+# fetched 2026-10-05
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-W9ZMGRP');</script>
+    <!-- End Google Tag Manager -->
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://www.stlawu.edu/news" />
+<meta property="og:url" content="https://www.stlawu.edu/news" />
+<meta property="og:title" content="News" />
+<meta name="twitter:card" content="summary" />
+<meta name="Generator" content="Drupal 11 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "CollectionPage",
+            "@id": "https://www.stlawu.edu/news#collection",
+            "breadcrumb": {
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.stlawu.edu/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "News",
+                        "item": "https://www.stlawu.edu/news"
+                    }
+                ]
+            },
+            "description": "News",
+            "publisher": {
+                "@type": "CollegeOrUniversity",
+                "@id": "https://www.stlawu.edu/#university"
+            },
+            "inLanguage": "English"
+        }
+    ]
+}</script>
+
+    <title>News | St. Lawrence University</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="apple-touch-icon" sizes="180x180" href="/themes/custom/stlawu/assets/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/themes/custom/stlawu/assets/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/themes/custom/stlawu/assets/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/themes/custom/stlawu/assets/favicons/webmanifest.json">
+    <link rel="shortcut icon" href="/themes/custom/stlawu/assets/favicons/favicon.ico">
+
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_3cyjCIEsUFH94xh6injwwugy4lhvdVTlkB3OchW7v0k.css?delta=0&amp;language=en&amp;theme=stlawu&amp;include=eJyFkOFOxCAQhF8IyyORBabtnsASFmzPpxfPGL3YxD_ADl8yO0Oq6I7LDaFLs0F1ibyuaCidaUrqjp07nFYKMPQXX_mEulWaU47w1FxGGVdkRmRyguwRXZDSp8cVVxtff3TyCUqHo3gb2qdP1yvufY4R5xPm0Tuaw1lFp_3KaY5qNxQ0SsYner_bJBS5bCZIkubltBErjdSn0GBjG5XSQjc6n4RZT35JrN1gzFzyyphXrompBNgr0c2eYNbZAR1QybC_3ssB_znqv8CiO2fz6NV-JVoC1c5SjDQqG-yWxM94lRptjequ30v_KMsodfi5_45o9K4zjfWkMG-MQ-3jXLLEkfABGircnA" />
+<link rel="stylesheet" media="all" href="/themes/custom/stlawu/assets/js/dist/app.css?tm2v4m" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_-Vbwk5bwrYmVbenDmEYnezW_akXSzAgncw88v5M315M.css?delta=2&amp;language=en&amp;theme=stlawu&amp;include=eJyFkOFOxCAQhF8IyyORBabtnsASFmzPpxfPGL3YxD_ADl8yO0Oq6I7LDaFLs0F1ibyuaCidaUrqjp07nFYKMPQXX_mEulWaU47w1FxGGVdkRmRyguwRXZDSp8cVVxtff3TyCUqHo3gb2qdP1yvufY4R5xPm0Tuaw1lFp_3KaY5qNxQ0SsYner_bJBS5bCZIkubltBErjdSn0GBjG5XSQjc6n4RZT35JrN1gzFzyyphXrompBNgr0c2eYNbZAR1QybC_3ssB_znqv8CiO2fz6NV-JVoC1c5SjDQqG-yWxM94lRptjequ30v_KMsodfi5_45o9K4zjfWkMG-MQ-3jXLLEkfABGircnA" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_q2kWe3Yq3pTcTAdY4OvjrXHvS6tOZRzIV6z4_9_lw-U.css?delta=3&amp;language=en&amp;theme=stlawu&amp;include=eJyFkOFOxCAQhF8IyyORBabtnsASFmzPpxfPGL3YxD_ADl8yO0Oq6I7LDaFLs0F1ibyuaCidaUrqjp07nFYKMPQXX_mEulWaU47w1FxGGVdkRmRyguwRXZDSp8cVVxtff3TyCUqHo3gb2qdP1yvufY4R5xPm0Tuaw1lFp_3KaY5qNxQ0SsYner_bJBS5bCZIkubltBErjdSn0GBjG5XSQjc6n4RZT35JrN1gzFzyyphXrompBNgr0c2eYNbZAR1QybC_3ssB_znqv8CiO2fz6NV-JVoC1c5SjDQqG-yWxM94lRptjequ30v_KMsodfi5_45o9K4zjfWkMG-MQ-3jXLLEkfABGircnA" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_KZTXniC0FMS-3qn6GUMOMZ2BbRpGlqvfZDp2-TFV6Qk.css?delta=4&amp;language=en&amp;theme=stlawu&amp;include=eJyFkOFOxCAQhF8IyyORBabtnsASFmzPpxfPGL3YxD_ADl8yO0Oq6I7LDaFLs0F1ibyuaCidaUrqjp07nFYKMPQXX_mEulWaU47w1FxGGVdkRmRyguwRXZDSp8cVVxtff3TyCUqHo3gb2qdP1yvufY4R5xPm0Tuaw1lFp_3KaY5qNxQ0SsYner_bJBS5bCZIkubltBErjdSn0GBjG5XSQjc6n4RZT35JrN1gzFzyyphXrompBNgr0c2eYNbZAR1QybC_3ssB_znqv8CiO2fz6NV-JVoC1c5SjDQqG-yWxM94lRptjequ30v_KMsodfi5_45o9K4zjfWkMG-MQ-3jXLLEkfABGircnA" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_DFfQc9b5pY0qzVTJNpEpsJmKSHmjbF2NMWRe39VkwUw.css?delta=5&amp;language=en&amp;theme=stlawu&amp;include=eJyFkOFOxCAQhF8IyyORBabtnsASFmzPpxfPGL3YxD_ADl8yO0Oq6I7LDaFLs0F1ibyuaCidaUrqjp07nFYKMPQXX_mEulWaU47w1FxGGVdkRmRyguwRXZDSp8cVVxtff3TyCUqHo3gb2qdP1yvufY4R5xPm0Tuaw1lFp_3KaY5qNxQ0SsYner_bJBS5bCZIkubltBErjdSn0GBjG5XSQjc6n4RZT35JrN1gzFzyyphXrompBNgr0c2eYNbZAR1QybC_3ssB_znqv8CiO2fz6NV-JVoC1c5SjDQqG-yWxM94lRptjequ30v_KMsodfi5_45o9K4zjfWkMG-MQ-3jXLLEkfABGircnA" />
+
+    
+  </head>
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W9ZMGRP"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div class="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Skip to main site navigation</a>
+      <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    </div>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+
+
+<div class="page page--listing-page">
+
+  <div class="oho-alert__wrapper"></div>
+
+  
+
+
+
+      <div class="system-region">
+      <div class="grid-container">
+        <div class="system-messages">
+          <div data-drupal-messages-fallback class="hidden"></div>
+
+
+        </div>
+      </div>
+    </div>
+  
+  <header class="site-header">
+    <div class='site-header__sticky-container'>
+      <div class="grid-container">
+        <a class="site-header__logo" href="/">
+          <span class="show-for-sr">Return to the St. Lawrence University Homepage</span>
+          <img width="316" height="53" src="/themes/custom/stlawu/assets/img/logo.svg" alt="St. Lawrence University Crest and Logo">
+        </a>
+        <div class="site-search">
+  <button class="site-search__toggle" data-button-open-text="Open the search panel" data-button-close-text="Close the search panel" data-button-enable-at="0" data-button-open-class="search-panel-open">
+    <span class="toggle-text show-for-sr"></span>
+  </button>
+  <div class="search-block-form-container">
+    <h2>Search St. Lawrence</h2>
+    <form class="oho-search-api-form" data-drupal-selector="oho-search-api-form" action="/news" method="post" id="oho-search-api-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-textfield form-item-keys js-form-item-keys form-no-label">
+      <label for="edit-keys--2" class="visually-hidden">Search by keyword</label>
+        <input data-drupal-selector="edit-keys" placeholder="Search" type="text" id="edit-keys--2" name="keys" value="" size="60" maxlength="128" class="form-text" />
+
+        </div>
+<input autocomplete="off" data-drupal-selector="form-zszqbqxn22p7btkkgyeb2g4vcqhmz81i-mxqr5snx4i" type="hidden" name="form_build_id" value="form-ZSzQBqxn22P7bTKkgyeB2G4vcQhMz81i-mXQR5snX4I" />
+<input data-drupal-selector="edit-oho-search-api-form" type="hidden" name="form_id" value="oho_search_api_form" />
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-keys-2"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Search" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+
+  </div>
+</div>
+
+
+        <button class="mobile-menu-button" data-button-open-text="Open the main menu" data-button-close-text="Close the main menu" data-button-enable-at="0" data-button-disable-at="1024" data-button-open-class="mobile-menu-open">
+          <span class="toggle-text show-for-sr"></span>
+        </button>
+        <div class="site-header__main">
+          <div class="site-header__bottom">
+              
+  <nav id="main-menu" class="main-menu accessible-menu" data-item-open-text="Open the %s menu" data-item-close-text="Close the %s menu">
+      
+      <ul  class="menu">
+              <li class="menu-item--expanded li--level-one">
+          <a href="/academics" data-drupal-link-system-path="node/7">Academics</a>
+                        
+      <ul class="menu">
+              <li class="li--level-two">
+          <a href="/majors-and-minors" data-drupal-link-system-path="node/13">Majors and Minors</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/academics/pre-professional-and-dual-degree-programs" data-drupal-link-system-path="node/5216">Pre-Professional and Dual-Degree Programs</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/academics/choosing-major" data-drupal-link-system-path="node/4825">Choosing a Major</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/academics/first-year-program" data-drupal-link-system-path="node/390">First-Year Program</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/academics/sophomore-success-initiative" data-drupal-link-system-path="node/3499">Sophomore Success Initiative</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/academics/study-abroad" data-drupal-link-system-path="node/13782">Study Abroad</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/academics/center-environment" data-drupal-link-system-path="node/13261">Center for the Environment</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/academics/research" data-drupal-link-system-path="node/4824">Research</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/academics/academic-support" data-drupal-link-system-path="node/472">Academic Support</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/academics/library" data-drupal-link-system-path="node/5109">Library</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/academics/meet-our-faculty" data-drupal-link-system-path="node/8444">Meet Our Faculty</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/academics/academic-calendar" data-drupal-link-system-path="node/389">Academic Calendar</a>
+                  </li>
+          </ul>
+  
+
+                  </li>
+              <li class="menu-item--expanded li--level-one">
+          <a href="/admissions" data-drupal-link-system-path="node/8">Admissions &amp; Aid</a>
+                        
+      <ul class="menu">
+              <li class="menu-item--collapsed li--level-two">
+          <a href="/visit-us" data-drupal-link-system-path="node/147">Visit Us</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/admissions/request-information" data-drupal-link-system-path="node/4834">Request Information</a>
+                  </li>
+              <li class="menu-item--collapsed li--level-two">
+          <a href="/applying-st-lawrence" data-drupal-link-system-path="node/148">Applying to St. Lawrence</a>
+                  </li>
+              <li class="menu-item--collapsed li--level-two">
+          <a href="/financial-aid-scholarships" data-drupal-link-system-path="node/4823">Financial Aid &amp; Scholarships</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/admissions/tuition-and-fees" data-drupal-link-system-path="node/3565">Tuition and Fees</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/admissions/connect-our-students" data-drupal-link-system-path="node/5545">Connect With Our Students</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/admissions/admissions-counselors" data-drupal-link-system-path="node/14653">Admissions Counselors</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/offices/admissions-office/information-high-school-counselors" data-drupal-link-system-path="node/4909">Information for High School Counselors</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/deposit-now" data-drupal-link-system-path="node/17412">Deposit Now</a>
+                  </li>
+          </ul>
+  
+
+                  </li>
+              <li class="menu-item--expanded li--level-one">
+          <a href="/student-life" data-drupal-link-system-path="node/9">Student Life</a>
+                        
+      <ul class="menu">
+              <li class="li--level-two">
+          <a href="/student-life/explore-our-campus" data-drupal-link-system-path="node/149">Explore Our Campus</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/student-life/discover-north-country" data-drupal-link-system-path="node/150">Discover the North Country</a>
+                  </li>
+              <li class="menu-item--collapsed li--level-two">
+          <a href="/student-life/get-involved" data-drupal-link-system-path="node/410">Get Involved</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/slu-thrives" data-drupal-link-system-path="node/16541">SLU Thrives</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/student-life/housing" data-drupal-link-system-path="node/367">Housing</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/student-life/dining" data-drupal-link-system-path="node/152">Dining</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/student-life/traditions-and-special-events" data-drupal-link-system-path="node/455">Traditions and Special Events</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/student-life/resources-international-students" data-drupal-link-system-path="node/4826">Resources for International Students</a>
+                  </li>
+              <li class="menu-item--collapsed li--level-two">
+          <a href="/student-life/health-well-being-safety" data-drupal-link-system-path="node/460">Health, Well-Being &amp; Safety</a>
+                  </li>
+          </ul>
+  
+
+                  </li>
+              <li class="menu-item--expanded li--level-one">
+          <a href="/athletics-recreation" data-drupal-link-system-path="node/10">Athletics &amp; Recreation</a>
+                        
+      <ul class="menu">
+              <li class="li--level-two">
+          <a href="/athletics-recreation/intercollegiate-athletics" data-drupal-link-system-path="node/453">Intercollegiate Athletics</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/athletics-recreation/intramural-and-club-sports" data-drupal-link-system-path="node/452">Intramural and Club Sports</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/athletics-recreation/fitness" data-drupal-link-system-path="node/461">Fitness</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/athletics-recreation/outdoor-recreation" data-drupal-link-system-path="node/451">Outdoor Recreation</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/athletics-recreation/athletic-facilities" data-drupal-link-system-path="node/450">Athletic Facilities</a>
+                  </li>
+          </ul>
+  
+
+                  </li>
+              <li class="menu-item--expanded li--level-one">
+          <a href="/careers-outcomes" data-drupal-link-system-path="node/11">Careers &amp; Outcomes</a>
+                        
+      <ul class="menu">
+              <li class="li--level-two">
+          <a href="/careers-outcomes/no-1-alumni-network" data-drupal-link-system-path="node/4828">No. 1 Alumni Network</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/careers-outcomes/our-career-commitment" data-drupal-link-system-path="node/8462">Our Career Commitment</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/careers-outcomes/planning-your-career" data-drupal-link-system-path="node/4805">Planning Your Career</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/careers-outcomes/internships" data-drupal-link-system-path="node/4766">Internships</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/careers-outcomes/outcomes" data-drupal-link-system-path="node/279">Outcomes</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/careers-outcomes/signature-career-programs" data-drupal-link-system-path="node/4800">Signature Career Programs</a>
+                  </li>
+          </ul>
+  
+
+                  </li>
+              <li class="menu-item--expanded li--level-one">
+          <a href="/about" data-drupal-link-system-path="node/12">About</a>
+                        
+      <ul class="menu">
+              <li class="li--level-two">
+          <a href="/about/fast-facts" data-drupal-link-system-path="node/364">Fast Facts</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/about/mission-and-history" data-drupal-link-system-path="node/4804">Mission and History</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/offices/presidents-office" data-drupal-link-system-path="node/272">President Kathryn A. Morris</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/about/intercultural-engagement-inclusion-and-belonging" data-drupal-link-system-path="node/4827">Intercultural Engagement, Inclusion, and Belonging</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/about/sustainability" data-drupal-link-system-path="node/462">Sustainability</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/about/st-lawrence-community" data-drupal-link-system-path="node/3500">St. Lawrence in the Community</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/about/regional-accommodations" data-drupal-link-system-path="node/2542">Regional Accommodations</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/about/maps-directions-and-parking" data-drupal-link-system-path="node/4820">Maps, Directions, and Parking</a>
+                  </li>
+              <li class="li--level-two">
+          <a href="/about/contact-us" data-drupal-link-system-path="node/4829">Contact Us</a>
+                  </li>
+          </ul>
+  
+
+                  </li>
+          </ul>
+  
+
+  </nav>
+
+
+
+
+
+
+          </div>
+          <div class="site-header__top">
+            
+
+  <div class="site-header__cta-menu">
+                      <a href="/admissions/request-information" class="btn">Request Information</a>
+
+            <a href="/applying-st-lawrence" class="btn">Apply</a>
+
+            <a href="/visit-us" class="btn">Visit Us</a>
+
+      
+  </div>
+  
+  <nav id="audience-menu" class="audience-menu accessible-menu" data-item-open-text="Open the %s menu" data-item-close-text="Close the %s menu">
+    <ul class="menu">
+      <li>
+        <span>Resources For</span>
+          
+      <ul class="menu">
+              <li class="li--level-one">
+          <a href="/current-students" data-drupal-link-system-path="node/5919">Current Students</a>
+                  </li>
+              <li class="li--level-one">
+          <a href="/faculty-and-staff" data-drupal-link-system-path="node/5920">Faculty and Staff</a>
+                  </li>
+              <li class="li--level-one">
+          <a href="/offices/alumni" data-drupal-link-system-path="node/361">Alumni</a>
+                  </li>
+              <li class="li--level-one">
+          <a href="/parents-and-families" data-drupal-link-system-path="node/5918">Parents &amp; Families</a>
+                  </li>
+          </ul>
+  
+
+      </li>
+    </ul>
+  </nav>
+
+
+
+
+  
+  <nav id="utility-menu" class="utility-menu accessible-menu" data-item-open-text="Open the %s menu" data-item-close-text="Close the %s menu">
+      
+      <ul  class="menu">
+              <li class="li--level-one">
+          <a href="https://www.givecampus.com/campaigns/26516/donations/new?a=10636596" target="_blank" aria-label="opens Make a Gift in new window" rel="noopener">Make a Gift</a>
+                  </li>
+              <li class="menu-item--collapsed li--level-one">
+          <a href="/offices" data-drupal-link-system-path="node/22">Directory</a>
+                  </li>
+          </ul>
+  
+
+  </nav>
+
+
+
+
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  
+
+  <div class="page-wrapper">
+    <main id="main-content" class="main-content">
+      <div id="block-system-content">
+  
+    
+      
+
+
+  
+          
+  
+  
+  
+
+  <div  class="card--hero card--collapse section--global-spacing card--hero--no-img card--hero--card card">
+        <div class="card__content ">
+      <div class="card__content__inner">
+            <div class="card__content__text">
+      <h1><span>News</span>
+</h1>
+      
+          </div>
+          
+          
+              </div>
+    </div>
+    
+</div>
+
+
+
+
+
+
+
+
+
+
+  <div class="paragraph paragraph--type--oho-view-embed paragraph--view-mode--default">
+          
+<div class="field field--name-oho-view field--type-viewfield field--label-hidden">
+  
+    
+        
+<div class="field__item field__item-label-hidden">
+  
+    
+      <div class="views-element-container">
+<div class="js-view-dom-id-ed7e5b6aa0ce4777c5bd972b8b5f4f1a637b77c6fa85c6366c7db1ae8a487999 listing listing--news">
+
+  
+  
+  
+
+  <form class="views-exposed-form bef-exposed-form" data-bef-auto-submit="" data-bef-auto-submit-delay="500" data-bef-auto-submit-minimum-length="3" data-bef-auto-submit-full-form="" data-drupal-selector="views-exposed-form-news-listing-main-embed" action="/news" method="get" id="views-exposed-form-news-listing-main-embed" accept-charset="UTF-8">
+  
+
+
+
+
+  <div class="listing-form__upper global-padding--large global-padding--gradient--powder-blue global-padding--gradient">
+    <div class="grid-container">
+                    <div class="grid-x grid-margin-x">
+                      <div class="cell large-4 search-lockup">
+                <div class="js-form-item form-item js-form-type-textfield form-item-search js-form-item-search">
+      <label for="edit-search">Search</label>
+        <input placeholder="Search all news and stories" data-drupal-selector="edit-search" type="text" id="edit-search" name="search" value="" size="30" maxlength="128" class="form-text" />
+
+        </div>
+
+  <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-bef-auto-submit-click="" data-drupal-selector="edit-submit-news-listing" type="submit" id="edit-submit-news-listing" value="Go" class="button js-form-submit form-submit" />
+</div>
+
+
+            </div>
+                                              <div class="cell large-4">
+                <div class="js-form-item form-item js-form-type-select form-item-category js-form-item-category">
+      <label for="edit-category">Filter by Category</label>
+        <select data-drupal-selector="edit-category" id="edit-category" name="category" class="form-select"><option value="All" selected="selected">All Categories</option><option value="400">Department News</option><option value="640">Featured News</option><option value="409">Laurentian Connections</option><option value="728">Laurentian Impact</option><option value="408">Liberal Arts Adventures</option><option value="411">Life at St. Lawrence</option><option value="410">Making a Difference</option><option value="407">Messages to the Community</option><option value="612">St. Lawrence Magazine</option><option value="390">University News and Stories</option></select>
+        </div>
+
+              </div>
+                          <div class="cell large-4">
+                <div class="js-form-item form-item js-form-type-select form-item-topic js-form-item-topic">
+      <label for="edit-topic">Filter by Topic</label>
+        <select data-drupal-selector="edit-topic" id="edit-topic" name="topic" class="form-select"><option value="All" selected="selected">All Topics</option><option value="165">Academic Advising</option><option value="175">Academic Affairs</option><option value="166">Academic Support</option><option value="415">Academics</option><option value="147">Adirondack Semester</option><option value="176">Admissions</option><option value="167">Advising Toolkit</option><option value="186">Advocates</option><option value="216">African American Studies</option><option value="164">African Studies</option><option value="135">Alumni</option><option value="193">Alumni Council</option><option value="427">Alumni Network</option><option value="414">Alumni News</option><option value="292">Always Forward</option><option value="220">Anthropology</option><option value="191">APR 2</option><option value="643">Arabic Studies</option><option value="227">Art and Art History</option><option value="149">Art Gallery</option><option value="740">Artificial Intelligence (AI)</option><option value="472">Arts and Performance</option><option value="143">Arts Collaborative</option><option value="239">Asian Studies</option><option value="155">Assessment of Student Learning</option><option value="240">Biochemistry</option><option value="205">Biology</option><option value="632">Biomedical Sciences</option><option value="142">Business in the Liberal Arts</option><option value="211">Business Office</option><option value="221">Canadian Studies</option><option value="177">Career Connections</option><option value="421">Careers and Outcomes</option><option value="215">Caribbean, Latin American, and Latino Studies</option><option value="178">Center for Career Excellence</option><option value="724">Center for the Environment</option><option value="232">Chaplain&#039;s Office</option><option value="229">Chemistry</option><option value="644">Chinese Studies</option><option value="470">Chocolate Passport</option><option value="163">CIIS</option><option value="865">CITA</option><option value="420">Clubs and Organizations</option><option value="198">Commencement</option><option value="141">Community-Based Learning</option><option value="207">Computer Science</option><option value="172">Conservation Biology</option><option value="145">Corporate and Foundation Relations</option><option value="212">CSTEP</option><option value="214">CSTEP and McNair</option><option value="151">Current Students</option><option value="927">Cybersecurity</option><option value="609">Data Science</option><option value="610">Digital Media and Film</option><option value="1023">Digital Wellness</option><option value="210">Dining</option><option value="169">Economics</option><option value="182">Education</option><option value="162">Engineering Combined Programs</option><option value="224">English</option><option value="1020">Environmental &amp; Community Engagement</option><option value="234">Environmental Health and Safety</option><option value="430">Environmental Science</option><option value="39">Environmental Studies</option><option value="641">Estudios Hispanicos</option><option value="133">European Studies</option><option value="140">Facilities Operations</option><option value="152">Faculty and Staff</option><option value="413">Faculty News</option><option value="864">Faculty Q&amp;A</option><option value="199">Faculty Staff Housing</option><option value="144">Festival of Science, Scholarship, and Creativity</option><option value="226">Film and Representation Studies</option><option value="170">Finance</option><option value="223">Financial Aid</option><option value="1018">Financial Literacy</option><option value="428">First Person</option><option value="736">First-Generation Success</option><option value="230">First-Year Program</option><option value="642">Francophone Studies</option><option value="237">Gender and Sexuality Studies</option><option value="134">Geology</option><option value="645">German Studies</option><option value="398">Giving</option><option value="185">Global Studies</option><option value="197">Graduate Programs</option><option value="157">Green Pages</option><option value="173">Health and Counseling Services</option><option value="174">HEOP</option><option value="161">History</option><option value="200">Human Resources</option><option value="201">Innovation Grants</option><option value="156">Institutional Research</option><option value="1015">Intellectual &amp; Career Exploration</option><option value="471">International Student Experiences</option><option value="236">International Student Services</option><option value="426">Internships</option><option value="418">Intramural and Club Sports</option><option value="646">Italian Studies</option><option value="429">Laurentians Inspire</option><option value="137">LGBTQIA Student Resources</option><option value="634">Library</option><option value="304">Master&#039;s of Business Combined</option><option value="206">Math</option><option value="209">Math, Computer Science and Statistics</option><option value="213">McNair</option><option value="1013">Meaning-Making, Purpose, &amp; Spirituality</option><option value="1012">Mind &amp; Body</option><option value="647">Multi-language</option><option value="159">Music</option><option value="705">Native American Affairs</option><option value="718">Native American Affairs</option><option value="218">Native American and Indigenous Studies</option><option value="154">NCAT</option><option value="132">Neuroscience</option><option value="473">North Country Connections</option><option value="306">North Country Symposium</option><option value="424">Off-Campus Study</option><option value="222">Office Services</option><option value="225">Outdoor Program</option><option value="419">Outdoor Recreation</option><option value="148">Outdoor Studies</option><option value="150">Parents and Families</option><option value="196">Peace Studies</option><option value="184">Performance and Communication Arts</option><option value="202">Phi Beta Kappa</option><option value="183">Philosophy</option><option value="146">Physics</option><option value="195">Political Science</option><option value="219">PQRC</option><option value="639">Pre-health Chemistry</option><option value="203">President&#039;s Office</option><option value="181">Psychology</option><option value="638">Public Health</option><option value="189">Public Health</option><option value="192">Registrar</option><option value="190">Religious Studies</option><option value="425">Research</option><option value="179">Research and Experiential Learning</option><option value="153">Residence Life</option><option value="238">Reunion</option><option value="171">Risk Management</option><option value="235">Safety and Security</option><option value="1010">SLU Thrives</option><option value="1021">Social Belonging &amp; Inclusion</option><option value="233">Sociology</option><option value="217">Sophomore Success Initiative</option><option value="139">Sports Studies and Exercise Science</option><option value="412">St. Lawrence in the News</option><option value="611">St. Lawrence Magazine</option><option value="622">Staff News</option><option value="208">Statistics</option><option value="231">Student Accessibility Services</option><option value="187">Student Activities</option><option value="158">Student Financial Services</option><option value="416">Student Life</option><option value="168">Student Success and Engagement</option><option value="422">Student Wellness</option><option value="423">Sustainability</option><option value="228">Sustainability Program</option><option value="188">Thelmo</option><option value="204">Title IX</option><option value="723">Total Solar Eclipse</option><option value="313">University Communications</option><option value="314">University Theater</option><option value="417">Varsity Athletics</option><option value="138">Volunteer Services</option><option value="160">Wellness</option><option value="180">World Languages</option><option value="892">Writers Series</option></select>
+        </div>
+
+              </div>
+                              </div>
+          </div>
+  </div>
+  <div class="global-padding--medium global-padding--medium global-padding--white">
+    
+  </div>
+
+
+</form>
+
+
+  <div class="grid-container">
+    <div class="grid-x grid-padding-x grid-x-alpha">
+      <div class="cell">
+        
+      </div>
+    </div>
+  </div>
+
+  
+
+  <section class="list-items list-items--news global-spacing--medium">
+    <div class="grid-container">
+              <ol class="hide-bullet-marker">
+          
+    <li  class="list-items__item">
+    
+
+
+
+
+  <div  class="card card--news card--small card--listing card--listing--news card--collapse" >
+      <div class="card__media  ">
+      
+              <figure>
+          <div class="aspect-ratio-frame" style="--aspect-ratio: .55">
+            
+    <div data-b-token="b-c41ace4b382" class="media media--blazy media--bundle--image media--image is-b-loading"><img alt="Saint Lawrence students walk about the quad on a sunny fall day. There are bright orange and red leaves scattered on the ground." decoding="async" class="media__element b-lazy" loading="lazy" data-src="/sites/default/files/styles/350x190/public/2026-09/advancement%20hero%20%282%29.jpg?h=0f4230fa&amp;itok=QzVXvG30" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039;%20viewBox%3D&#039;0%200%201%201&#039;%2F%3E" width="350" height="190" />
+        </div>
+  
+          </div>
+                  </figure>
+          </div>
+        <div class="card__content ">
+      <div class="card__content__inner">
+          <h3><a href="/news/st-lawrence-university-achieves-historic-fundraising-year-record-548-million-raised" class="box-arrow"><span>St. Lawrence University Achieves Historic Fundraising Year with Record $54.8 Million Raised</span>
+</a></h3>
+      <div class="date list--pipe-separate">
+                    <span class='list--pipe-separate__item'>
+<time datetime="2026-09-14">Sep 14, 2026</time>
+</span>
+          </div>
+  
+      <p class="medium-text">
+St. Lawrence University raised a record $54.8 million in new gifts and pledges during fiscal year 2026, making it the largest fundraising year ever for the University.</p>
+  
+      <div class="list--pipe-separate">
+                        <ul class="list--comma-separate list--pipe-separate__item">
+              <li class="eyebrow">
+            <a href="/news?category=728">Laurentian Impact</a>
+
+        </li>
+              <li class="eyebrow">
+            <a href="/news?category=410">Making a Difference</a>
+
+        </li>
+              <li class="eyebrow">
+            <a href="/news?category=390">University News and Stories</a>
+
+        </li>
+          </ul>
+  
+      
+                        <ul class="list--comma-separate list--pipe-separate__item">
+              <li>
+            <a href="/news?topic=398">Giving</a>
+
+        </li>
+          </ul>
+  
+          </div>
+  
+  
+              </div>
+    </div>
+    
+</div>
+
+  </li>
+    <li  class="list-items__item">
+    
+  
+
+
+
+  <div  class="card card--news card--small card--listing card--listing--news card--collapse" >
+        <div class="card__content ">
+      <div class="card__content__inner">
+          <h3><a href="/news/congratulations-our-very-own-jaclyn-teriele-receiving-john-p-jack-taylor-distinguished-career" class="box-arrow"><span>Congratulations to our very own Jaclyn teRiele on receiving The John P. “Jack” Taylor Distinguished Career Service Award 2026 </span>
+</a></h3>
+      <div class="date list--pipe-separate">
+                    <span class='list--pipe-separate__item'>
+<time datetime="2026-09-11">Sep 11, 2026</time>
+</span>
+          </div>
+  
+      <p class="medium-text">
+  please click on the below link for award description and write up. https://www.stlawu.edu/news/st-lawrence-celebrates-faculty-and-staff-excellence-2026-convocation?utm_source=newsletter&amp;utm_medium...
+
+</p>
+  
+      <div class="list--pipe-separate">
+                        <ul class="list--comma-separate list--pipe-separate__item">
+              <li class="eyebrow">
+            <a href="/news?category=400">Department News</a>
+
+        </li>
+          </ul>
+  
+      
+                        <ul class="list--comma-separate list--pipe-separate__item">
+              <li>
+            <a href="/news?topic=205">Biology</a>
+
+        </li>
+          </ul>
+  
+          </div>
+  
+  
+              </div>
+    </div>
+    
+</div>
+
+  </li>
+    <li  class="list-items__item">
+    
+  
+
+
+
+  <div  class="card card--news card--small card--listing card--listing--news card--collapse" >
+        <div class="card__content ">
+      <div class="card__content__inner">
+          <h3><a href="/news/become-member-beta-beta-beta" class="box-arrow"><span>Become a member of Beta Beta Beta</span>
+</a></h3>
+      <div class="date list--pipe-separate">
+                    <span class='list--pipe-separate__item'>
+<time datetime="2026-09-10">Sep 10, 2026</time>
+</span>
+          </div>
+  
+      <p class="medium-text">
+  
+
+</p>
+  
+      <div class="list--pipe-separate">
+                        <ul class="list--comma-separate list--pipe-separate__item">
+              <li class="eyebrow">
+            <a href="/news?category=400">Department News</a>
+
+        </li>
+          </ul>
+  
+      
+                        <ul class="list--comma-separate list--pipe-separate__item">
+              <li>
+            <a href="/news?topic=205">Biology</a>
+
+        </li>
+              <li>
+            <a href="/news?topic=172">Conservation Biology</a>
+
+        </li>
+              <li>
+            <a href="/news?topic=240">Biochemistry</a>
+
+        </li>
+          </ul>
+  
+          </div>
+  
+  
+              </div>
+    </div>
+    
+</div>
+
+  </li>
+    <li  class="list-items__item">
+    
+  
+
+
+
+  <div  class="card card--news card--small card--listing card--listing--news card--collapse" >
+      <div class="card__media  ">
+      
+              <figure>
+          <div class="aspect-ratio-frame" style="--aspect-ratio: .55">
+            
+    <div data-b-token="b-b54e814140f" class="media media--blazy media--bundle--image media--image is-b-loading"><img alt="Image of black man with hands in pocket" decoding="async" class="media__element b-lazy" loading="lazy" data-src="/sites/default/files/styles/350x190/public/2026-09/Griff%20Stark-Ennis%20-%20Lobby%20TV%20Image%20%283%29%5B64%5D%20copy.jpg?h=3d40edfc&amp;itok=VM415b63" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039;%20viewBox%3D&#039;0%200%201%201&#039;%2F%3E" width="350" height="190" />
+        </div>
+  
+          </div>
+                  </figure>
+          </div>
+        <div class="card__content ">
+      <div class="card__content__inner">
+          <h3><a href="/news/pca-announces-griff-starnes-ennis-artist-residency" class="box-arrow"><span>PCA Announces Griff Starnes-Ennis Artist Residency </span>
+</a></h3>
+      <div class="date list--pipe-separate">
+                    <span class='list--pipe-separate__item'>
+<time datetime="2026-09-10">Sep 10, 2026</time>
+</span>
+          </div>
+  
+      <p class="medium-text">
+  The PCA Department is pleased to host an artist residency by Griff Stark-Ennis, a North Country native who has built a creative career in Hollywood. Griff is an actor, (retired) model, marketing...
+
+</p>
+  
+      <div class="list--pipe-separate">
+                        <ul class="list--comma-separate list--pipe-separate__item">
+              <li class="eyebrow">
+            <a href="/news?category=400">Department News</a>
+
+        </li>
+          </ul>
+  
+      
+                        <ul class="list--comma-separate list--pipe-separate__item">
+              <li>
+            <a href="/news?topic=184">Performance and Communication Arts</a>
+
+        </li>
+          </ul>
+  
+          </div>
+  
+  
+              </div>
+    </div>
+    
+</div>
+
+  </li>
+    <li  class="list-items__item">
+    
+  
+
+
+
+  <div  class="card card--news card--small card--listing card--listing--news card--collapse" >
+      <div class="card__media  ">
+      
+              <figure>
+          <div class="aspect-ratio-frame" style="--aspect-ratio: .55">
+            
+    <div data-b-token="b-31fbdd693a9" class="media media--blazy media--bundle--image media--image is-b-loading"><img alt="Megs Carpenter." decoding="async" class="media__element b-lazy" loading="lazy" data-src="/sites/default/files/styles/350x190/public/2026-09/megs%20carpenter%20hero.png?h=35559743&amp;itok=ZvFqxPOA" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039;%20viewBox%3D&#039;0%200%201%201&#039;%2F%3E" width="350" height="190" />
+        </div>
+  
+          </div>
+                  </figure>
+          </div>
+        <div class="card__content ">
+      <div class="card__content__inner">
+          <h3><a href="/news/qa-meet-psychology-professor-megs-carpenter" class="box-arrow"><span>Q&amp;A: Meet Psychology Professor Megs Carpenter</span>
+</a></h3>
+      <div class="date list--pipe-separate">
+                    <span class='list--pipe-separate__item'>
+<time datetime="2026-09-10">Sep 10, 2026</time>
+</span>
+          </div>
+  
+      <p class="medium-text">
+  Meet your Psychology Mentor Associate Professor of Psychology Megan “Megs” Carpenter brings curiosity, authenticity, and compassion to everything she does at St. Lawrence University. Since joining the...
+
+</p>
+  
+      <div class="list--pipe-separate">
+                        <ul class="list--comma-separate list--pipe-separate__item">
+              <li class="eyebrow">
+            <a href="/news?category=640">Featured News</a>
+
+        </li>
+              <li class="eyebrow">
+            <a href="/news?category=408">Liberal Arts Adventures</a>
+
+        </li>
+              <li class="eyebrow">
+            <a href="/news?category=390">University News and Stories</a>
+
+        </li>
+          </ul>
+  
+      
+                        <ul class="list--comma-separate list--pipe-separate__item">
+              <li>
+            <a href="/news?topic=181">Psychology</a>
+
+        </li>
+              <li>
+            <a href="/news?topic=864">Faculty Q&amp;A</a>
+
+        </li>
+          </ul>
+  
+          </div>
+  
+  
+              </div>
+    </div>
+    
+</div>
+
+  </li>
+    <li  class="list-items__item">
+    
+
+
+
+
+  <div  class="card card--news card--small card--listing card--listing--news card--collapse" >
+      <div class="card__media  ">
+      
+              <figure>
+          <div class="aspect-ratio-frame" style="--aspect-ratio: .55">
+            
+    <div data-b-token="b-d0f7d0fcc4c" class="media media--blazy media--bundle--image media--image is-b-loading"><img alt="Image of black woman on stage in spotlight" decoding="async" class="media__element b-lazy" loading="lazy" data-src="/sites/default/files/styles/350x190/public/2026-09/FOundry%20Call.jpg?h=f9c94b4c&amp;itok=LAIxMj2M" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039;%20viewBox%3D&#039;0%200%201%201&#039;%2F%3E" width="350" height="190" />
+        </div>
+  
+          </div>
+                  </figure>
+          </div>
+        <div class="card__content ">
+      <div class="card__content__inner">
+          <h3><a href="/news/university-theatre-announces-foundry-one-act-play-festival" class="box-arrow"><span>University Theatre Announces THE FOUNDRY: a one-act play festival</span>
+</a></h3>
+      <div class="date list--pipe-separate">
+                    <span class='list--pipe-separate__item'>
+<time datetime="2026-09-10">Sep 10, 2026</time>
+</span>
+          </div>
+  
+      <p class="medium-text">
+University Theatre is currently soliciting plays for its inaugural one-act festival set to debut in March 2027.</p>
+  
+      <div class="list--pipe-separate">
+                
+      
+                
+          </div>
+  
+  
+              </div>
+    </div>
+    
+</div>
+
+  </li>
+    <li  class="list-items__item">
+    
+  
+
+
+
+  <div  class="card card--news card--small card--listing card--listing--news card--collapse" >
+        <div class="card__content ">
+      <div class="card__content__inner">
+          <h3><a href="/news/el-khoury-published-two-new-chapters-ai-and-legal-translation" class="box-arrow"><span>El Khoury published two new chapters on AI and Legal Translation</span>
+</a></h3>
+      <div class="date list--pipe-separate">
+                    <span class='list--pipe-separate__item'>
+<time datetime="2026-09-04">Sep 4, 2026</time>
+</span>
+          </div>
+  
+      <p class="medium-text">
+  Two chapters co-authored by Gisele El Khoury, Director of the Language Resource Center, have been published in Exploring Complexity in Legal Translation and Discourse Analysis (IGI Global, 2027)....
+
+</p>
+  
+      <div class="list--pipe-separate">
+                        <ul class="list--comma-separate list--pipe-separate__item">
+              <li class="eyebrow">
+            <a href="/news?category=400">Department News</a>
+
+        </li>
+          </ul>
+  
+      
+                        <ul class="list--comma-separate list--pipe-separate__item">
+              <li>
+            <a href="/news?topic=180">World Languages</a>
+
+        </li>
+          </ul>
+  
+          </div>
+  
+  
+              </div>
+    </div>
+    
+</div>
+
+  </li>
+    <li  class="list-items__item">
+    
+  
+
+
+
+  <div  class="card card--news card--small card--listing card--listing--news card--collapse" >
+      <div class="card__media  ">
+      
+              <figure>
+          <div class="aspect-ratio-frame" style="--aspect-ratio: .55">
+            
+    <div data-b-token="b-e477001ab22" class="media media--blazy media--bundle--image media--image is-b-loading"><img alt="President Morris accompanied by 2026 faculty and staff award winners." decoding="async" class="media__element b-lazy" loading="lazy" data-src="/sites/default/files/styles/350x190/public/2026-09/20260826ConvocationAwardWinners03-1160x640%20%281%29.jpg?h=35559743&amp;itok=AFeAfkTj" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039;%20viewBox%3D&#039;0%200%201%201&#039;%2F%3E" width="350" height="190" />
+        </div>
+  
+          </div>
+                  </figure>
+          </div>
+        <div class="card__content ">
+      <div class="card__content__inner">
+          <h3><a href="/news/st-lawrence-celebrates-faculty-and-staff-excellence-2026-convocation" class="box-arrow"><span>St. Lawrence Celebrates Faculty and Staff Excellence at 2026 Convocation </span>
+</a></h3>
+      <div class="date list--pipe-separate">
+                    <span class='list--pipe-separate__item'>
+<time datetime="2026-09-03">Sep 3, 2026</time>
+</span>
+          </div>
+  
+      <p class="medium-text">
+  St. Lawrence University celebrated six faculty and staff members for excellence in teaching, scholarship, mentorship, and service during the 2026 Convocation ceremony. Sarah Johnson ’82 Professor in...
+
+</p>
+  
+      <div class="list--pipe-separate">
+                        <ul class="list--comma-separate list--pipe-separate__item">
+              <li class="eyebrow">
+            <a href="/news?category=390">University News and Stories</a>
+
+        </li>
+          </ul>
+  
+      
+                        <ul class="list--comma-separate list--pipe-separate__item">
+              <li>
+            <a href="/news?topic=175">Academic Affairs</a>
+
+        </li>
+              <li>
+            <a href="/news?topic=181">Psychology</a>
+
+        </li>
+              <li>
+            <a href="/news?topic=169">Economics</a>
+
+        </li>
+              <li>
+            <a href="/news?topic=223">Financial Aid</a>
+
+        </li>
+              <li>
+            <a href="/news?topic=205">Biology</a>
+
+        </li>
+              <li>
+            <a href="/news?topic=235">Safety and Security</a>
+
+        </li>
+              <li>
+            <a href="/news?topic=417">Varsity Athletics</a>
+
+        </li>
+              <li>
+            <a href="/news?topic=413">Faculty News</a>
+
+        </li>
+              <li>
+            <a href="/news?topic=622">Staff News</a>
+
+        </li>
+          </ul>
+  
+          </div>
+  
+  
+              </div>
+    </div>
+    
+</div>
+
+  </li>
+    <li  class="list-items__item">
+    
+
+
+
+
+  <div  class="card card--news card--small card--listing card--listing--news card--collapse" >
+      <div class="card__media  ">
+      
+              <figure>
+          <div class="aspect-ratio-frame" style="--aspect-ratio: .55">
+            
+    <div data-b-token="b-7387a60369a" class="media media--blazy media--bundle--image media--image is-b-loading"><img alt="A collage of Saint Lawrence University faculty. Faculty Focus, Saint Lawrence University." decoding="async" class="media__element b-lazy" loading="lazy" data-src="/sites/default/files/styles/350x190/public/2026-09/faculty%20focus%2010.png?h=35559743&amp;itok=DOj_p7ut" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039;%20viewBox%3D&#039;0%200%201%201&#039;%2F%3E" width="350" height="190" />
+        </div>
+  
+          </div>
+                  </figure>
+          </div>
+        <div class="card__content ">
+      <div class="card__content__inner">
+          <h3><a href="/news/faculty-focus-september-2-2026" class="box-arrow"><span>Faculty Focus-September 2, 2026</span>
+</a></h3>
+      <div class="date list--pipe-separate">
+                    <span class='list--pipe-separate__item'>
+<time datetime="2026-09-02">Sep 2, 2026</time>
+</span>
+          </div>
+  
+      <p class="medium-text">
+St. Lawrence faculty put their expertise into action throughout the summer, earning national recognition, advancing research, sharing insights with international audiences, and creating new opportunities for student learning.</p>
+  
+      <div class="list--pipe-separate">
+                        <ul class="list--comma-separate list--pipe-separate__item">
+              <li class="eyebrow">
+            <a href="/news?category=390">University News and Stories</a>
+
+        </li>
+          </ul>
+  
+      
+                        <ul class="list--comma-separate list--pipe-separate__item">
+              <li>
+            <a href="/news?topic=610">Digital Media and Film</a>
+
+        </li>
+              <li>
+            <a href="/news?topic=189">Public Health</a>
+
+        </li>
+              <li>
+            <a href="/news?topic=180">World Languages</a>
+
+        </li>
+              <li>
+            <a href="/news?topic=634">Library</a>
+
+        </li>
+              <li>
+            <a href="/news?topic=161">History</a>
+
+        </li>
+              <li>
+            <a href="/news?topic=182">Education</a>
+
+        </li>
+              <li>
+            <a href="/news?topic=195">Political Science</a>
+
+        </li>
+              <li>
+            <a href="/news?topic=206">Math</a>
+
+        </li>
+              <li>
+            <a href="/news?topic=209">Math, Computer Science and Statistics</a>
+
+        </li>
+              <li>
+            <a href="/news?topic=208">Statistics</a>
+
+        </li>
+              <li>
+            <a href="/news?topic=169">Economics</a>
+
+        </li>
+          </ul>
+  
+          </div>
+  
+  
+              </div>
+    </div>
+    
+</div>
+
+  </li>
+    <li  class="list-items__item">
+    
+  
+
+
+
+  <div  class="card card--news card--small card--listing card--listing--news card--collapse" >
+      <div class="card__media  ">
+      
+              <figure>
+          <div class="aspect-ratio-frame" style="--aspect-ratio: .55">
+            
+    <div data-b-token="b-fd28cef735d" class="media media--blazy media--bundle--image media--image is-b-loading"><img alt="Habib Battah Receives National Press Club Journalism Award 2026" decoding="async" class="media__element b-lazy" loading="lazy" data-src="/sites/default/files/styles/350x190/public/2026-08/IMG_0948%20copy_0.jpg?h=7b242ede&amp;itok=vC0F_1rG" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039;%20viewBox%3D&#039;0%200%201%201&#039;%2F%3E" width="350" height="190" />
+        </div>
+  
+          </div>
+                  </figure>
+          </div>
+        <div class="card__content ">
+      <div class="card__content__inner">
+          <h3><a href="/news/habib-battah-assistant-professor-digital-media-film-receives-national-press-club-award" class="box-arrow"><span>Habib Battah, Assistant Professor of Digital Media &amp; Film Receives National Press Club Award</span>
+</a></h3>
+      <div class="date list--pipe-separate">
+              <span class='author list--pipe-separate__item brown eyebrow'>
+Digital Media &amp; Film</span>
+                    <span class='list--pipe-separate__item'>
+<time datetime="2026-09-02">Sep 2, 2026</time>
+</span>
+          </div>
+  
+      <p class="medium-text">
+  On Wednesday, August 26th, Habib Battah, Assistant Professor of Digital Media and Film, received the 2026 National Press Club Arthur E. Rowse Award for Examining the News Media alongside collaborators...
+
+</p>
+  
+      <div class="list--pipe-separate">
+                        <ul class="list--comma-separate list--pipe-separate__item">
+              <li class="eyebrow">
+            <a href="/news?category=400">Department News</a>
+
+        </li>
+          </ul>
+  
+      
+                        <ul class="list--comma-separate list--pipe-separate__item">
+              <li>
+            <a href="/news?topic=610">Digital Media and Film</a>
+
+        </li>
+          </ul>
+  
+          </div>
+  
+  
+              </div>
+    </div>
+    
+</div>
+
+  </li>
+
+
+        </ol>
+          </div>
+  </section>
+    <nav class="pager" role="navigation" aria-labelledby="pagination-heading">
+    <h4 id="pagination-heading" class="visually-hidden">Pagination</h4>
+    <ul class="pager__items js-pager__items">
+                                                        <li class="pager__item is-active">
+                                          <a href="?page=0" title="Current page" aria-current="page">
+            <span class="visually-hidden">
+              Current page
+            </span>1</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?page=1" title="Go to page 2">
+            <span class="visually-hidden">
+              Page
+            </span>2</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?page=2" title="Go to page 3">
+            <span class="visually-hidden">
+              Page
+            </span>3</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?page=3" title="Go to page 4">
+            <span class="visually-hidden">
+              Page
+            </span>4</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?page=4" title="Go to page 5">
+            <span class="visually-hidden">
+              Page
+            </span>5</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?page=5" title="Go to page 6">
+            <span class="visually-hidden">
+              Page
+            </span>6</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?page=6" title="Go to page 7">
+            <span class="visually-hidden">
+              Page
+            </span>7</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?page=7" title="Go to page 8">
+            <span class="visually-hidden">
+              Page
+            </span>8</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?page=8" title="Go to page 9">
+            <span class="visually-hidden">
+              Page
+            </span>9</a>
+        </li>
+                          <li class="pager__item pager__item--ellipsis" role="presentation">&hellip;</li>
+                          <li class="pager__item pager__item--next">
+          <a href="?page=1" title="Go to next page" rel="next">
+            <span class="visually-hidden">Next page</span>
+            <span aria-hidden="true">››</span>
+          </a>
+        </li>
+                          <li class="pager__item pager__item--last">
+          <a href="?page=179" title="Go to last page">
+            <span class="visually-hidden">Last page</span>
+            <span aria-hidden="true">Last »</span>
+          </a>
+        </li>
+          </ul>
+  </nav>
+
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+
+    </div>
+
+      </div>
+
+
+  </div>
+
+
+    </main>
+  </div>
+
+  
+  <footer class="site-footer">
+    
+
+
+
+
+<div class="site-footer__upper">
+  <div class="grid-container">
+    <div class="grid-x grid-padding-x">
+      <div class="initial-12 cell large-4">
+        <a class="site-footer__logo" href='/'>
+          <span class="show-for-sr">Return to the St. Lawrence University Homepage</span>
+          <img width="316" height="53" src="/themes/custom/stlawu/assets/img/logo.svg" alt="St. Lawrence University Crest and Logo">
+        </a>
+        <div class="global-spacing--default">
+                      <div class="small-text sans-serif site-footer__address">
+              <strong>
+                
+<p>23 Romoda Dr.<br>Canton, NY 13617</p>
+              </strong>
+            </div>
+                  </div>
+                  <nav class="global-spacing--medium site-footer__contact">
+            <ul>
+                              <li><a href="tel:800-285-1856" rel="noopener">800-285-1856</a></li>
+                                            <li><a href="/about/contact-us">Contact Us</a></li>
+                              <li><a href="/about/maps-directions-and-parking">Maps, Directions, and Parking</a></li>
+                          </ul>
+          </nav>
+              </div>
+      <div class="initial-12 cell large-5">
+                  <nav class="site-footer__main-links">
+                      <ul>
+              <li><a href="/events">Events</a></li>
+              <li><a href="/people">Faculty Directory</a></li>
+              <li><a href="/offices">Department Directory</a></li>
+              <li><a href="/news?category=390">News</a></li>
+              <li><a href="https://www.stlawu.edu/library/" rel="noopener">Libraries</a></li>
+              <li><a href="https://www.brewerbookstore.com/" rel="noopener">Bookstore</a></li>
+              <li><a href="https://www.stlawu.edu/university-communications/north-country-public-radio" rel="noopener">NCPR</a></li>
+              <li><a href="/canaras-conference-center">Canaras Conference Center</a></li>
+          </ul>
+  
+
+          </nav>
+                          <nav class="site-footer__helpful-links global-spacing--default">
+                          <h2 class="eyebrow">
+Helpful Links</h2>
+                                  <ul>
+              <li><a href="/offices/title-ix">Title IX</a></li>
+              <li><a href="/consumer-information">Consumer Information</a></li>
+              <li><a href="/well-being-resources">Well-Being Resources</a></li>
+              <li><a href="/offices/human-resources/prospective-employees">Employment</a></li>
+          </ul>
+  
+
+          </nav>
+              </div>
+              <div class="initial-12 cell large-3">
+                      <div class="site-footer__campain-logo"><a href="https://brewerbookstore.com" target="_blank">
+    <div data-b-token="b-8f81a2478a9" class="media media--blazy media--bundle--image media--image is-b-loading"><img alt="Brewer Bookstore logo in white." decoding="async" class="media__element b-lazy" loading="lazy" data-src="/sites/default/files/styles/260_wide/public/2023-04/SLU_Bookstore_1c_White.png?itok=GAXqWFqF" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039;%20viewBox%3D&#039;0%200%201%201&#039;%2F%3E" width="260" height="171" />
+        </div>
+  </a></div>
+                                <div class="global-spacing--xsmall">
+              <p class="tiny-text sans-serif">
+The Brewer Bookstore carries SLU apparel, books, gifts, and other items.</p>
+            </div>
+                                <div class="global-spacing--xsmall">
+                                  <a href="https://brewerbookstore.com" class="btn btn--small btn--ghost--ochre" rel="noopener">Shop the Bookstore</a>
+
+      
+            </div>
+                                <div class="global-spacing--xlarge">
+                        <ul class="social-media">
+              <li><a href="
+https://www.facebook.com/StLawrenceU/" target="_blank" aria-label="Opens in a new window">
+  <span class="show-for-sr">
+    
+Follow us on Facebook
+          Facebook
+      </span>
+  
+<i class="fab fa-facebook-square"></i>
+
+
+</a>
+</li>
+              <li><a href="
+http://www.youtube.com/stlawrenceu" target="_blank" aria-label="Opens in a new window">
+  <span class="show-for-sr">
+    
+Subscribe to us on YouTube
+          Youtube
+      </span>
+  
+<i class="fab fa-youtube-square"></i>
+
+
+</a>
+</li>
+              <li><a href="
+https://twitter.com/stlawrenceu" target="_blank" aria-label="Opens in a new window">
+  <span class="show-for-sr">
+    
+Follow us on Twitter
+          X (Twitter)
+      </span>
+  
+<i class="fab fa-square-x-twitter"></i>
+
+
+</a>
+</li>
+              <li><a href="
+http://www.linkedin.com/groups?gid=49134" target="_blank" aria-label="Opens in a new window">
+  <span class="show-for-sr">
+    
+Connect with us on LinkedIn
+          LinkedIn
+      </span>
+  
+<i class="fab fa-linkedin"></i>
+
+
+</a>
+</li>
+              <li><a href="
+https://www.instagram.com/stlawrenceu/" target="_blank" aria-label="Opens in a new window">
+  <span class="show-for-sr">
+    
+Follow us on Instagram
+          Instagram
+      </span>
+  
+<i class="fab fa-instagram-square"></i>
+
+
+</a>
+</li>
+              <li><a href="
+https://www.tiktok.com/@stlawrenceu" target="_blank" aria-label="Opens in a new window">
+  <span class="show-for-sr">
+    
+          TikTok
+      </span>
+  
+<i class="fab fa-tiktok"></i>
+
+
+</a>
+</li>
+          </ul>
+  
+
+            </div>
+                  </div>
+          </div>
+  </div>
+</div>
+<div class="site-footer__lower global-padding--default global-padding--brown--dark">
+  <div class="grid-container">
+    <span>© 2026 St. Lawrence University</span>
+    
+<a href="/privacy-policy">Privacy</a><a href="/offices/university-communications/website-resources/accessibility">Accessibility</a><a href="/copyright">Copyright</a>
+                <a href="/user/login?destination=/news">Login</a>
+      </div>
+</div>
+
+
+  </footer>
+</div>
+  <div class="site-utilities sr-only">
+    <div id="block-stlawu-haldaaicode">
+  
+    
+      
+<script data-cfasync="false" async="true">   var s = document.createElement('script');   s.setAttribute('data-cfasync', 'false');   s.src = 'https://app.heyhalda.com/widgets/smart-forms/cmf5g1fyh00j8c4ppj20i9dyk.js?r=' + Math.random().toString(36).substring(7);   s.async = true;   document.head.appendChild(s); </script>
+  </div>
+<div id="block-siteimprovejs">
+  
+    
+      
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+              var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+              sz.src = '//siteimproveanalytics.com/js/siteanalyze_2448.js';
+              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script>
+  </div>
+<div id="block-slateping">
+  
+    
+      
+<script async="async" src="https://apply.stlawu.edu/ping">/**/</script><script async="async" src="https://student.stlawu.edu/ping">/**/</script>
+  </div>
+
+
+  </div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/14","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJyFUe1SxCAMfCEsj8QECNecQBgCtufTG8-eH2MdfwCbZcs2GxDB4aheMQzuNogskVLCjnUQKCVuW2mgkwYBDfyWJ9pRXOLuhCJ66K5gnWfKgpHAMRaP0QWuQz3OdK3T-cUAn1FgcxCvU4b6DDnTvWoZcf8h8zgGdod7Y1H7RFlLsTAHO5m-0PhLcsGKHbLxGV5v9r4fOGQ1zyTjqDNDPGDjfNMHHl-1zoUEj6pDOtCGvpnAmbvn3T7AFxMxwcxDiY429tkgLzqN8nR3xZysLqc9G5waKT8T6lFaJqgB7RnpdERoksYPGwoXtN_woj_0Xsq_gkVWKuY-UvuR1BKgDeJqeGUHGfuwn8hwh3pBe8nsNcoGHS4d2iqPpr6YZdY2vfa3YjRyE-3WetDsXgg3sfd9gSvsP4jCceZD4yAMesHPAZ6RD6W-41bNkvvNHucbgzs3pA","theme":"stlawu","theme_token":null},"ajaxTrustedUrl":{"\/news":true,"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Carticle class=\u0022cookie-compliance-popup global-padding global-padding--default gray--dark\u0022\u003E\n  \u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n    \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n      \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n        \u003Cdiv class=\u0022grid-container\u0022\u003E\n          \u003Cdiv class=\u0027grid-x grid-padding-x\u0027\u003E\n            \u003Cdiv class=\u0022cell initial-12\u0022\u003E\n              \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n            \u003C\/div\u003E\n            \u003Cdiv class=\u0022cell small-7 global-spacing--small\u0022\u003E\n                              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EReview Privacy Policy\u003C\/button\u003E\n                          \u003C\/div\u003E\n            \u003Cdiv class=\u0022cell small-5 global-spacing--small\u0022\u003E\n              \n              \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n                \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EDismiss\u003C\/button\u003E\n                              \u003C\/div\u003E\n            \u003C\/div\u003E\n          \u003C\/div\u003E\n        \u003C\/div\u003E\n      \u003C\/div\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/article\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Carticle class=\u0022cookie-compliance-popup global-padding global-padding--default gray--dark\u0022\u003E\n  \u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n    \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n      \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n        \u003Cdiv class=\u0022grid-container\u0022\u003E\n          \u003Cdiv class=\u0027grid-x grid-padding-x\u0027\u003E\n            \u003Cdiv class=\u0022cell initial-12\u0022\u003E\n              \n            \u003C\/div\u003E\n            \u003Cdiv class=\u0022cell small-7 global-spacing--small\u0022\u003E\n                              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EReview Privacy Policy\u003C\/button\u003E\n                          \u003C\/div\u003E\n            \u003Cdiv class=\u0022cell small-5 global-spacing--small\u0022\u003E\n              \n              \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n                \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EDismiss\u003C\/button\u003E\n                              \u003C\/div\u003E\n            \u003C\/div\u003E\n          \u003C\/div\u003E\n        \u003C\/div\u003E\n      \u003C\/div\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/article\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":true,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/privacy-policy","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"default","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button \u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":false,"olivero_primary_button_classes":"","olivero_secondary_button_classes":"","close_button_action":"close_banner","open_by_default":true,"modules_allow_popup":true,"hide_the_banner":false,"geoip_match":true,"unverified_scripts":[]},"oho_alert":{"store_locally":true,"store_time_active":300,"store_time_inactive":180},"viewsAjaxHistory":{"renderPageItem":0,"initialExposedInput":{"views_dom_id:ed7e5b6aa0ce4777c5bd972b8b5f4f1a637b77c6fa85c6366c7db1ae8a487999":null}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:ed7e5b6aa0ce4777c5bd972b8b5f4f1a637b77c6fa85c6366c7db1ae8a487999":{"view_name":"news_listing","view_display_id":"main_embed","view_args":"","view_path":"\/node\/14","view_base_path":null,"view_dom_id":"ed7e5b6aa0ce4777c5bd972b8b5f4f1a637b77c6fa85c6366c7db1ae8a487999","pager_element":0}}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"blazy":{"loadInvisible":false,"offset":100,"saveViewportOffsetDelay":50,"validateDelay":25,"container":"","loader":true,"unblazy":false,"visibleClass":false},"blazyIo":{"disconnect":false,"rootMargin":"0px","threshold":[0,0.25,0.5,0.75,1]},"better_exposed_filters":{"autosubmit_exclude_textfield":true},"user":{"uid":0,"permissionsHash":"a0bffc3aa243c54a3a1577bdc4ad99310ddcd51b4e404d464f79baff451f24b2"}}</script>
+<script src="/sites/default/files/js/js_gDBHTaVd0LqhvwsaUqZL1noQv1cy-dwMxsmDak1JxDo.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=stlawu&amp;include=eJxtj-EOgzAIhF-oGY_U0IraDaWh6HRPv8ZV98c_3HcXILlAZqSetiyFOt8nrrYALia-LGFK5sL9ykAzKbILjJ8djtk4MpbCqVjzLNg1zMJ7fXBeZZUpFWpOsW_0ppBdFBYNssEJ_6SjHhc2R4uPIq9EVabMCedIcBc6GcUjkxpc5ERxHggGllB7rIneBY75wCduv8BjtLTS1fouPDfrkR9rbdEdmn4BfxOLKQ"></script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=4.0.0"></script>
+<script src="/sites/default/files/js/js_-qbEKPSMSKAjTN2GCRmYkie-3yaNo4hSbHBPc6nokfI.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=stlawu&amp;include=eJxtj-EOgzAIhF-oGY_U0IraDaWh6HRPv8ZV98c_3HcXILlAZqSetiyFOt8nrrYALia-LGFK5sL9ykAzKbILjJ8djtk4MpbCqVjzLNg1zMJ7fXBeZZUpFWpOsW_0ppBdFBYNssEJ_6SjHhc2R4uPIq9EVabMCedIcBc6GcUjkxpc5ERxHggGllB7rIneBY75wCduv8BjtLTS1fouPDfrkR9rbdEdmn4BfxOLKQ"></script>
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js"></script>
+<script src="/sites/default/files/js/js_H3dPZKYoTjt6xxokHX_TK7XsXv1FhmIZR5K2lJrbbbg.js?scope=footer&amp;delta=4&amp;language=en&amp;theme=stlawu&amp;include=eJxtj-EOgzAIhF-oGY_U0IraDaWh6HRPv8ZV98c_3HcXILlAZqSetiyFOt8nrrYALia-LGFK5sL9ykAzKbILjJ8djtk4MpbCqVjzLNg1zMJ7fXBeZZUpFWpOsW_0ppBdFBYNssEJ_6SjHhc2R4uPIq9EVabMCedIcBc6GcUjkxpc5ERxHggGllB7rIneBY75wCduv8BjtLTS1fouPDfrkR9rbdEdmn4BfxOLKQ"></script>
+
+  </body>
+</html>
