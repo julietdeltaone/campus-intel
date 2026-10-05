@@ -1,0 +1,19 @@
+# Clarkson University — news listing baseline
+# Source: http://clarkson.edu/news-events (fetched 2026-10-05; 3 items visible on the listing)
+# Note: listing shows title + date only (no categories). Two of three article URLs
+# resolved via search; the third is marked UNRESOLVED.
+
+1. Title: Clarkson University to Host Graduate Programs Fair for North Country Community
+   Date: Thursday, October 1, 2026
+   Categories: (not shown)
+   URL: https://clarkson.edu/news-events/clarkson-university-host-graduate-programs-fair-north-country-community
+
+2. Title: Clarkson University Supports Power Industry Workforce Needs Through Online Master's Degree in Power Engineering
+   Date: Thursday, October 1, 2026
+   Categories: (not shown)
+   URL: UNRESOLVED
+
+3. Title: Clarkson University Professor Elizabeth Podlaha-Murphy Receives Sustainability Research Award
+   Date: Tuesday, September 29, 2026
+   Categories: (not shown)
+   URL: https://www.clarkson.edu/news-events/clarkson-university-professor-elizabeth-podlaha-murphy-receives-sustainability-research-award
