@@ -1,0 +1,56 @@
+# St. Lawrence University — news listing baseline
+# Source: https://www.stlawu.edu/news (fetched 2026-10-05, unfiltered listing, 10 items visible)
+# Note: per-item article URLs below were resolved where possible; 5 items' URLs could
+# not be resolved without a browser (site search/outlink numbering unreliable) and are
+# marked UNRESOLVED — see the listing URL. Title+date+category are complete for diffing.
+
+1. Title: St. Lawrence University Achieves Historic Fundraising Year with Record $54.8 Million Raised
+   Date: Sep 14, 2026
+   Categories: Laurentian Impact; Making a Difference; University News and Stories; Giving
+   URL: https://www.stlawu.edu/news/st-lawrence-university-achieves-historic-fundraising-year-record-548-million-raised
+
+2. Title: Congratulations to our very own Jaclyn teRiele on receiving The John P. "Jack" Taylor Distinguished Career Service Award 2026
+   Date: Sep 11, 2026
+   Categories: Department News; Biology
+   URL: https://www.stlawu.edu/news/st-lawrence-celebrates-faculty-and-staff-excellence-2026-convocation
+   Note: listing item links out to the convocation write-up, not a standalone article.
+
+3. Title: Become a member of Beta Beta Beta
+   Date: Sep 10, 2026
+   Categories: Department News; Biology; Conservation Biology; Biochemistry
+   URL: UNRESOLVED
+
+4. Title: PCA Announces Griff Starnes-Ennis Artist Residency
+   Date: Sep 10, 2026
+   Categories: Department News; Performance and Communication Arts
+   URL: UNRESOLVED
+
+5. Title: Q&A: Meet Psychology Professor Megs Carpenter
+   Date: Sep 10, 2026
+   Categories: Featured News; Liberal Arts Adventures; University News and Stories; Psychology; Faculty Q&A
+   URL: https://www.stlawu.edu/news/qa-meet-psychology-professor-megs-carpenter
+
+6. Title: University Theatre Announces THE FOUNDRY: a one-act play festival
+   Date: Sep 10, 2026
+   Categories: (none shown on listing)
+   URL: UNRESOLVED
+
+7. Title: El Khoury published two new chapters on AI and Legal Translation
+   Date: Sep 4, 2026
+   Categories: Department News; World Languages
+   URL: https://www.stlawu.edu/news/el-khoury-published-two-new-chapters-ai-and-legal-translation
+
+8. Title: St. Lawrence Celebrates Faculty and Staff Excellence at 2026 Convocation
+   Date: Sep 3, 2026
+   Categories: University News and Stories; Academic Affairs; Psychology; Economics; Financial Aid; Biology; Safety and Security; Varsity Athletics; Faculty News; Staff News
+   URL: https://www.stlawu.edu/news/st-lawrence-celebrates-faculty-and-staff-excellence-2026-convocation
+
+9. Title: Faculty Focus-September 2, 2026
+   Date: Sep 2, 2026
+   Categories: University News and Stories; Digital Media and Film; Public Health; World Languages; Library; History; Education; Political Science; Math; Math, Computer Science and Statistics; Statistics; Economics
+   URL: UNRESOLVED
+
+10. Title: Habib Battah, Assistant Professor of Digital Media & Film Receives National Press Club Award
+    Date: Sep 2, 2026
+    Categories: Department News; Digital Media and Film
+    URL: UNRESOLVED
